@@ -439,7 +439,7 @@ function renderRoute() {
     renderFranchisorReview();
     return;
   }
-  if (hash === "#/directory") {
+  if (hash === "#/" || hash === "#/directory") {
     renderDirectory();
     return;
   }
