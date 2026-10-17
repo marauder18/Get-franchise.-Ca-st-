@@ -459,7 +459,7 @@ function renderHome(scrollToHowItWorks = false) {
     </section>
 
     <section class="home-proof" aria-label="GetFranchise research overview">
-      <div><strong>${publicStats.total}</strong><span>source-backed franchise profiles</span></div>
+      <div><strong>${publicStats.total}</strong><span>published franchise profiles</span></div>
       <div><strong>${categories}</strong><span>categories to explore</span></div>
       <div><strong>${reviewedSources}</strong><span>reviewed source links</span></div>
       <div><strong>${portfolioStats.total}</strong><span>brands in our research universe</span></div>
@@ -567,10 +567,10 @@ function renderDirectory() {
     <section class="hero-band launch-hero">
       <div class="hero-inner">
         <div>
-          <p class="pill-label">Source-backed Canadian franchise research</p>
-          <h1>Compare ${publicStats.total} source-backed franchise profiles.</h1>
+          <p class="pill-label">Canadian franchise research</p>
+          <h1>Compare ${publicStats.total} franchise profiles.</h1>
           <p class="hero-copy">
-            GetFranchise is starting narrow: only profiles that pass the ready-candidate standard are public, while the larger ${portfolioStats.total}-brand portfolio stays in the research queue.
+            The directory includes fully validated profiles and franchises published by the Factory. Every profile retains its source and verification boundary, while the remaining ${backlogCount}-brand portfolio stays in the research queue.
           </p>
           <div class="hero-form">
             <input id="heroSearch" type="search" value="${escapeAttr(state.query)}" placeholder="Search Subway, coffee, senior care..." aria-label="Search franchises" />
@@ -580,12 +580,12 @@ function renderDirectory() {
             <a class="primary-button" href="#/match">Find your franchise match</a>
             <a class="secondary-button hero-secondary" href="#/pricing">View plans &amp; pricing</a>
           </div>
-          <p class="microcopy">Quality over speed: public profiles stay limited until the sources are good enough.</p>
+          <p class="microcopy">Use the verification details on every profile before relying on a cost, fee, or availability claim.</p>
         </div>
         <aside class="at-glance-panel hero-card">
-          <p class="eyebrow">Validated directory</p>
+          <p class="eyebrow">Franchise directory</p>
           <dl>
-            <div><dt>Source-backed profiles</dt><dd>${publicStats.total}</dd></div>
+            <div><dt>Directory profiles</dt><dd>${publicStats.total}</dd></div>
             <div><dt>Categories shown</dt><dd>${publicStats.categories}</dd></div>
             <div><dt>Reviewed source links</dt><dd>${publicStats.sources}</dd></div>
             <div><dt>Research backlog</dt><dd>${backlogCount}</dd></div>
@@ -602,7 +602,7 @@ function renderDirectory() {
       <div class="intro-row">
         <div>
           <p class="eyebrow">Browse</p>
-          <h2>Start with the ready set, then raise the rest to this bar.</h2>
+          <h2>Explore the published directory, then compare the evidence.</h2>
         </div>
         <p>Every card shows the core money fields, contact path, and proof level. Profiles that still need franchisor confirmation say so directly.</p>
       </div>
@@ -610,9 +610,9 @@ function renderDirectory() {
       <div class="quality-roadmap">
         <div>
           <p class="eyebrow">Data posture</p>
-          <strong>Public now: ${readyStats.ready} validated profiles. Private backlog: ${backlogCount} records.</strong>
+          <strong>Directory: ${publicStats.total} profiles. Fully validated: ${readyStats.ready}. Research backlog: ${backlogCount} records.</strong>
         </div>
-        <span>A brand becomes public only after automated checks confirm source depth, official links, fee coverage, evidence grade, Canadian relevance, and cross-border labeling.</span>
+        <span>Fully validated profiles pass the complete readiness check. Factory-published profiles stay clearly marked so you can see where direct confirmation is still needed.</span>
       </div>
 
       <div class="section-switcher" aria-label="Directory sections">
@@ -2047,10 +2047,19 @@ function defaultResearchStage(brand, need) {
 }
 
 function isPublicCandidate(brand) {
-  // `ready_candidate` is generated metadata, not an authorization to show a
-  // profile publicly. Always recompute the evidence gate here so a malformed
-  // import cannot turn an un-sourced research record into a buyer-facing one.
-  return brand.publicProfileStatus.toLowerCase() === "public_ready" && getReadyCandidateValidation(brand).passed;
+  // Factory publication is an explicit directory authorization. Keep the
+  // validation gate for every other record so the research queue remains
+  // private by default.
+  return isFactoryPublished(brand) || (
+    brand.publicProfileStatus.toLowerCase() === "public_ready" &&
+    getReadyCandidateValidation(brand).passed
+  );
+}
+
+function isFactoryPublished(brand) {
+  const reportPath = brand.reportPath.replace(/\\/g, "/").toLowerCase();
+  return brand.researchTrack.toLowerCase() === "factory_evidence_review" ||
+    reportPath.includes("factory/workspace/published/");
 }
 
 function readResearchStatuses() {
@@ -2251,6 +2260,7 @@ function renderCategoryCard(item) {
 }
 
 function dataQualityLabel(brand) {
+  if (isFactoryPublished(brand)) return "Factory published - verify details";
   if (isPublicCandidate(brand)) return "Source-backed";
   if (brand.sourceCount === 0) return "Rebuild required";
   if (brand.officialCount === 0) return "No official source";
@@ -2259,6 +2269,7 @@ function dataQualityLabel(brand) {
 }
 
 function dataQualityClass(brand) {
+  if (isFactoryPublished(brand)) return "warn";
   if (isPublicCandidate(brand)) return "good";
   if (brand.sourceCount === 0 || brand.officialCount === 0) return "risk";
   if (brand.sourceCount < 5) return "warn";
