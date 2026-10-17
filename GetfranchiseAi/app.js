@@ -830,7 +830,6 @@ function renderBrandRow(brand) {
 }
 
 function renderBrandCard(brand) {
-  const contact = contactSummary(brand);
   const proofLabel = dataQualityLabel(brand);
   const coreFees = `${brand.verifiedCoreFeeFields}/5 fees`;
   return `
@@ -839,52 +838,22 @@ function renderBrandCard(brand) {
         ${brandMark(brand)}
         <div>
           <a class="brand-title" href="#/franchises/${brand.id}">${escapeHtml(brand.name)}</a>
-          <span class="brand-meta">${escapeHtml(labelize(brand.category))} / ${escapeHtml(brand.industry)}</span>
+          <div class="card-meta-row">
+            <span class="brand-meta">${escapeHtml(labelize(brand.category))}</span>
+            ${badge(proofLabel, dataQualityClass(brand))}
+          </div>
         </div>
         <button class="icon-button shortlist-toggle" data-id="${brand.id}" title="${shortlistTitle(brand)}" aria-label="${shortlistTitle(brand)}">${state.shortlist.has(brand.id) ? "*" : "+"}</button>
       </div>
 
-      <div class="card-signal-row">
-        <div>
-          <span>Buyer fit</span>
-          <strong>${brand.score === null ? "n/a" : `${brand.score}/100`}</strong>
-        </div>
-        <div>
-          <span>Risk</span>
-          <strong>${escapeHtml(brand.risk)}</strong>
-        </div>
-        <div>
-          <span>Evidence</span>
-          <strong>${escapeHtml(brand.evidenceGrade)}</strong>
-        </div>
-      </div>
-
       <div class="investment-callout">
-        <span>Total investment</span>
+        <span>Starting investment</span>
         <strong>${escapeHtml(preferredInvestmentLabel(brand))}</strong>
       </div>
 
-      <div class="card-money-list">
-        ${compactMoneyRow("Franchise fee", brand.franchiseFee)}
-        ${compactMoneyRow("Royalty", brand.royalty)}
-        ${compactMoneyRow("Marketing", brand.marketing)}
-        ${compactMoneyRow("Liquid capital", brand.liquidCapital)}
-      </div>
-
-      <div class="buyer-fit-row">
-        <span>${escapeHtml(brand.investment)} investment</span>
-        <span>${escapeHtml(coreFees)}</span>
-        <span>${escapeHtml(proofLabel)}</span>
-      </div>
-
-      <div class="contact-summary">
-        <span>Best next step</span>
-        <strong>${escapeHtml(contact)}</strong>
-      </div>
-
       <div class="card-actions">
+        <span>${escapeHtml(coreFees)} verified</span>
         <a class="table-action" href="#/franchises/${brand.id}">View profile</a>
-        ${contactActionHtml(brand, "table-action")}
       </div>
     </article>
   `;

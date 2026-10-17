@@ -1274,6 +1274,22 @@ button:disabled {
   font-size: 0.84rem;
 }
 
+.card-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 8px;
+  align-items: center;
+}
+
+.card-meta-row .brand-meta {
+  min-width: 0;
+}
+
+.card-meta-row .badge {
+  padding: 3px 7px;
+  font-size: 0.67rem;
+}
+
 .card-score-row,
 .card-signal-row {
   display: flex;
