@@ -291,7 +291,26 @@ const state = {
   comparisonFields: readComparisonFields(),
 };
 
+bindInteractionFeedback();
 init();
+
+function bindInteractionFeedback() {
+  document.addEventListener("pointerdown", (event) => {
+    if (!(event.target instanceof Element)) return;
+    const control = event.target.closest(
+      "button:not(:disabled), a.primary-button, a.secondary-button, a.chip-button, a.table-action"
+    );
+    if (!control || control.classList.contains("is-disabled")) return;
+
+    const bounds = control.getBoundingClientRect();
+    const ripple = document.createElement("span");
+    ripple.className = "press-ripple";
+    ripple.style.left = `${event.clientX - bounds.left}px`;
+    ripple.style.top = `${event.clientY - bounds.top}px`;
+    control.append(ripple);
+    ripple.addEventListener("animationend", () => ripple.remove(), { once: true });
+  });
+}
 
 async function init() {
   try {

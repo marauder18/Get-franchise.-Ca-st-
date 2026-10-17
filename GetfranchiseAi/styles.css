@@ -52,6 +52,51 @@ a {
   touch-action: manipulation;
 }
 
+button,
+.primary-button,
+.secondary-button,
+.chip-button,
+.table-action {
+  position: relative;
+  overflow: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button:not(:disabled):active,
+.primary-button:not(.is-disabled):active,
+.secondary-button:not(.is-disabled):active,
+.chip-button:not(.is-disabled):active,
+.table-action:not(.is-disabled):active {
+  transform: translateY(1px) scale(0.98);
+  box-shadow: none;
+}
+
+.press-ripple {
+  position: absolute;
+  z-index: 2;
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  pointer-events: none;
+  background: currentColor;
+  opacity: 0.16;
+  transform: translate(-50%, -50%) scale(0);
+  animation: press-ripple 520ms ease-out forwards;
+}
+
+@keyframes press-ripple {
+  to {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(18);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .press-ripple {
+    display: none;
+  }
+}
+
 a {
   color: inherit;
 }
