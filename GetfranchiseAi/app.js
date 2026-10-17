@@ -264,6 +264,7 @@ const LOGO_DOMAINS = {
 
 const app = document.querySelector("#app");
 const navShortlistCount = document.querySelector("#navShortlistCount");
+const primaryNavLinks = [...document.querySelectorAll(".top-nav a")];
 
 const state = {
   allBrands: [],
@@ -298,7 +299,7 @@ function bindInteractionFeedback() {
   document.addEventListener("pointerdown", (event) => {
     if (!(event.target instanceof Element)) return;
     const control = event.target.closest(
-      "button:not(:disabled), a.primary-button, a.secondary-button, a.chip-button, a.table-action"
+      "button:not(:disabled), a.primary-button, a.secondary-button, a.chip-button, a.table-action, .top-nav a"
     );
     if (!control || control.classList.contains("is-disabled")) return;
 
@@ -409,6 +410,7 @@ function deriveSubcategory(reportPath) {
 function renderRoute() {
   updateShortlistCount();
   const hash = window.location.hash || "#/";
+  updateActiveNavigation(hash);
   if (hash.startsWith("#/franchises/")) {
     renderProfile(hash.replace("#/franchises/", ""));
     return;
@@ -442,6 +444,16 @@ function renderRoute() {
     return;
   }
   renderHome(hash === "#/how-it-works");
+}
+
+function updateActiveNavigation(hash) {
+  const activePath = hash.startsWith("#/franchises/") ? "#/directory" : hash;
+  primaryNavLinks.forEach((link) => {
+    const isActive = link.getAttribute("href") === activePath;
+    link.classList.toggle("is-active", isActive);
+    if (isActive) link.setAttribute("aria-current", "page");
+    else link.removeAttribute("aria-current");
+  });
 }
 
 function renderHome(scrollToHowItWorks = false) {

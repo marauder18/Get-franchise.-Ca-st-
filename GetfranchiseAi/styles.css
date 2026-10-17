@@ -56,7 +56,8 @@ button,
 .primary-button,
 .secondary-button,
 .chip-button,
-.table-action {
+.table-action,
+.top-nav a {
   position: relative;
   overflow: hidden;
   -webkit-tap-highlight-color: transparent;
@@ -214,6 +215,12 @@ a {
 .clear-link:hover {
   background: var(--faint);
   color: var(--ink);
+}
+
+.top-nav a.is-active,
+.top-nav a:active {
+  background: var(--green-bg);
+  color: var(--brand);
 }
 
 .top-nav span {
