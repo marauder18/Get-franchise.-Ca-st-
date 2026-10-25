@@ -579,7 +579,7 @@ function renderHome(scrollTarget = "") {
           <div class="stage-head"><span class="stage-index">02</span><span class="stage-state">Now loading</span></div>
           <h3>Reach 500 franchises &amp; 100 subscribers</h3>
           <p>Expand the verified directory while turning early interest into a useful subscription experience.</p>
-          <div class="stage-progress"><span>Validated franchise research</span><strong>43 / 500</strong><div class="loading-track is-loading" role="progressbar" aria-label="Validated franchise research progress" aria-valuemin="0" aria-valuemax="500" aria-valuenow="43"><i style="--progress: 8.6%"></i></div><small>Subscription goal: 100 active members · billing is not live yet.</small></div>
+          <div class="stage-progress"><span>Validated franchise research</span><strong>31 / 500</strong><div class="loading-track is-loading" role="progressbar" aria-label="Validated franchise research progress" aria-valuemin="0" aria-valuemax="500" aria-valuenow="31"><i style="--progress: 6.2%"></i></div><small>Subscription goal: 100 active members · billing is not live yet.</small></div>
         </article>
         <article class="roadmap-stage is-queued">
           <div class="stage-head"><span class="stage-index">03</span><span class="stage-state">Queued</span></div>
