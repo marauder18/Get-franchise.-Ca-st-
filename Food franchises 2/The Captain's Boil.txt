@@ -1,0 +1,411 @@
+THE CAPTAIN'S BOIL
+
+1. SUMMARY
+Generic Screening Score: 58/100
+Investor-Grade Score: N/A
+Investor-Grade Status: Not investment-ready / requires franchisor confirmation
+Franchisor Confirmation: None confirmed. All figures must be confirmed directly by the franchisor before investment use.
+Risk Level: High
+Growth Outlook: Neutral
+Investment Tier: Estimated / requires verification
+Investment Goal Fit: 45/100 against less than $320,000 CAD
+Confidence Level: Medium-Low
+
+Important note: This is a clean screening report, not a final investment recommendation. Source-backed information has been added where available, but no record is marked franchisor-confirmed.
+
+2. COMPANY PROFILE
+- Founded: Not Verified
+- HQ: Not Verified
+- Canadian Owned: Not Verified
+- Industry: Restaurant / food-service franchise candidate
+- Cuisine: Casual dining, grill, pub, family restaurant
+- Franchising in Canada: Not Verified
+- Franchising Internationally: Not Verified
+- Total Canadian Units: Canadian footprint present; exact current count not verified in this seed file
+- Total International Units: Not Verified
+- Systemwide Revenue: Not Verified
+- Average Unit Revenue: Not Verified
+- Openings 12mo: Not Verified
+- Closures 12mo: Not Verified
+- Net Growth %: Estimated (industry benchmark): stable to selective growth
+- 3-Year Unit Trend: Not Verified
+
+3. MONEY AND UNIT ECONOMICS
+- Total Investment Range: Estimated (industry benchmark): high six figures to multi-million CAD casual dining buildout (20% confidence)
+- Franchise Fee: Estimated (industry benchmark) (20% confidence)
+- Royalty %: Estimated (industry benchmark) (20% confidence)
+- Marketing Fund %: Estimated (industry benchmark) (20% confidence)
+- Technology Fee: Not Verified (20% confidence)
+- Training Fee: Not Verified (20% confidence)
+- Renewal Fee: Not Verified (20% confidence)
+- Transfer Fee: Not Verified (20% confidence)
+- Other Mandatory Fees: Not Verified (20% confidence)
+- Average Unit Revenue: Not Verified (20% confidence)
+- Item 19 Avg Revenue: Not Verified (20% confidence)
+- Item 19 Gross Profit: Not Verified (20% confidence)
+- Item 19 Net Profit: Not Verified (20% confidence)
+- Payback: Not Verified (20% confidence)
+- Profit Margin: Estimated (industry benchmark): 6-14% store-level EBITDA range for mature casual dining units (20% confidence)
+- Min Net Worth: Not Verified (20% confidence)
+- Min Liquid Capital: Not Verified (20% confidence)
+- Term Length: Not Verified (20% confidence)
+- Territory Protection: Not Verified (20% confidence)
+- Franchisor Financing: Not Verified (20% confidence)
+
+Financial Model Status
+- Conservative case: Not model-ready; uses no investment scoring until Canadian sales, rent, labour, and food-cost data are verified.
+- Base case: Generic screening assumes Estimated (industry benchmark): 6-14% store-level EBITDA range for mature casual dining units; this is excluded from investor-grade scoring unless sourced.
+- Upside case: Requires verified AUV, site-specific rent, local wage assumptions, and mature-store margin support.
+- Break-even sales: Not Verified; calculate after rent, royalty, marketing, labour, food cost, debt service, and manager salary are known.
+- EBITDA estimate: Not Verified for investor scoring.
+- Payback: Not Verified; excluded unless supported by Canadian disclosure or franchisee P&L.
+- Sensitivity tests required: rent +10%, wage +10%, food cost +300 bps, sales -10%, sales -20%, delivery commission mix shift.
+
+Capital Fit for Young Entrepreneurs
+- Minimum liquid capital: Not Verified
+- Investment tier: Estimated / requires verification
+- Working-capital buffer: Not Verified; request franchisor guidance and lender stress test.
+- Affordability tier cannot be trusted until CAD investment and liquidity requirements are verified.
+
+Investment Goal Fit
+- Target investment goal: less than $320,000 CAD
+- Reported investment range: Estimated (industry benchmark): high six figures to multi-million CAD casual dining buildout
+- Goal Fit Score: 45/100
+- Fit decision: Cannot verify fit. The score is capped because the investment amount is estimated or missing.
+- Score impact: Lowers the screening score until exact CAD investment and working-capital requirements are confirmed.
+
+4. LOCATIONS AND MARKET
+Locations by Province:
+- BC: Not Verified
+- Alberta: Not Verified
+- SK: Not Verified
+- MB: Not Verified
+- Ontario: Not Verified
+- Quebec: Not Verified
+- NB: Not Verified
+- NS: Not Verified
+- PE: Not Verified
+- NL: Not Verified
+
+Province Ranking:
+1. BC: Not Verified
+2. Alberta: Not Verified
+3. SK: Not Verified
+4. MB: Not Verified
+5. Ontario: Not Verified
+6. Quebec: Not Verified
+7. NB: Not Verified
+8. NS: Not Verified
+9. PE: Not Verified
+10. NL: Not Verified
+
+Main competitors: Recipe Unlimited brands, local casual restaurants, sports bars
+Market saturation: Not Verified
+Differentiation: Brand/category positioning requires verification against local trade area competitors.
+Threat level: Medium
+
+Local Market Fit
+- Target city score: N/A until a specific city or trade area is provided.
+- Required checks: demographics, traffic generators, competition density, delivery radius, rent pressure, reviews, parking/access, and cannibalization.
+- Current saturation signal: Not Verified
+
+5. CUSTOMER AND FRANCHISEE SIGNALS
+Google Rating: Not verified / requires Google Places API
+Review Volume: Not verified / requires Google Places API
+Customer Sentiment Trend: Not Verified
+Insight Summary: Current customer truth requires Google Places ingestion and market-level review analysis.
+
+Top Praises:
+- Recognizable QSR category with repeat-purchase potential
+- Standardized menu and operating model can support multi-unit execution
+- Canadian market comparability supports side-by-side screening
+
+Top Complaints:
+- Official Canadian economics not loaded
+- Store-level returns depend heavily on site selection, labour, rent, food cost, and local competition
+- Franchisee satisfaction and closure data remain unverified
+
+Franchisee Satisfaction: Not Verified
+Training Quality: Standardized system expected; exact training duration and franchisee-rated quality not verified
+Support Quality: Not Verified
+Operational Difficulty: Moderate to high; labour scheduling, throughput, food cost, and local management quality matter
+Litigation History 5yr: Not Verified
+
+6. SCREENING SCORE
+Generic Screening Score: 58/100
+This score is for comparison only. It is not franchisor-confirmed and is not an investment recommendation.
+Important scoring inputs include founded year, headquarters, Canadian ownership, industry, cuisine/category, Canadian franchise availability, initial investment, franchise fee, royalty, and marketing fee.
+
+Factor Breakdown
+
+Investment: 55/100
+  Value: Estimated (industry benchmark): high six figures to multi-million CAD casual dining buildout
+  Goal: Affordable entry cost
+  Note: Investment score rewards lower entry cost. Estimated or unverified investment data is capped until official franchise terms are loaded.
+
+Investment Goal Fit: 45/100
+  Value: Estimated (industry benchmark): high six figures to multi-million CAD casual dining buildout
+  Goal: Target investment less than $320,000 CAD
+  Note: Goal fit compares the required investment with the maximum target of less than $320,000 CAD. Costs above the target lower the screening score; unverified costs are capped.
+
+Payback: 70/100
+  Value: Estimated (industry benchmark): 5-8 years
+  Goal: 3-5 years
+  Note: Payback aligns best when the expected range lands near the 3-5 year target.
+
+Profit Margin: 65/100
+  Value: Estimated (industry benchmark): 6-14% store-level EBITDA range for mature casual dining units
+  Goal: Strong (10-20%+ typical QSR range)
+  Note: Margin score compares available or benchmarked store-level profitability against the 10-20%+ QSR target range.
+
+Scalability: 52/100
+  Value: Canadian footprint present; exact current count not verified in this seed file
+  Goal: Multi-unit ownership possible
+  Note: Scalability is inferred from system maturity, national footprint, and operational complexity.
+
+Hours: 68/100
+  Value: Moderate to high; labour scheduling, throughput, food cost, and local management quality matter
+  Goal: Manager-run possible (not owner-dependent)
+  Note: Manager-run potential declines when the model is highly labour-intensive, late-hour, or execution-heavy.
+
+Industry Strength: 76/100
+  Value: Estimated (industry benchmark): stable to selective growth
+  Goal: Growing or stable QSR industry
+  Note: QSR brands score higher when signals indicate stable or positive unit economics and demand.
+
+Recurring Revenue: 65/100
+  Value: Casual dining, grill, pub, family restaurant
+  Goal: High repeat customer frequency
+  Note: Repeat-frequency categories such as coffee, breakfast, burgers, and pizza score well because customers buy often.
+
+Franchisor Support: 55/100
+  Value: Not Verified
+  Goal: Strong training + operational support
+  Note: Support score reflects training maturity, operating systems, and the stated strength of franchisor support signals.
+
+Franchisee Satisfaction: 55/100
+  Value: Not Verified
+  Goal: High satisfaction
+  Note: Unverified franchisee satisfaction is conservatively capped until survey, disclosure, or verified interview data exists.
+
+Exit Value: 62/100
+  Value: Not Verified
+  Goal: Strong resale value (2-4x cash flow benchmark)
+  Note: Exit value favors strong resale demand, mature brand recognition, and cash-flow transferability; saturation lowers the score.
+
+Territory Protection: 50/100
+  Value: Not Verified
+  Goal: Protected territory or clear market rights
+  Note: Territory score rewards verified protected areas, exclusivity, or clear market rights.
+
+Training Quality: 65/100
+  Value: Standardized system expected; exact training duration and franchisee-rated quality not verified
+  Goal: Documented, practical initial and ongoing training
+  Note: Training score rewards verified duration, format, field support, and franchisee-rated quality.
+
+Brand Maturity: 45/100
+  Value: Not Verified
+  Goal: Established operating history
+  Note: Brand maturity uses the founded year to reward longer operating history and proven consumer awareness.
+
+Canadian Market Fit: 49/100
+  Value: Not Verified; Canadian owned: Not Verified
+  Goal: Canadian HQ, ownership, or clear Canadian operating presence
+  Note: Canadian fit scores headquarters, ownership, and local operating relevance because Canada-specific execution matters.
+
+Franchise Availability: 10/100
+  Value: Not Verified
+  Goal: Franchising available in Canada
+  Note: Franchise availability matters because unavailable or unclear franchise programs are not actionable opportunities.
+
+Financial Terms Completeness: 52/100
+  Value: Initial investment, franchise fee, royalty, and marketing fee
+  Goal: Investment, franchise fee, royalty, and marketing fee identified
+  Note: Completeness rewards having the four core franchise-cost fields identified, while estimated terms are capped until confirmed.
+
+AI Score Signals
+- Investment Score: 55/100 - 55/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Investment Goal Fit: 45/100 - 45/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Growth Score: 76/100 - 76/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Risk Score: 66/100 - 66/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Brand Strength: 65/100 - 65/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Canadian Fit: 49/100 - 49/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Franchise Availability: 10/100 - 10/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Financial Terms Completeness: 52/100 - 52/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Franchisee Satisfaction: 55/100 - 55/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Customer Satisfaction: 60/100 - 60/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Expansion Score: 52/100 - 52/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Profit Potential: 65/100 - 65/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Support Quality: 55/100 - 55/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Resale Value: 62/100 - 62/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+
+Tags
+- Performance
+
+7. RISKS AND FIT
+Strengths:
+- Strong repeat-purchase potential from QSR demand patterns
+- Recognizable brand signals reduce customer-discovery risk
+- Standardized franchisor systems support multi-location execution when operators are capable
+
+Weaknesses:
+- Several key figures still need direct franchisor confirmation
+- Labour, rent, food cost, and local competition can materially change store-level returns
+- Mature markets may limit whitespace and increase cannibalization risk
+
+Opportunities:
+- Verify official economics and identify underserved provinces before expansion decisions
+
+Threats:
+- Unverified economics, saturation, labour costs, rent, and local competition can materially reduce returns
+
+Red Flags:
+- No Canadian disclosure document loaded
+- No verified Canadian unit economics loaded
+- No franchisee interview log loaded
+
+Yellow Flags:
+- Generic estimates are present for screening only
+- Province footprint is directional and not a verified live count
+
+Green Flags:
+- Food/QSR concept comparable to the current database
+- Brand/category has repeat-purchase potential
+
+8. EVIDENCE STATUS
+Franchisor Confirmation: None confirmed.
+Investor-Grade Score: N/A.
+Reason: the database still needs direct franchisor confirmation plus Canadian disclosure, Canadian signing entity, CAD fee confirmation, Canadian unit economics, closure/transfer/renewal data, franchisee interviews, and local market checks.
+
+Evidence Gates
+- Canadian disclosure package obtained: FAIL
+- Exact Canadian signing entity confirmed: FAIL
+- CAD investment and recurring fees verified: FAIL
+- Canadian AUV, EBITDA, or comparable P&L verified: FAIL
+- Closure, transfer, resale, and renewal data verified: FAIL
+- Current/former franchisee interviews completed: FAIL
+- Target-market review, competition, lease, and demographic checks completed: FAIL
+
+Missing Evidence Impact
+- Initial investment: not reliable for investment scoring until confirmed
+- Franchise fee: not reliable for investment scoring until confirmed
+- Royalty: not reliable for investment scoring until confirmed
+- Marketing fee: not reliable for investment scoring until confirmed
+- Average unit revenue: not reliable for investment scoring until confirmed
+- Profit margin / EBITDA: not reliable for investment scoring until confirmed
+- Closure trend: not reliable for investment scoring until confirmed
+- Transfer / renewal terms: not reliable for investment scoring until confirmed
+- Franchisee satisfaction: not reliable for investment scoring until confirmed
+
+Document Request Checklist
+- Canadian disclosure document and all exhibits
+- Exact Canadian franchisor/signing entity and affiliates
+- Franchise agreement, lease rider, personal guarantee, renewal and transfer terms
+- Current CAD investment range and required working capital
+- Royalty, ad fund, technology, training, renewal, transfer, supplier, audit, and local marketing fees
+- Canadian AUV, store-level P&L support, closure/transfer/resale history, and litigation history
+- Territory map, non-traditional venue rules, delivery marketplace rules, and encroachment protections
+
+9. SOURCES
+Total Source Count: 0
+
+Source Reliability Guide
+- FDD / legal document: 95-100
+- Official franchise/company website: 85-95
+- CFA / FRANdata / franchise database: 80-90
+- Franchise Genius / FranDB / GetFDD / ClearlyFDD: 80-90
+- Government source: 90-95
+- Established news outlet: 70-85
+- Industry report: 75-85
+- Google Maps / Places API: 80-90
+- Glassdoor / Indeed aggregate: 50-70
+- Forum / Reddit aggregate: 30-50
+- Individual social post: 10-30
+
+Source-Backed Evidence Loaded
+No source-backed evidence loaded yet.
+
+Evidence Source URLs:
+- Not verified / not available
+
+Research Notes:
+- The Captain's Boil was added as an expansion target for Canadian food/QSR comparison.
+- All economics are placeholders or industry-screening estimates until official Canadian franchise documents and verified field evidence are loaded.
+
+Critical Gaps:
+- Canadian disclosure package
+- Exact Canadian signing entity
+- CAD investment and recurring fees
+- Canadian AUV, EBITDA, or comparable P&L
+- Closure, transfer, resale, renewal, and litigation data
+- Current/former franchisee interviews
+- Target-market lease, competition, demographic, and delivery-radius checks
+
+Do Not Use For Investment Scoring:
+- U.S. FDD data unless independently reconciled to the Canadian franchise offer
+- Generic QSR estimates and industry benchmarks
+- Old or unsourced location counts
+- Wikipedia/background facts
+- Unsourced sentiment, review anecdotes, forum posts, and social media claims
+- profile.founded: Not Verified
+- profile.headquarters: Not Verified
+- profile.canadian_owned: Not Verified
+- profile.industry: Restaurant / food-service franchise candidate
+- profile.cuisine_type: Casual dining, grill, pub, family restaurant
+- profile.franchise_available: Not Verified
+- profile.franchising_internationally: Not Verified
+- financials.initial_investment: Estimated (industry benchmark): high six figures to multi-million CAD casual dining buildout
+- financials.franchise_fee: Estimated (industry benchmark)
+- financials.royalty: Estimated (industry benchmark)
+
+Fields Rejected Due To Evidence Rules: 61
+
+10. PROFESSIONAL RESEARCH LAYER (2026-07-18)
+Research Pass Date: July 18, 2026
+Portfolio Source-Depth Rank: 201/224
+Brand-Specific Source Count Before This Pass: 0
+Evidence Grade: F
+Current Decision Posture: Screening only; do not underwrite until a current Canadian disclosure package and direct franchisor economics are obtained.
+
+Professional Assessment
+- Positioning: THE CAPTAIN'S BOIL is presented as a Not Verified-founded brand in the casual dining, grill, pub, family restaurant category with a current report growth outlook of neutral.
+- Evidence view: This file had no brand-specific source pack before this pass. Treat every economic conclusion as unproven until the franchisor package and direct operating evidence are loaded.
+- Category context: Canadian full-service restaurant sales reached $43.6 billion in 2025, up 5.8% from 2024. That supports the category, but table turns, manager depth and labour scheduling remain decisive underwriting variables.
+- Market conditions: Statistics Canada reported food purchased from restaurants was up 3.0% year over year in April 2026, while accommodation and food services payroll employment fell in March 2026 before broader sector employment rose by 17,000 in May 2026. In practice, that means pricing power and staffing conditions are still uneven.
+- Saturation / whitespace: Current whitespace cannot be trusted from this file alone; province count, non-traditional formats and territory protection all need direct confirmation.
+- Ownership / entity view: Cross-border caution applies here. Reconcile U.S. disclosures, USD figures, entity structure and any Canadian master-franchise arrangement before using the numbers in a Canadian model.
+- Confidence discipline: Current file confidence is Medium-Low. That is directionally appropriate given the source depth, the number of rejected fields and the absence of direct franchisee interview evidence.
+
+Canadian Franchise-Law Context
+- As of June 30, 2026, Saskatchewan became the seventh Canadian province with franchise disclosure legislation, joining British Columbia, Alberta, Manitoba, Ontario, New Brunswick and Prince Edward Island.
+- Ontario guidance and the British Columbia Franchises Act both reinforce the 14-day disclosure review principle before signing or payment; use that timing discipline across this portfolio even when a brand sells through a cross-border structure.
+- This file should not be promoted beyond screening until the exact province-specific legal package and signing entity are identified.
+
+Most Material Unknowns
+- Canadian disclosure package
+- Exact Canadian signing entity
+- CAD investment and recurring fees
+- Canadian AUV, EBITDA, or comparable P&L
+- Closure, transfer, resale, renewal, and litigation data
+
+Advancement Requirements
+- Obtain the current Canadian disclosure package or equivalent, including all schedules and amendments.
+- Confirm the exact signing entity, province coverage, governing law and whether any Canadian master-franchise or area-development structure sits between the brand and the operator.
+- Verify current initial investment, working capital, royalties, ad fund, technology, transfer, renewal and refurbishment obligations.
+- Get at least three comparable unit P&Ls or a Canadian earnings-support package before modeling payback.
+- Validate the trade area with lease terms, competitor density, parking/access, delivery radius, review signals and local labour assumptions.
+
+11. PORTFOLIO CONTEXT SOURCES (2026-07-18)
+These sources were used to raise the professional context level of this file. They do not replace brand-specific franchisor documents.
+- Statistics Canada: food services and drinking places, April 2026 | https://www150.statcan.gc.ca/n1/daily-quotidien/260629/dq260629c-eng.htm
+- Statistics Canada: food services and drinking places, December 2025 / annual 2025 section | https://www150.statcan.gc.ca/n1/daily-quotidien/260225/dq260225d-eng.htm
+- Statistics Canada: food services and drinking places, annual 2024 | https://www150.statcan.gc.ca/n1/daily-quotidien/260309/dq260309a-eng.htm
+- Statistics Canada: payroll employment, earnings and job vacancies, March 2026 | https://www150.statcan.gc.ca/n1/daily-quotidien/260528/dq260528b-eng.htm
+- Statistics Canada: Labour Force Survey, May 2026 | https://www150.statcan.gc.ca/n1/daily-quotidien/260605/dq260605a-eng.htm
+- Ontario: franchising information for buyers and owners | https://www.ontario.ca/page/franchising-information-buyers-and-owners
+- British Columbia: Franchises Act | https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15035
+- Manitoba: The Franchises Act | https://web2.gov.mb.ca/laws/statutes/ccsm/f156.php?lang=en
+- New Brunswick: Franchises Act | https://laws.gnb.ca/en/document/cs/2014%2C%20c.111
+- Prince Edward Island: Franchises Act | https://www.princeedwardisland.ca/en/legislation/franchises-act
+- Canadian Franchise Association: franchise disclosure legislation across Canada | https://cfa.ca/advocacy/franchise-disclosure-leg/
+- Canadian Franchise Association: Saskatchewan effective June 30, 2026 | https://cfa.ca/saskatchewan-enacts-franchise-disclosure-legislation-effective-june-30-2026/
