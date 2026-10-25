@@ -1,0 +1,1 @@
+OFFLINE ONLY. Station 1 reads an existing local report and extracts only its source-ledger values. No model, API, browser, or network operation is permitted.

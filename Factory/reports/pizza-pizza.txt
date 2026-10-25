@@ -1,0 +1,386 @@
+PIZZA PIZZA
+
+1. SUMMARY
+Generic Screening Score: 68/100
+Investor-Grade Score: N/A
+Investor-Grade Status: Not investment-ready / requires franchisor confirmation
+Franchisor Confirmation: None confirmed. All figures must be confirmed directly by the franchisor before investment use.
+Risk Level: Medium
+Growth Outlook: Neutral
+Investment Tier: Medium
+Investment Goal Fit: 30/100 against less than $320,000 CAD
+Confidence Level: Medium-Low
+
+Important note: This is a clean screening report, not a final investment recommendation. Source-backed information has been added where available, but no record is marked franchisor-confirmed.
+
+2. COMPANY PROFILE
+- Founded: 1967
+- HQ: Pizza Pizza Limited, 500 Kipling Avenue, Toronto, Ontario M8Z 5E5
+- Canadian Owned: Yes - company states it has always been 100% Canadian
+- Industry: Quick-service restaurant
+- Category / Service: Pizza, wings, sides
+- Franchising in Canada: Yes - national franchising program inviting applicants from across Canada
+- Franchising Internationally: Not Verified
+- Total Canadian Units: More than 750 restaurants across Canada per About Us; franchising landing page says over 800 locations; Franchising Basics intro says over 720 locations. Official public counts differ by page and capture date - treat as directional until the franchisor confirms a current count.
+- Total International Units: Not Verified
+- Systemwide Revenue: Screening reference (not verified for investor scoring): $547.6 million Pizza Pizza Royalty Pool system sales in 2025; $635.5 million combined Pizza Pizza + Pizza 73 Royalty Pool sales
+- Average Unit Revenue: Not Verified
+- Openings 12mo: Not verified / not available
+- Closures 12mo: Not verified / not available
+- Net Growth %: Not Verified - current opening/closure counts are not published; request franchisor data.
+- 3-Year Unit Trend: Not Verified
+
+3. MONEY AND UNIT ECONOMICS
+- Total Investment Range: Expected total investment between $380,000 and $550,000 depending on the opportunity (official franchising basics page) (95% confidence)
+- Franchise Fee: $35,000 (95% confidence)
+- Royalty %: 6% of net sales (90% confidence)
+- Marketing Fund %: 6% of net sales (90% confidence)
+- Technology Fee: Not Verified (20% confidence)
+- Training Fee: Not Verified (20% confidence)
+- Renewal Fee: Not Verified (20% confidence)
+- Transfer Fee: Not Verified (20% confidence)
+- Other Mandatory Fees: Not Verified (20% confidence)
+- Average Unit Revenue: Not Verified (20% confidence)
+- Item 19 Avg Revenue: Not Verified (20% confidence)
+- Item 19 Gross Profit: Not Verified (20% confidence)
+- Item 19 Net Profit: Not Verified (20% confidence)
+- Payback: Estimated (industry benchmark): 3-6 years (20% confidence)
+- Profit Margin: Estimated (industry benchmark): 10-18% store-level EBITDA range for mature QSR units (20% confidence)
+- Min Net Worth: Minimum $250,000 net worth (preliminary franchise checklist) (92% confidence)
+- Min Liquid Capital: Minimum 30% of the Total Investment as unencumbered cash; at least $150,000. A credit score of 730 or more with no past bankruptcies is also required. (95% confidence)
+- Term Length: Not Verified (20% confidence)
+- Territory Protection: Not Verified (20% confidence)
+- Franchisor Financing: No franchisor financing published; applicants need cash or financing from a financial institution to purchase the franchise (88% confidence)
+
+Financial Model Status
+- Conservative case: Not model-ready; uses no investment scoring until Canadian sales, occupancy, payroll, and direct-cost data are verified.
+- Base case: Generic screening assumes Estimated (industry benchmark): 10-18% store-level EBITDA range for mature QSR units; this is excluded from investor-grade scoring unless sourced.
+- Upside case: Requires verified AUV, site-specific occupancy cost, local wage assumptions, and mature-unit margin support.
+- Break-even sales: Not Verified; calculate after rent, royalty, marketing, labour, food cost, debt service, and manager salary are known.
+- EBITDA estimate: Not Verified for investor scoring.
+- Payback: Estimated (industry benchmark): 3-6 years; excluded unless supported by Canadian disclosure or franchisee P&L.
+- Sensitivity tests required: rent +10%, wage +10%, food cost +300 bps, sales -10%, sales -20%, delivery commission mix shift.
+
+Capital Fit for Young Entrepreneurs
+- Minimum liquid capital: Minimum 30% of the Total Investment as unencumbered cash; at least $150,000. A credit score of 730 or more with no past bankruptcies is also required.
+- Investment tier: Medium
+- Working-capital buffer: Not Verified; request franchisor guidance and lender stress test.
+- Moderate capital barrier; young operators likely need lender support and a conservative cash buffer.
+
+Investment Goal Fit
+- Target investment goal: less than $320,000 CAD
+- Reported investment range: Expected total investment between $380,000 and $550,000 depending on the opportunity (official franchising basics page)
+- Goal Fit Score: 30/100
+- Range parsed for scoring: $380,000 CAD to $550,000 CAD
+- Fit decision: Does not fit budget. The reported range is above target by at least $60,000 CAD and up to $230,000 CAD.
+- Value test: Prefer franchises under the target unless verified EBITDA, payback, resale value, and financing terms justify paying more.
+
+4. LOCATIONS AND MARKET
+Locations by Province:
+- BC: Medium
+- Alberta: Medium
+- SK: Not Verified
+- MB: Not Verified
+- Ontario: Very high
+- Quebec: Low to medium
+- NB: Not Verified
+- NS: Not Verified
+- PE: Not Verified
+- NL: Not Verified
+
+Province Ranking:
+1. Ontario: Very high
+2. BC: Medium
+3. Alberta: Medium
+4. Quebec: Low to medium
+5. SK: Not Verified
+6. MB: Not Verified
+7. NB: Not Verified
+8. NS: Not Verified
+9. PE: Not Verified
+10. NL: Not Verified
+
+Main competitors: Domino's, Pizza Hut, Little Caesars, Papa Johns, local pizzerias
+Market saturation: High in Ontario and urban markets
+Differentiation: Canadian brand awareness, value positioning, late-night and delivery relevance
+Threat level: Medium to high
+
+Local Market Fit
+- Target city score: N/A until a specific city or trade area is provided.
+- Required checks: demographics, traffic generators, competition density, service radius or territory overlap, occupancy pressure, reviews, parking/access, and cannibalization.
+- Current saturation signal: High in Ontario and urban markets
+
+5. CUSTOMER AND FRANCHISEE SIGNALS
+Google Rating: Not verified / requires Google Places API
+Review Volume: Not verified / requires Google Places API
+Customer Sentiment Trend: Stable
+Insight Summary: Aggregated pizza-chain signals usually show strong convenience and value demand, with store-level execution and delivery reliability shaping customer scores.
+
+Top Praises:
+- Strong Ontario brand recognition
+- Value-driven pizza positioning
+- High repeat and delivery frequency
+- Company states it was named Canada's #1 franchise in the Elite Franchise Canada Top 100 (company-claimed ranking; independent confirmation pending)
+
+Top Complaints:
+- Highly competitive pizza market
+- Delivery operations can add complexity
+- Customer experience varies by location
+
+Franchisee Satisfaction: Estimated (industry benchmark)
+Training Quality: Comprehensive 8-10 week training program covering food prep, business management, HR and more, plus ongoing professional development seminars and courses
+Support Quality: Turnkey store setup with the company design/construction team managing store design and construction; help finding locations, negotiating leases, and handling municipal regulations/licensing; ongoing guidance after opening
+Operational Difficulty: Moderate; delivery, late hours, staffing, and local marketing matter
+Litigation History 5yr: Not Verified
+
+6. SCREENING SCORE
+Generic Screening Score: 68/100
+This score is for comparison only. It is not franchisor-confirmed and is not an investment recommendation.
+Important scoring inputs include founded year, headquarters, Canadian ownership, industry, category/service line, Canadian franchise availability, initial investment, franchise fee, royalty, and marketing fee.
+
+Factor Breakdown
+
+Investment: 75/100
+  Value: Expected total investment between $380,000 and $550,000 depending on the opportunity (official franchising basics page)
+  Goal: Affordable entry cost
+  Note: Investment score rewards lower entry cost. Estimated or unverified investment data is capped until official franchise terms are loaded.
+
+Investment Goal Fit: 30/100
+  Value: Expected total investment between $380,000 and $550,000 depending on the opportunity (official franchising basics page)
+  Goal: Target investment less than $320,000 CAD
+  Note: Goal fit compares the required investment with the maximum target of less than $320,000 CAD. Costs above the target lower the screening score; unverified costs are capped.
+
+Payback: 90/100
+  Value: Estimated (industry benchmark): 3-6 years
+  Goal: 3-5 years
+  Note: Payback aligns best when the expected range lands near the 3-5 year target.
+
+Profit Margin: 78/100
+  Value: Estimated (industry benchmark): 10-18% store-level EBITDA range for mature QSR units
+  Goal: Strong unit economics
+  Note: Margin score compares available or benchmarked unit-level profitability against the target return profile for this screening model.
+
+Scalability: 60/100
+  Value: More than 750 restaurants across Canada per About Us; franchising landing page says over 800 locations; Franchising Basics intro says over 720 locations. Official public counts differ by page and capture date - treat as directional until the franchisor confirms a current count.
+  Goal: Multi-unit ownership possible
+  Note: Scalability is inferred from system maturity, national footprint, and operational complexity.
+
+Hours: 68/100
+  Value: Moderate; delivery, late hours, staffing, and local marketing matter
+  Goal: Manager-run possible (not owner-dependent)
+  Note: Manager-run potential declines when the model is highly labour-intensive, late-hour, or execution-heavy.
+
+Industry Strength: 60/100
+  Value: Not Verified - current opening/closure counts are not published; request franchisor data.
+  Goal: Growing or stable category
+  Note: Category strength scores better when available signals indicate stable or positive demand and unit economics.
+
+Recurring Revenue: 78/100
+  Value: Pizza, wings, sides
+  Goal: High repeat, membership, contract, or referral frequency
+  Note: Recurring revenue rewards categories with repeat visits, memberships, service contracts, refill behaviour, or strong referral frequency.
+
+Franchisor Support: 55/100
+  Value: Turnkey store setup with the company design/construction team managing store design and construction; help finding locations, negotiating leases, and handling municipal regulations/licensing; ongoing guidance after opening
+  Goal: Strong training + operational support
+  Note: Support score reflects training maturity, operating systems, and the stated strength of franchisor support signals.
+
+Franchisee Satisfaction: 55/100
+  Value: Estimated (industry benchmark)
+  Goal: High satisfaction
+  Note: Unverified franchisee satisfaction is conservatively capped until survey, disclosure, or verified interview data exists.
+
+Exit Value: 56/100
+  Value: High in Ontario and urban markets
+  Goal: Strong resale value (2-4x cash flow benchmark)
+  Note: Exit value favors strong resale demand, mature brand recognition, and cash-flow transferability; saturation lowers the score.
+
+Territory Protection: 50/100
+  Value: Not Verified
+  Goal: Protected territory or clear market rights
+  Note: Territory score rewards verified protected areas, exclusivity, or clear market rights.
+
+Training Quality: 58/100
+  Value: Comprehensive 8-10 week training program covering food prep, business management, HR and more, plus ongoing professional development seminars and courses
+  Goal: Documented, practical initial and ongoing training
+  Note: Training score rewards verified duration, format, field support, and franchisee-rated quality.
+
+Brand Maturity: 90/100
+  Value: 1967
+  Goal: Established operating history
+  Note: Brand maturity uses the founded year to reward longer operating history and proven consumer awareness.
+
+Canadian Market Fit: 90/100
+  Value: Pizza Pizza Limited, 500 Kipling Avenue, Toronto, Ontario M8Z 5E5; Canadian owned: Yes - company states it has always been 100% Canadian
+  Goal: Canadian HQ, ownership, or clear Canadian operating presence
+  Note: Canadian fit scores headquarters, ownership, and local operating relevance because Canada-specific execution matters.
+
+Franchise Availability: 90/100
+  Value: Yes - national franchising program inviting applicants from across Canada
+  Goal: Franchising available in Canada
+  Note: Franchise availability matters because unavailable or unclear franchise programs are not actionable opportunities.
+
+Financial Terms Completeness: 88/100
+  Value: Initial investment, franchise fee, royalty, and marketing fee
+  Goal: Investment, franchise fee, royalty, and marketing fee identified
+  Note: Completeness rewards having the four core franchise-cost fields identified, while estimated terms are capped until confirmed.
+
+AI Score Signals
+- Investment Score: 75/100 - 75/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Investment Goal Fit: 30/100 - 30/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Growth Score: 60/100 - 60/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Risk Score: 74/100 - 74/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Brand Strength: 83/100 - 83/100 is a strong score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Canadian Fit: 90/100 - 90/100 is a strong score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Franchise Availability: 90/100 - 90/100 is a strong score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Financial Terms Completeness: 88/100 - 88/100 is a strong score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Franchisee Satisfaction: 55/100 - 55/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Customer Satisfaction: 60/100 - 60/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Expansion Score: 60/100 - 60/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Profit Potential: 78/100 - 78/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Support Quality: 55/100 - 55/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Resale Value: 56/100 - 56/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+
+Tags
+- Screening Only
+- Investor Gates Incomplete
+- Above Budget Target
+- Canadian Owned
+- High Saturation
+
+7. RISKS AND FIT
+Strengths:
+- Strong repeat-purchase potential from food-service demand patterns
+- Recognizable brand signals reduce customer-discovery risk
+- Standardized franchisor systems support multi-location execution when operators are capable
+
+Weaknesses:
+- Several key figures still need direct franchisor confirmation
+- Labour, rent, food cost, and local competition can materially change store-level returns
+- Mature markets may limit whitespace and increase cannibalization risk
+
+Opportunities:
+- Verify official economics and identify underserved provinces before expansion decisions
+
+Threats:
+- Unverified economics, saturation, labour costs, rent, and local competition can materially reduce returns
+
+Red Flags:
+- No field-level source evidence loaded for several critical economics fields
+
+Yellow Flags:
+- Estimated data should be replaced with official or legally disclosed data
+
+Green Flags:
+- Strong repeat-purchase potential from food-service demand patterns
+- Recognizable brand signals reduce customer-discovery risk
+
+8. EVIDENCE STATUS
+Franchisor Confirmation: None confirmed. All figures must be confirmed directly by the franchisor before investment use.
+Investor-Grade Score: N/A
+Reason: Minimum investor gates failed: Direct franchisor confirmation received; Canadian disclosure package obtained; Exact Canadian signing entity confirmed; Canadian AUV, EBITDA, or comparable P&L verified; Closure, transfer, resale, and renewal data verified; Current/former franchisee interviews completed; Target-market review, competition, lease, and demographic checks completed.
+
+Evidence Gates
+- Direct franchisor confirmation received: FAIL
+- Canadian disclosure package obtained: FAIL
+- Exact Canadian signing entity confirmed: FAIL
+- CAD investment and recurring fees verified: PASS (Official Franchising Basics page (retrieved live August 25, 2026) confirms CAD figures: $35,000 franchise fee; $380,000-$550,000 expected total investment; minimum 30% unencumbered cash / at least $150,000; $250,000 minimum net worth checklist; credit score 730+. Royalty and marketing fees remain unconfirmed.)
+- Canadian AUV, EBITDA, or comparable P&L verified: FAIL
+- Closure, transfer, resale, and renewal data verified: FAIL
+- Current/former franchisee interviews completed: FAIL
+- Target-market review, competition, lease, and demographic checks completed: FAIL
+
+Missing Evidence Impact
+- Average unit revenue: not reliable for investment scoring until confirmed
+- Profit margin / EBITDA: not reliable for investment scoring until confirmed
+- Closure trend: not reliable for investment scoring until confirmed
+- Transfer / renewal terms: not reliable for investment scoring until confirmed
+- Franchisee satisfaction: not reliable for investment scoring until confirmed
+
+Document Request Checklist
+- Canadian disclosure document and all exhibits
+- Exact Canadian franchisor/signing entity and affiliates
+- Franchise agreement, lease rider, personal guarantee, renewal and transfer terms
+- Current CAD investment range and required working capital
+- Royalty, ad fund, technology, training, renewal, transfer, supplier, audit, and local marketing fees
+- Canadian AUV, store-level P&L support, closure/transfer/resale history, and litigation history
+- Territory map, non-traditional venue rules, platform or channel rules, and encroachment protections
+
+9. SOURCES
+Total Source Count: 7
+
+Source Reliability Guide
+- FDD / legal document: 95-100
+- Official franchise/company website: 85-95
+- CFA / FRANdata / franchise database: 80-90
+- Franchise Genius / FranDB / GetFDD / ClearlyFDD: 80-90
+- Government source: 90-95
+- Established news outlet: 70-85
+- Industry report: 75-85
+- Google Maps / Places API: 80-90
+- Glassdoor / Indeed aggregate: 50-70
+- Forum / Reddit aggregate: 30-50
+- Individual social post: 10-30
+
+Source-Backed Evidence Loaded
+- profile.founded: 1967 | Source: https://www.pizzapizza.ca/about-us/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: No
+- profile.headquarters: Pizza Pizza Limited, 500 Kipling Avenue, Toronto, Ontario M8Z 5E5 | Source: https://www.pizzapizza.ca/investors/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: No
+- profile.canadian_owned: Yes - company states it has always been 100% Canadian | Source: https://www.pizzapizza.ca/about-us/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: No
+- profile.franchise_available: Yes - national franchising program inviting applicants from across Canada | Source: https://www.pizzapizza.ca/franchising/basics/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: No
+- financials.initial_investment: Expected total investment between $380,000 and $550,000 depending on the opportunity (official franchising basics page) | Source: https://www.pizzapizza.ca/franchising/basics/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: Yes
+- financials.franchise_fee: $35,000 | Source: https://www.pizzapizza.ca/franchising/basics/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: Yes
+- financials.royalty: 6% of net sales | Source: https://www.pizzapizza.ca/investors/corporate-profile | Date: 2026 page | Reliability: 90 | Investor scoring use: Yes
+- financials.marketing_fee: 6% of net sales | Source: http://cdn.pizzapizza.ca/o33/static/PPLNEWWEB/PRODLX/Marketing/wpf/wp-content/files_mf/annualinformationform2015final.pdf | Date: 2015 report | Reliability: 90 | Investor scoring use: Yes
+- financials.minimum_liquid_capital: Minimum 30% of the Total Investment as unencumbered cash; at least $150,000. A credit score of 730 or more with no past bankruptcies is also required. | Source: https://www.pizzapizza.ca/franchising/basics/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: Yes
+- financials.minimum_net_worth: Minimum $250,000 net worth (preliminary franchise checklist) | Source: https://www.pizzapizza.ca/franchising/basics/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: Yes
+- financials.franchisor_financing: No franchisor financing published; applicants need cash or financing from a financial institution to purchase the franchise | Source: https://www.pizzapizza.ca/franchising/basics/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: No
+- financials.systemwide_revenue: Screening reference (not verified for investor scoring): $547.6 million Pizza Pizza Royalty Pool system sales in 2025; $635.5 million combined Pizza Pizza + Pizza 73 Royalty Pool sales | Source: https://www.pizzapizza.ca/2026/03/25/pizza-pizza-royalty-corp-announces-fourth-quarter-2025-results/ | Date: 2026-03-25 | Reliability: 90 | Investor scoring use: No
+- financials.average_unit_revenue_reference: Screening reference (not verified for investor scoring): Derived about $789,000 per Pizza Pizza Royalty Pool restaurant; not store-level AUV or EBITDA | Source: https://www.pizzapizza.ca/2026/03/25/pizza-pizza-royalty-corp-announces-fourth-quarter-2025-results/ | Date: 2026-03-25 | Reliability: 75 | Investor scoring use: No
+- growth.total_locations_canada: More than 750 restaurants across Canada per About Us; franchising landing page says over 800 locations; Franchising Basics intro says over 720 locations. Official public counts differ by page and capture date - treat as directional until the franchisor confirms a current count. | Source: https://www.pizzapizza.ca/about-us/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: No
+- growth.closures_12mo: Screening reference (not verified for investor scoring): 22 Pizza Pizza restaurants and 3 Pizza 73 restaurants removed from 2025 Royalty Pool adjustment | Source: https://www.pizzapizza.ca/2025/01/30/pizza-pizza-royalty-corp-adds-45-restaurants-to-and-removes-25-restaurants-from-the-royalty-pool/ | Date: 2025-01-30 | Reliability: 90 | Investor scoring use: No
+- growth.openings_12mo: Screening reference (not verified for investor scoring): 44 Pizza Pizza restaurants and 1 Pizza 73 restaurant added to 2025 Royalty Pool adjustment | Source: https://www.pizzapizza.ca/2025/01/30/pizza-pizza-royalty-corp-adds-45-restaurants-to-and-removes-25-restaurants-from-the-royalty-pool/ | Date: 2025-01-30 | Reliability: 90 | Investor scoring use: No
+- growth.royalty_pool_locations: Screening reference (not verified for investor scoring): 2025 Royalty Pool included 694 Pizza Pizza restaurants and 100 Pizza 73 restaurants | Source: https://www.pizzapizza.ca/2026/03/25/pizza-pizza-royalty-corp-announces-fourth-quarter-2025-results/ | Date: 2026-03-25 | Reliability: 90 | Investor scoring use: No
+- franchisee.training_quality: Comprehensive 8-10 week training program covering food prep, business management, HR and more, plus ongoing professional development seminars and courses | Source: https://www.pizzapizza.ca/franchising/basics/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: No
+- franchisee.support_quality: Turnkey store setup with the company design/construction team managing store design and construction; help finding locations, negotiating leases, and handling municipal regulations/licensing; ongoing guidance after opening | Source: https://www.pizzapizza.ca/franchising/basics/ | Date: 2026 page; retrieved August 25, 2026 | Reliability: 90 | Investor scoring use: No
+
+Evidence Source URLs:
+- pizzapizza.ca | 2026 page; retrieved August 25, 2026 | Reliability 90 | https://www.pizzapizza.ca/about-us/
+- pizzapizza.ca | 2026 page; retrieved August 25, 2026 | Reliability 90 | https://www.pizzapizza.ca/investors/
+- pizzapizza.ca | 2026 page; retrieved August 25, 2026 | Reliability 90 | https://www.pizzapizza.ca/franchising/basics/
+- pizzapizza.ca | 2026 page | Reliability 90 | https://www.pizzapizza.ca/investors/corporate-profile
+- cdn.pizzapizza.ca | 2015 report | Reliability 90 | http://cdn.pizzapizza.ca/o33/static/PPLNEWWEB/PRODLX/Marketing/wpf/wp-content/files_mf/annualinformationform2015final.pdf
+- pizzapizza.ca | 2026-03-25 | Reliability 90 | https://www.pizzapizza.ca/2026/03/25/pizza-pizza-royalty-corp-announces-fourth-quarter-2025-results/
+- pizzapizza.ca | 2025-01-30 | Reliability 90 | https://www.pizzapizza.ca/2025/01/30/pizza-pizza-royalty-corp-adds-45-restaurants-to-and-removes-25-restaurants-from-the-royalty-pool/
+
+Research Notes:
+- Official Pizza Pizza franchise materials should be used for current franchise terms before investment decisions.
+- Google Places API required for current rating and review-volume metrics.
+- CFA, Franchise Genius, FRANdata, FranDB, GetFDD, ClearlyFDD, official website, news, and job-signal sources should be checked during production ingestion.
+- Public location counts differ across official pages (over 720 Franchising Basics intro, more than 750 About Us, over 800 franchising landing page); treat all as directional until franchisor confirmation.
+- July 2026 GetFranchise data file reconciled against live official pages on August 25, 2026; the July file missed the publicly posted $35,000 franchise fee and $380,000-$550,000 total-investment range shown on the live Franchising Basics page.
+- Elite Franchise Canada #1 ranking claim is company-stated on the franchising landing page; independent confirmation pending.
+
+Critical Gaps:
+- Field-level source URL, date, reliability, and quote for most seed data
+- Official unit economics
+- Verified franchisee satisfaction and turnover
+- Current review, field-call, and job-posting data
+
+Do Not Use For Investment Scoring:
+- U.S. FDD data unless independently reconciled to the Canadian franchise offer
+- Generic category estimates and industry benchmarks
+- Old or unsourced location counts
+- Wikipedia/background facts
+- Unsourced sentiment, review anecdotes, forum posts, and social media claims
+- profile.founded: 1967
+- profile.headquarters: Pizza Pizza Limited, 500 Kipling Avenue, Toronto, Ontario M8Z 5E5
+- profile.canadian_owned: Yes - company states it has always been 100% Canadian
+- profile.industry: Quick-service restaurant
+- profile.cuisine_type: Pizza, wings, sides
+- profile.franchise_available: Yes - national franchising program inviting applicants from across Canada
+- financials.payback_period: Estimated (industry benchmark): 3-6 years
+- financials.profit_margin: Estimated (industry benchmark): 10-18% store-level EBITDA range for mature QSR units
+- financials.franchisor_financing: No franchisor financing published; applicants need cash or financing from a financial institution to purchase the franchise
+- growth.locations_by_province.Ontario: Very high
+
+Fields Rejected Due To Evidence Rules: 19

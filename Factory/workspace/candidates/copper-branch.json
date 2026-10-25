@@ -1,0 +1,69 @@
+{
+  "brand": "Copper Branch",
+  "slug": "copper-branch",
+  "research_date": "2026-10-16",
+  "fields": [
+    {
+      "field_id": "franchise_available",
+      "value": "Yes",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/copper-branch/",
+      "source_excerpt": "BECOME A FRANCHISEE",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "initial_investment",
+      "value": "$525,000-$625,000 projected cost",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/copper-branch/",
+      "source_excerpt": "$525,000-$625,000 projected cost",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "franchise_fee",
+      "value": "$30,000 one-time franchise fee",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/copper-branch/",
+      "source_excerpt": "$30,000 one-time franchise fee",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "royalty",
+      "value": "6% of gross sales",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/copper-branch/",
+      "source_excerpt": "6% of gross sales",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "marketing_fee",
+      "value": "3% total advertising: 2% national plus 1% local",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/copper-branch/",
+      "source_excerpt": "3% total advertising: 2% national plus 1% local",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "liquid_capital",
+      "value": "$200,000-$230,000 unencumbered cash required",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/copper-branch/",
+      "source_excerpt": "$200,000-$230,000 unencumbered cash required",
+      "source_date": "2026-10-16"
+    }
+  ],
+  "notes": "Extracted from official Foodtastic brand pages.",
+  "recommended_for_verification": true
+}

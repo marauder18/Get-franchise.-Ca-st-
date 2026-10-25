@@ -1,0 +1,20 @@
+{
+  "brand": "Freshii",
+  "verdict": "PUBLIC_READY",
+  "verified_fields": [
+    "franchise_available",
+    "initial_investment",
+    "franchise_fee",
+    "royalty",
+    "marketing_fee",
+    "liquid_capital"
+  ],
+  "rejected_fields": [],
+  "official_source_urls": [
+    "https://foodtastic.ca/our-brands/freshii-health-wellness/"
+  ],
+  "core_money_fields_verified": 5,
+  "canadian_availability_verified": true,
+  "verification_notes": "All financial terms and Canadian availability confirmed directly on the official Foodtastic brand page.",
+  "publish_reason": "Meets all criteria: verified Canadian availability, 5/5 core money fields verified from official source."
+}

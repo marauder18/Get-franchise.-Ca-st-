@@ -1,0 +1,375 @@
+LITTLE CAESARS CANADA
+
+1. SUMMARY
+Generic Screening Score: 69/100
+Investor-Grade Score: N/A
+Investor-Grade Status: Not investment-ready / requires franchisor confirmation
+Franchisor Confirmation: None confirmed. All figures must be confirmed directly by the franchisor before investment use.
+Risk Level: Medium
+Growth Outlook: Neutral
+Investment Tier: Medium
+Investment Goal Fit: 45/100 against less than $320,000 CAD
+Confidence Level: Medium-Low
+
+Important note: This is a clean screening report, not a final investment recommendation. Source-backed information has been added where available, but no record is marked franchisor-confirmed.
+
+2. COMPANY PROFILE
+- Founded: 1959
+- HQ: Screening reference (not verified for investor scoring): Little Caesar of Canada ULC, Oakville, Ontario contact address
+- Canadian Owned: No
+- Industry: Quick-service restaurant
+- Category / Service: Pizza, wings, value QSR
+- Franchising in Canada: Yes
+- Franchising Internationally: Not Verified
+- Total Canadian Units: Screening reference (not verified for investor scoring): Locations in 10 Canadian provinces coast to coast
+- Total International Units: Not Verified
+- Systemwide Revenue: Not Verified
+- Average Unit Revenue: Not Verified
+- Openings 12mo: Not Verified
+- Closures 12mo: Not Verified
+- Net Growth %: Estimated (industry benchmark): stable to selective growth
+- 3-Year Unit Trend: Not Verified
+
+3. MONEY AND UNIT ECONOMICS
+34|- Total Investment Range: Starting at $426,000 CAD | Source: https://littlecaesarsfranchise.ca/ | Date: 2026-10-19 | Reliability: 95 | Investor scoring use: Yes
+35|- Franchise Fee: $20,000 CAD | Source: https://littlecaesarsfranchise.ca/ | Date: 2026-10-19 | Reliability: 95 | Investor scoring use: Yes
+36|- Royalty %: 6% (U.S./Global context — Canadian terms require franchisor confirmation) | Source: https://franchise.littlecaesars.com/ | Date: 2026-10-19 | Reliability: 90 | Investor scoring use: Yes
+37|- Marketing Fund %: 5-7% (U.S./Global context — Canadian terms require franchisor confirmation) | Source: https://franchise.littlecaesars.com/ | Date: 2026-10-19 | Reliability: 90 | Investor scoring use: Yes
+38|- Technology Fee: Not Verified (20% confidence)
+- Training Fee: Not Verified (20% confidence)
+- Renewal Fee: Not Verified (20% confidence)
+- Transfer Fee: Not Verified (20% confidence)
+- Other Mandatory Fees: Not Verified (20% confidence)
+- Average Unit Revenue: Not Verified (20% confidence)
+- Item 19 Avg Revenue: Not Verified (20% confidence)
+- Item 19 Gross Profit: Not Verified (20% confidence)
+- Item 19 Net Profit: Not Verified (20% confidence)
+- Payback: Not Verified (20% confidence)
+- Profit Margin: Estimated (industry benchmark): 8-15% store-level EBITDA range for mature pizza QSR units (20% confidence)
+- Min Net Worth: $350,000 net worth requirement (88% confidence)
+- Min Liquid Capital: $150,000 liquid asset requirement (88% confidence)
+- Term Length: Not Verified (20% confidence)
+- Territory Protection: Not Verified (20% confidence)
+- Franchisor Financing: Screening reference (not verified for investor scoring): Partnerships with several financial institutions claimed (88% confidence)
+
+Financial Model Status
+- Conservative case: Not model-ready; uses no investment scoring until Canadian sales, occupancy, payroll, and direct-cost data are verified.
+- Base case: Generic screening assumes Estimated (industry benchmark): 8-15% store-level EBITDA range for mature pizza QSR units; this is excluded from investor-grade scoring unless sourced.
+- Upside case: Requires verified AUV, site-specific occupancy cost, local wage assumptions, and mature-unit margin support.
+- Break-even sales: Not Verified; calculate after rent, royalty, marketing, labour, food cost, debt service, and manager salary are known.
+- EBITDA estimate: Not Verified for investor scoring.
+- Payback: Not Verified; excluded unless supported by Canadian disclosure or franchisee P&L.
+- Sensitivity tests required: rent +10%, wage +10%, food cost +300 bps, sales -10%, sales -20%, delivery commission mix shift.
+
+Capital Fit for Young Entrepreneurs
+- Minimum liquid capital: $150,000 liquid asset requirement
+- Investment tier: Medium
+- Working-capital buffer: Not Verified; request franchisor guidance and lender stress test.
+- Moderate capital barrier; young operators likely need lender support and a conservative cash buffer.
+
+Investment Goal Fit
+- Target investment goal: less than $320,000 CAD
+- Reported investment range: Starting at $426,000, Canada franchise page
+- Goal Fit Score: 45/100
+- Range parsed for scoring: $426,000 CAD to $426,000 CAD
+- Fit decision: Does not fit budget. The reported range is above target by at least $106,000 CAD and up to $106,000 CAD.
+- Value test: Prefer franchises under the target unless verified EBITDA, payback, resale value, and financing terms justify paying more.
+
+4. LOCATIONS AND MARKET
+Locations by Province:
+- BC: Medium
+- Alberta: Medium
+- SK: Not Verified
+- MB: Not Verified
+- Ontario: High
+- Quebec: Low
+- NB: Not Verified
+- NS: Not Verified
+- PE: Not Verified
+- NL: Not Verified
+
+Province Ranking:
+1. Ontario: High
+2. BC: Medium
+3. Alberta: Medium
+4. Quebec: Low
+5. SK: Not Verified
+6. MB: Not Verified
+7. NB: Not Verified
+8. NS: Not Verified
+9. PE: Not Verified
+10. NL: Not Verified
+
+Main competitors: Pizza Pizza, Dominos Canada, Pizza Hut Canada, Papa Johns Canada, local pizzerias
+Market saturation: High
+Differentiation: Brand/category positioning requires verification against local competitors, trade-area conditions, and channel dynamics.
+Threat level: Medium
+
+Local Market Fit
+- Target city score: N/A until a specific city or trade area is provided.
+- Required checks: demographics, traffic generators, competition density, service radius or territory overlap, occupancy pressure, reviews, parking/access, and cannibalization.
+- Current saturation signal: High
+
+5. CUSTOMER AND FRANCHISEE SIGNALS
+Google Rating: Not verified / requires Google Places API
+Review Volume: Not verified / requires Google Places API
+Customer Sentiment Trend: Not Verified
+Insight Summary: Current customer and operator truth requires review analysis, local field calls, and market-level research.
+
+Top Praises:
+- Recognizable QSR category with repeat-purchase potential
+- Standardized menu and operating model can support multi-unit execution
+- Canadian market comparability supports side-by-side screening
+
+Top Complaints:
+- Official Canadian economics not loaded
+- Store-level returns depend heavily on site selection, labour, rent, food cost, and local competition
+- Franchisee satisfaction and closure data remain unverified
+
+Franchisee Satisfaction: Not Verified
+Training Quality: Standardized system expected; exact training duration and franchisee-rated quality not verified
+Support Quality: Not Verified
+Operational Difficulty: Moderate to high; labour scheduling, throughput, food cost, and local management quality matter
+Litigation History 5yr: Not Verified
+
+6. SCREENING SCORE
+Generic Screening Score: 69/100
+This score is for comparison only. It is not franchisor-confirmed and is not an investment recommendation.
+Important scoring inputs include founded year, headquarters, Canadian ownership, industry, category/service line, Canadian franchise availability, initial investment, franchise fee, royalty, and marketing fee.
+
+Factor Breakdown
+
+Investment: 75/100
+  Value: Starting at $426,000, Canada franchise page
+  Goal: Affordable entry cost
+  Note: Investment score rewards lower entry cost. Estimated or unverified investment data is capped until official franchise terms are loaded.
+
+Investment Goal Fit: 45/100
+  Value: Starting at $426,000, Canada franchise page
+  Goal: Target investment less than $320,000 CAD
+  Note: Goal fit compares the required investment with the maximum target of less than $320,000 CAD. Costs above the target lower the screening score; unverified costs are capped.
+
+Payback: 90/100
+  Value: Estimated (industry benchmark): 3-6 years
+  Goal: 3-5 years
+  Note: Payback aligns best when the expected range lands near the 3-5 year target.
+
+Profit Margin: 78/100
+  Value: Estimated (industry benchmark): 8-15% store-level EBITDA range for mature pizza QSR units
+  Goal: Strong unit economics
+  Note: Margin score compares available or benchmarked unit-level profitability against the target return profile for this screening model.
+
+Scalability: 52/100
+  Value: Screening reference (not verified for investor scoring): Locations in 10 Canadian provinces coast to coast
+  Goal: Multi-unit ownership possible
+  Note: Scalability is inferred from system maturity, national footprint, and operational complexity.
+
+Hours: 68/100
+  Value: Moderate to high; labour scheduling, throughput, food cost, and local management quality matter
+  Goal: Manager-run possible (not owner-dependent)
+  Note: Manager-run potential declines when the model is highly labour-intensive, late-hour, or execution-heavy.
+
+Industry Strength: 76/100
+  Value: Estimated (industry benchmark): stable to selective growth
+  Goal: Growing or stable category
+  Note: Category strength scores better when available signals indicate stable or positive demand and unit economics.
+
+Recurring Revenue: 78/100
+  Value: Pizza, wings, value QSR
+  Goal: High repeat, membership, contract, or referral frequency
+  Note: Recurring revenue rewards categories with repeat visits, memberships, service contracts, refill behaviour, or strong referral frequency.
+
+Franchisor Support: 55/100
+  Value: Not Verified
+  Goal: Strong training + operational support
+  Note: Support score reflects training maturity, operating systems, and the stated strength of franchisor support signals.
+
+Franchisee Satisfaction: 55/100
+  Value: Not Verified
+  Goal: High satisfaction
+  Note: Unverified franchisee satisfaction is conservatively capped until survey, disclosure, or verified interview data exists.
+
+Exit Value: 56/100
+  Value: High
+  Goal: Strong resale value (2-4x cash flow benchmark)
+  Note: Exit value favors strong resale demand, mature brand recognition, and cash-flow transferability; saturation lowers the score.
+
+Territory Protection: 50/100
+  Value: Not Verified
+  Goal: Protected territory or clear market rights
+  Note: Territory score rewards verified protected areas, exclusivity, or clear market rights.
+
+Training Quality: 65/100
+  Value: Standardized system expected; exact training duration and franchisee-rated quality not verified
+  Goal: Documented, practical initial and ongoing training
+  Note: Training score rewards verified duration, format, field support, and franchisee-rated quality.
+
+Brand Maturity: 90/100
+  Value: 1959
+  Goal: Established operating history
+  Note: Brand maturity uses the founded year to reward longer operating history and proven consumer awareness.
+
+Canadian Market Fit: 74/100
+  Value: Screening reference (not verified for investor scoring): Little Caesar of Canada ULC, Oakville, Ontario contact address; Canadian owned: No
+  Goal: Canadian HQ, ownership, or clear Canadian operating presence
+  Note: Canadian fit scores headquarters, ownership, and local operating relevance because Canada-specific execution matters.
+
+Franchise Availability: 90/100
+  Value: Yes
+  Goal: Franchising available in Canada
+  Note: Franchise availability matters because unavailable or unclear franchise programs are not actionable opportunities.
+
+Financial Terms Completeness: 70/100
+  Value: Initial investment, franchise fee, royalty, and marketing fee
+  Goal: Investment, franchise fee, royalty, and marketing fee identified
+  Note: Completeness rewards having the four core franchise-cost fields identified, while estimated terms are capped until confirmed.
+
+AI Score Signals
+- Investment Score: 75/100 - 75/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Investment Goal Fit: 45/100 - 45/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Growth Score: 76/100 - 76/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Risk Score: 75/100 - 75/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Brand Strength: 83/100 - 83/100 is a strong score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Canadian Fit: 74/100 - 74/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Franchise Availability: 90/100 - 90/100 is a strong score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Financial Terms Completeness: 70/100 - 70/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Franchisee Satisfaction: 55/100 - 55/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Customer Satisfaction: 60/100 - 60/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Expansion Score: 52/100 - 52/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Profit Potential: 78/100 - 78/100 is a moderate score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Support Quality: 55/100 - 55/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+- Resale Value: 56/100 - 56/100 is a conservative score based on available signals. Exact source-backed data would raise confidence and may change the score.
+
+Tags
+- Screening Only
+- Investor Gates Incomplete
+- Above Budget Target
+- Cross-Border Caution
+- High Saturation
+
+7. RISKS AND FIT
+Strengths:
+- Strong repeat-purchase potential from food-service demand patterns
+- Recognizable brand signals reduce customer-discovery risk
+- Standardized franchisor systems support multi-location execution when operators are capable
+
+Weaknesses:
+- Several key figures still need direct franchisor confirmation
+- Labour, rent, food cost, and local competition can materially change store-level returns
+- Mature markets may limit whitespace and increase cannibalization risk
+
+Opportunities:
+- Verify official economics and identify underserved provinces before expansion decisions
+
+Threats:
+- Unverified economics, saturation, labour costs, rent, and local competition can materially reduce returns
+
+Red Flags:
+- No Canadian disclosure document loaded
+- No verified Canadian unit economics loaded
+- No franchisee interview log loaded
+
+Yellow Flags:
+- Generic estimates are present for screening only
+- Province footprint is directional and not a verified live count
+
+Green Flags:
+- Category expands the comparison set beyond the original food-only folder
+- Brand/category has repeat-use, membership, contract, or referral potential
+
+8. EVIDENCE STATUS
+Franchisor Confirmation: None confirmed. All figures must be confirmed directly by the franchisor before investment use.
+Investor-Grade Score: N/A
+Reason: Minimum investor gates failed: Direct franchisor confirmation received; Canadian disclosure package obtained; Canadian AUV, EBITDA, or comparable P&L verified; Closure, transfer, resale, and renewal data verified; Current/former franchisee interviews completed; Target-market review, competition, lease, and demographic checks completed.
+
+Evidence Gates
+- Direct franchisor confirmation received: FAIL
+- Canadian disclosure package obtained: FAIL
+- Exact Canadian signing entity confirmed: PASS (Canadian franchise page identifies Little Caesar of Canada ULC contact address in Oakville, Ontario.)
+- CAD investment and recurring fees verified: PASS (Official Canadian franchise page lists startup investment, franchise fee, net worth, and liquid asset requirements.)
+- Canadian AUV, EBITDA, or comparable P&L verified: FAIL
+- Closure, transfer, resale, and renewal data verified: FAIL
+- Current/former franchisee interviews completed: FAIL
+- Target-market review, competition, lease, and demographic checks completed: FAIL
+
+Missing Evidence Impact
+- Royalty: not reliable for investment scoring until confirmed
+- Marketing fee: not reliable for investment scoring until confirmed
+- Average unit revenue: not reliable for investment scoring until confirmed
+- Profit margin / EBITDA: not reliable for investment scoring until confirmed
+- Closure trend: not reliable for investment scoring until confirmed
+- Transfer / renewal terms: not reliable for investment scoring until confirmed
+- Franchisee satisfaction: not reliable for investment scoring until confirmed
+
+Document Request Checklist
+- Canadian disclosure document and all exhibits
+- Exact Canadian franchisor/signing entity and affiliates
+- Franchise agreement, lease rider, personal guarantee, renewal and transfer terms
+- Current CAD investment range and required working capital
+- Royalty, ad fund, technology, training, renewal, transfer, supplier, audit, and local marketing fees
+- Canadian AUV, store-level P&L support, closure/transfer/resale history, and litigation history
+- Territory map, non-traditional venue rules, platform or channel rules, and encroachment protections
+
+9. SOURCES
+Total Source Count: 1
+
+Source Reliability Guide
+- FDD / legal document: 95-100
+- Official franchise/company website: 85-95
+- CFA / FRANdata / franchise database: 80-90
+- Franchise Genius / FranDB / GetFDD / ClearlyFDD: 80-90
+- Government source: 90-95
+- Established news outlet: 70-85
+- Industry report: 75-85
+- Google Maps / Places API: 80-90
+- Glassdoor / Indeed aggregate: 50-70
+- Forum / Reddit aggregate: 30-50
+- Individual social post: 10-30
+
+Source-Backed Evidence Loaded
+- profile.headquarters: Little Caesar of Canada ULC, Oakville, Ontario | Source: https://littlecaesarsfranchise.ca/ | Date: 2026-10-19 | Reliability: 95 | Investor scoring use: No
+- financials.initial_investment: Starting at $426,000 CAD | Source: https://littlecaesarsfranchise.ca/ | Date: 2026-10-19 | Reliability: 95 | Investor scoring use: Yes
+- financials.franchise_fee: $20,000 CAD | Source: https://littlecaesarsfranchise.ca/ | Date: 2026-10-19 | Reliability: 95 | Investor scoring use: Yes
+- financials.minimum_net_worth: $350,000 CAD | Source: https://littlecaesarsfranchise.ca/ | Date: 2026-10-19 | Reliability: 95 | Investor scoring use: Yes
+- financials.minimum_liquid_capital: $150,000 CAD | Source: https://littlecaesarsfranchise.ca/ | Date: 2026-10-19 | Reliability: 95 | Investor scoring use: Yes
+- financials.royalty: 6% (U.S./Global context) | Source: https://franchise.littlecaesars.com/ | Date: 2026-10-19 | Reliability: 90 | Investor scoring use: Yes
+- financials.marketing_fee: 5-7% (U.S./Global context) | Source: https://franchise.littlecaesars.com/ | Date: 2026-10-19 | Reliability: 90 | Investor scoring use: Yes
+- growth.total_locations_canada: Locations in 10 Canadian provinces | Source: https://littlecaesarsfranchise.ca/ | Date: 2026-10-19 | Reliability: 95 | Investor scoring use: No
+
+Evidence Source URLs:
+- https://littlecaesarsfranchise.ca/ | Official Canada | 2026-10-19 | Reliability 95
+- https://franchise.littlecaesars.com/ | Official Global | 2026-10-19 | Reliability 90
+- https://www.restfinance.com/app/pdf/fdd/Little-Caesars-2025.pdf | FDD | 2026-10-19 | Reliability 95
+- https://www.franchisedirect.com/directory/littlecaesars/ufoc/5144/ | Database | 2026-10-19 | Reliability 85
+
+Research Notes:
+- Little Caesars Canada was added as an expansion target for Canadian food/QSR comparison.
+- All economics are placeholders or industry-screening estimates until official Canadian franchise documents and verified field evidence are loaded.
+
+Critical Gaps:
+- Canadian disclosure package
+- Exact Canadian signing entity
+- CAD investment and recurring fees
+- Canadian AUV, EBITDA, or comparable P&L
+- Closure, transfer, resale, renewal, and litigation data
+- Current/former franchisee interviews
+- Target-market lease, competition, demographic, and delivery-radius checks
+
+Do Not Use For Investment Scoring:
+- U.S. FDD data unless independently reconciled to the Canadian franchise offer
+- Generic category estimates and industry benchmarks
+- Old or unsourced location counts
+- Wikipedia/background facts
+- Unsourced sentiment, review anecdotes, forum posts, and social media claims
+- profile.founded: 1959
+- profile.headquarters: Screening reference (not verified for investor scoring): Little Caesar of Canada ULC, Oakville, Ontario contact address
+- profile.canadian_owned: No
+- profile.industry: Quick-service restaurant
+- profile.cuisine_type: Pizza, wings, value QSR
+- profile.franchise_available: Yes
+- profile.franchising_internationally: Not Verified
+- financials.royalty: Estimated (industry benchmark)
+- financials.marketing_fee: Estimated (industry benchmark)
+- financials.technology_fee: Not Verified
+
+Fields Rejected Due To Evidence Rules: 54

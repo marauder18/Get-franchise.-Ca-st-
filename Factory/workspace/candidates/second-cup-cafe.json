@@ -1,0 +1,69 @@
+{
+  "brand": "Second Cup Cafe",
+  "slug": "second-cup-cafe",
+  "research_date": "2026-10-16",
+  "fields": [
+    {
+      "field_id": "franchise_available",
+      "value": "Yes",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/second-cup/",
+      "source_excerpt": "BECOME A FRANCHISEE",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "initial_investment",
+      "value": "$550,000-$650,000 projected build cost",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/second-cup/",
+      "source_excerpt": "$550,000-$650,000 projected build cost",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "franchise_fee",
+      "value": "$30,000",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/second-cup/",
+      "source_excerpt": "$30,000",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "royalty",
+      "value": "7.5% of gross sales",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/second-cup/",
+      "source_excerpt": "7.5% of gross sales",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "marketing_fee",
+      "value": "3% total advertising/marketing: 2% national ad fund plus 1% local area marketing",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/second-cup/",
+      "source_excerpt": "3% total advertising/marketing: 2% national ad fund plus 1% local area marketing",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "liquid_capital",
+      "value": "$200,000-$250,000 unencumbered capital required",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/second-cup/",
+      "source_excerpt": "$200,000-$250,000 unencumbered capital required",
+      "source_date": "2026-10-16"
+    }
+  ],
+  "notes": "Extracted from official Foodtastic brand pages.",
+  "recommended_for_verification": true
+}

@@ -1,0 +1,1 @@
+OFFLINE ONLY. Station 2 removes values that fail the local source and status rules, then logs every deletion. No model, API, browser, or network operation is permitted.

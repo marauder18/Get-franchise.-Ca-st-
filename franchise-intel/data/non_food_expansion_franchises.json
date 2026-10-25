@@ -1,0 +1,1468 @@
+[
+  {
+    "name": "RE/MAX Canada",
+    "founded": "1973",
+    "headquarters": "Toronto, Ontario, Canada",
+    "canadian_owned": "No",
+    "industry": "Real Estate",
+    "cuisine_type": "Residential and commercial real-estate brokerage",
+    "category": "real-estate",
+    "report_folder": "real estate franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "High",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Century 21 Canada",
+      "Keller Williams",
+      "Royal LePage",
+      "local independent brokerages"
+    ],
+    "saturation": "High",
+    "field_evidence": {
+      "profile": {
+        "headquarters": {
+          "value": "639 Queen Street West, 3rd Floor, Toronto, ON M5V 2B7",
+          "confidence": 90,
+          "source_url": "https://franchise.remax.ca/",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "639 Queen Street West, 3rd Floor, Toronto, ON M5V 2B7"
+        },
+        "franchise_available": {
+          "value": "Yes - official Canada page invites owners and team leaders to explore franchise conversion",
+          "confidence": 90,
+          "source_url": "https://franchise.remax.ca/",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "Thinking of a conversion? Let us help you start the conversation."
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "More than 145,000 agents in nearly 9,000 offices across more than 110 countries and territories",
+          "confidence": 88,
+          "source_url": "https://news.remax.com/press-release/remax-canada-welcomes-don-kottick-as-new-president",
+          "source_date": "May 2025 official press release",
+          "source_reliability": 90,
+          "evidence_quote": "more than 145,000 agents in nearly 9,000 offices and more than 110 countries and territories"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "RE/MAX Canada highlights peer sharing, recruiting support, marketing tools, technology, and succession planning support",
+          "confidence": 86,
+          "source_url": "https://franchise.remax.ca/",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "best practices, technology, branding, and succession planning"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from the current RE/MAX Canada franchise page and official RE/MAX news.",
+      "Public brokerage-level economics, desk-fee structure, and split formulas still require direct Canadian disclosure review."
+    ]
+  },
+  {
+    "name": "Keller Williams Canada",
+    "founded": "1983",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Real Estate",
+    "cuisine_type": "Residential and commercial real-estate brokerage",
+    "category": "real-estate",
+    "report_folder": "real estate franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "High",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "RE/MAX",
+      "Century 21 Canada",
+      "Royal LePage",
+      "local independent brokerages"
+    ],
+    "saturation": "High",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "Since 1983",
+          "confidence": 86,
+          "source_url": "https://kwurbain.com/about-us",
+          "source_date": "2026 official page",
+          "source_reliability": 84,
+          "evidence_quote": "Since 1983"
+        },
+        "franchise_available": {
+          "value": "Yes - Keller Williams Canada actively recruits broker owners and team leaders",
+          "confidence": 88,
+          "source_url": "https://kwcan.ca/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "Join KW"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "60+ regions and 260+ market center locations across the global network",
+          "confidence": 86,
+          "source_url": "https://kwworldwide.com/en-US",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "60+ regions and 260+ market center locations"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "KW Canada emphasizes agent education, leadership coaching, and hands-on expansion support",
+          "confidence": 86,
+          "source_url": "https://kwcan.ca/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "Learn, adapt and elevate your business with us every step of the way"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Keller Williams Canada and Keller Worldwide pages.",
+      "Canadian brokerage economics, royalty structure, and recruiting P&L are not public and still need direct diligence."
+    ]
+  },
+  {
+    "name": "Holiday Inn Express",
+    "founded": "1991",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Hotels / Motels / Campgrounds",
+    "cuisine_type": "Limited-service hotel and lodging franchise",
+    "category": "hotel",
+    "report_folder": "hotels franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Days Inns - Canada",
+      "Best Western",
+      "Comfort Inn",
+      "local independent hotels"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1991",
+          "confidence": 84,
+          "source_url": "https://www.franchise.org/franchise-opportunities/holiday-inn-express/",
+          "source_date": "2026 IFA profile",
+          "source_reliability": 80,
+          "evidence_quote": "Founded in 1991"
+        },
+        "franchise_available": {
+          "value": "Yes - IHG promotes active owner and development opportunities for Holiday Inn Express",
+          "confidence": 86,
+          "source_url": "https://development.ihg.com/hotel-brands/holiday-inn-express",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "An owner favorite"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "3,304 open hotels across 50 countries, with 666 in the pipeline as of March 31, 2026",
+          "confidence": 90,
+          "source_url": "https://development.ihg.com/hotel-brands/holiday-inn-express",
+          "source_date": "March 31, 2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "3,304 Open Hotels"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "IHG highlights design, development, revenue, and commercial support around the brand platform",
+          "confidence": 84,
+          "source_url": "https://development.ihg.com/hotel-brands/holiday-inn-express",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "owner favorite"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current IHG development pages and the current IFA profile.",
+      "Hotel capex, PIP, ADR, occupancy, and RevPAR economics remain private and must be reviewed directly with the franchisor."
+    ]
+  },
+  {
+    "name": "Best Western Hotels & Resorts",
+    "founded": "1946",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Hotels / Motels / Campgrounds",
+    "cuisine_type": "Midscale and upscale hotel franchise system",
+    "category": "hotel",
+    "report_folder": "hotels franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "High",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Holiday Inn Express",
+      "Days Inns - Canada",
+      "Comfort Inn",
+      "local independent hotels"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1946",
+          "confidence": 86,
+          "source_url": "https://development.bestwestern.com/our-brands",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "Founded in 1946"
+        },
+        "franchise_available": {
+          "value": "Yes - BWH Hotels actively markets hotel development and conversion opportunities",
+          "confidence": 88,
+          "source_url": "https://development.bestwestern.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "build your future with a brand that works for you"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "Approximately 4,300 hotels in over 100 countries and territories",
+          "confidence": 88,
+          "source_url": "https://development.bestwestern.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "approximately 4,300 hotels in over 100 countries and territories"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "BWH promotes lifecycle support from development through performance optimization and business reviews",
+          "confidence": 86,
+          "source_url": "https://development.bestwestern.com/why-best-western",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "support in every phase of your hotel's lifecycle"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current BWH development pages.",
+      "Property-level renovation costs, reserve burden, and Canadian unit economics are not public and still require disclosure review."
+    ]
+  },
+  {
+    "name": "Anytime Fitness",
+    "founded": "2002",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Health / Fitness / Nutrition",
+    "cuisine_type": "24-hour gym and membership fitness franchise",
+    "category": "fitness",
+    "report_folder": "fitness franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "High",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Orangetheory Fitness",
+      "Snap Fitness",
+      "Planet Fitness",
+      "local independent gyms"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "franchise_available": {
+          "value": "Yes - official Canada pages promote current franchise opportunities",
+          "confidence": 90,
+          "source_url": "https://www.anytimefitness.ca/franchise/",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "THE INVESTMENT"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$474,552-$970,097",
+          "confidence": 90,
+          "source_url": "https://www.anytimefitness.ca/franchise/",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "$474,552 - $970,097"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "5,800+ clubs around the world",
+          "confidence": 88,
+          "source_url": "https://www.anytimefitness.com/en-ca/own-a-gym",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "5,800+ clubs around the world"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official materials emphasize 360-degree franchise support, innovation, and a mature operating playbook",
+          "confidence": 88,
+          "source_url": "https://www.anytimefitness.com/en-ca/own-a-gym",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "360 support"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Anytime Fitness Canada and Anytime Fitness own-a-gym pages.",
+      "Public recurring-fee detail and Canadian studio-level earnings are still not posted and require direct disclosure review."
+    ]
+  },
+  {
+    "name": "Snap Fitness",
+    "founded": "2003",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Health / Fitness / Nutrition",
+    "cuisine_type": "Compact gym and membership fitness franchise",
+    "category": "fitness",
+    "report_folder": "fitness franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Anytime Fitness",
+      "Orangetheory Fitness",
+      "Planet Fitness",
+      "local independent gyms"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "franchise_available": {
+          "value": "Yes - Snap Fitness Canada markets current franchise opportunities",
+          "confidence": 88,
+          "source_url": "https://www.snapfitness.com/ca/why-franchise-with-snap-fitness",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "Why franchise with Snap Fitness"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "Nearly 1,000 gyms in 17 countries with more than 800,000 members",
+          "confidence": 88,
+          "source_url": "https://www.snapfitness.com/ca/why-franchise-with-snap-fitness",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "nearly 1,000 gyms in 17 countries"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official Canada page highlights property, recruiting, training, pre-sales, finance, and ongoing support",
+          "confidence": 88,
+          "source_url": "https://www.snapfitness.com/ca/why-franchise-with-snap-fitness",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "property, recruiting and training, pre-sales, finance and ongoing support"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from the current Snap Fitness Canada franchise page.",
+      "Public Canadian startup cost, fee stack, and mature-club economics are still not posted."
+    ]
+  },
+  {
+    "name": "Mathnasium",
+    "founded": "2002",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Educational Products & Services",
+    "cuisine_type": "Supplementary math learning centre franchise",
+    "category": "education",
+    "report_folder": "education franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "BC": "High",
+      "Alberta": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Kumon Math and Reading Centres",
+      "Oxford Learning",
+      "Sylvan Learning",
+      "local tutoring centres"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "2002",
+          "confidence": 88,
+          "source_url": "https://mathnasiumfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "Since 2002"
+        },
+        "franchise_available": {
+          "value": "Yes - Canada has a dedicated Mathnasium Center Licensing Canada entity in the terms page",
+          "confidence": 86,
+          "source_url": "https://www.mathnasium.com/ca/terms-of-use",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "Mathnasium Center Licensing Canada Inc."
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$127,316-$165,846",
+          "confidence": 86,
+          "source_url": "https://mathnasiumfranchise.com/mathnasium-franchise-cost/",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "Total Initial Investment $127,316 - $165,846"
+        },
+        "royalty": {
+          "value": "10% of monthly gross revenue plus a $650 monthly technology and development fee",
+          "confidence": 84,
+          "source_url": "https://mathnasiumfranchise.com/mathnasium-franchise-cost/",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "Royalty Fee 10% of the center's monthly gross revenue"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "More than 1,200 learning centres worldwide",
+          "confidence": 88,
+          "source_url": "https://mathnasiumfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "1,200+ learning centres worldwide"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Mathnasium franchise pages and the Canadian terms page.",
+      "Public cost data appears to be North American official franchise context, but Canadian currency and signing-entity economics still need direct confirmation."
+    ]
+  },
+  {
+    "name": "The Tutoring Center",
+    "founded": "Not Verified",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Educational Products & Services",
+    "cuisine_type": "One-to-one and small-group tutoring centre franchise",
+    "category": "education",
+    "report_folder": "education franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "BC": "Medium",
+      "Alberta": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Kumon Math and Reading Centres",
+      "Mathnasium",
+      "Oxford Learning",
+      "local tutoring centres"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "profile": {
+        "franchise_available": {
+          "value": "Official franchise opportunity page is active, but Canada-specific availability is not clearly stated in public materials",
+          "confidence": 80,
+          "source_url": "https://www.tutoringcenter.com/franchise/franchise-opportunities/",
+          "source_date": "2026 official page",
+          "source_reliability": 86,
+          "evidence_quote": "Franchise Opportunities"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "120+ national locations",
+          "confidence": 84,
+          "source_url": "https://www.tutoringcenter.com/franchise/franchise-opportunities/",
+          "source_date": "2026 official page",
+          "source_reliability": 86,
+          "evidence_quote": "120+ National Locations"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official page emphasizes unlimited training and operational support",
+          "confidence": 84,
+          "source_url": "https://www.tutoringcenter.com/franchise/franchise-opportunities/",
+          "source_date": "2026 official page",
+          "source_reliability": 86,
+          "evidence_quote": "Unlimited training and operational support"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from the current Tutoring Center franchise opportunity page.",
+      "Public fee data is not transparent and Canada-specific expansion rights should be confirmed directly."
+    ]
+  },
+  {
+    "name": "MOLLY MAID Canada",
+    "founded": "1979",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Commercial / Residential Services",
+    "cuisine_type": "Residential home cleaning service franchise",
+    "category": "cleaning",
+    "report_folder": "cleaning franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Merry Maids of Canada",
+      "JAN-PRO Cleaning & Disinfecting",
+      "local residential cleaning services",
+      "local maid-service brands"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "franchise_available": {
+          "value": "Yes - official Canada page lists available territories across Canada",
+          "confidence": 90,
+          "source_url": "https://franchise.mollymaid.ca/",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "Available territories all over Canada"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official materials emphasize training, technology, marketing, HR, financial management, and proven business systems",
+          "confidence": 88,
+          "source_url": "https://franchise.mollymaid.ca/",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "training, technology, business systems, marketing"
+        },
+        "operational_difficulty": {
+          "value": "Owner-operator model; official FAQ says new owners do not perform cleaning but run the business full-time",
+          "confidence": 88,
+          "source_url": "https://franchise.mollymaid.ca/faqs/",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "you will not have to clean"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current MOLLY MAID Canada franchise pages.",
+      "Public Canadian franchise fee, royalty, and ad-fund detail are not posted and still require direct franchisor confirmation."
+    ]
+  },
+  {
+    "name": "JAN-PRO Cleaning & Disinfecting",
+    "founded": "Not Verified",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Commercial / Residential Services",
+    "cuisine_type": "Commercial cleaning and janitorial franchise",
+    "category": "cleaning",
+    "report_folder": "cleaning franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Merry Maids of Canada",
+      "MOLLY MAID Canada",
+      "local janitorial contractors",
+      "regional commercial cleaning brands"
+    ],
+    "saturation": "Medium to high",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "financials": {
+        "initial_investment": {
+          "value": "Local-market pricing varies; official page recommends at least $1,000 in savings and finances most of the startup cost",
+          "confidence": 82,
+          "source_url": "https://jan-pro.com/franchise-opportunity/costs/",
+          "source_date": "2026 official page",
+          "source_reliability": 86,
+          "evidence_quote": "at least $1000 in savings"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "New operators complete a five-course JAN-PRO certification program",
+          "confidence": 86,
+          "source_url": "https://jan-pro.com/franchise-opportunity/program-details/",
+          "source_date": "2026 official page",
+          "source_reliability": 86,
+          "evidence_quote": "five-course JAN-PRO Certification Program"
+        },
+        "support_quality": {
+          "value": "Official system positions guaranteed clients and centralized selling support as core parts of the model",
+          "confidence": 86,
+          "source_url": "https://jan-pro.com/franchise-opportunity/costs/",
+          "source_date": "2026 official page",
+          "source_reliability": 86,
+          "evidence_quote": "guaranteed clients"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current JAN-PRO opportunity pages.",
+      "Public pricing is flexible and market-based, so Canadian recurring-fee economics and contract quality still need direct diligence."
+    ]
+  },
+  {
+    "name": "Midas",
+    "founded": "1956",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Automotive & Truck Services / Products / Rentals",
+    "cuisine_type": "Automotive repair and maintenance service franchise",
+    "category": "automotive",
+    "report_folder": "automotive franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Mr. Lube + Tires",
+      "Jiffy Lube",
+      "Meineke Car Care Centers",
+      "local repair shops"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "financials": {
+        "initial_investment": {
+          "value": "$209,557-$885,989",
+          "confidence": 84,
+          "source_url": "https://www.midasfranchise.com/franchise-cost/",
+          "source_date": "2026 official page",
+          "source_reliability": 86,
+          "evidence_quote": "$209,557 to $885,989"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "2,000-plus locations worldwide",
+          "confidence": 86,
+          "source_url": "https://www.midasfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 86,
+          "evidence_quote": "2,000-plus locations worldwide"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official materials emphasize pre-opening guidance, technical training, and ongoing corporate support",
+          "confidence": 84,
+          "source_url": "https://www.midasfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 86,
+          "evidence_quote": "Join the #1 brand in category"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Midas franchise pages.",
+      "Current public economics appear to be U.S.-weighted, so Canadian fee, lease, and bay-level profit data still need direct confirmation."
+    ]
+  },
+  {
+    "name": "Jiffy Lube",
+    "founded": "1979",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Automotive & Truck Services / Products / Rentals",
+    "cuisine_type": "Preventive automotive maintenance service franchise",
+    "category": "automotive",
+    "report_folder": "automotive franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Mr. Lube + Tires",
+      "Midas",
+      "Meineke Car Care Centers",
+      "local oil-change and repair shops"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "financials": {
+        "franchise_fee": {
+          "value": "$35,000",
+          "confidence": 88,
+          "source_url": "https://www.jiffylube.com/franchise-opportunities",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "$35K franchise fee"
+        },
+        "minimum_net_worth": {
+          "value": "$500,000 minimum net worth",
+          "confidence": 88,
+          "source_url": "https://www.jiffylube.com/franchise-opportunities",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "$500K minimum net worth"
+        },
+        "minimum_liquid_capital": {
+          "value": "$250,000 minimum liquidity",
+          "confidence": 88,
+          "source_url": "https://www.jiffylube.com/franchise-opportunities",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "$250K minimum liquidity"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Award-winning training and no automotive experience required according to the official page",
+          "confidence": 86,
+          "source_url": "https://www.jiffylube.com/franchise-opportunities",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "No automotive experience needed"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from the current Jiffy Lube franchise opportunity page.",
+      "Public economics are not Canada-specific, so Canadian capex, recurring fees, and bay-level earnings still need direct verification."
+    ]
+  },
+  {
+    "name": "Meineke Car Care Centers",
+    "founded": "Not Verified",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Automotive & Truck Services / Products / Rentals",
+    "cuisine_type": "Automotive repair and maintenance service franchise",
+    "category": "automotive",
+    "report_folder": "automotive franchises",
+    "province_strength": {
+      "Ontario": "Medium",
+      "Alberta": "Medium",
+      "BC": "Low to medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Mr. Lube + Tires",
+      "Midas",
+      "Jiffy Lube",
+      "local repair shops"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "profile": {
+        "franchise_available": {
+          "value": "A federally registered Canadian Meineke entity exists, but a current Canada-facing franchise development page was not verified in public sources",
+          "confidence": 74,
+          "source_url": "https://ised-isde.canada.ca/cc/lgcy/fdrlCrpDtls.html?corpId=12052449",
+          "source_date": "2026 federal registry record",
+          "source_reliability": 90,
+          "evidence_quote": "Meineke Canada SPV GP Corporation"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from a current Canadian federal registry record because public Canada-facing development material was thin.",
+      "Treat this as a watchlist profile until Canadian franchise economics, support structure, and live expansion availability are confirmed directly."
+    ]
+  },
+  {
+    "name": "Mr. Handyman",
+    "founded": "1996",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Commercial / Residential Services",
+    "cuisine_type": "Residential and commercial handyman service franchise",
+    "category": "home-services",
+    "report_folder": "home services franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Handyman Connection",
+      "The Grounds Guys",
+      "local renovation contractors",
+      "local handyman networks"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "financials": {
+        "initial_investment": {
+          "value": "$161,900-$215,000",
+          "confidence": 90,
+          "source_url": "https://franchise.neighborly.com/franchises/mr-handyman/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$161,900-$215,000"
+        },
+        "franchise_fee": {
+          "value": "$67,000 included in the startup package",
+          "confidence": 88,
+          "source_url": "https://franchise.neighborly.com/franchises/mr-handyman/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$67,000 initial franchise fee"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 15 | USA: 250",
+          "confidence": 86,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/mr-handyman/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 15 | USA: 250"
+        }
+      },
+      "franchisee": {
+        "operational_difficulty": {
+          "value": "Official materials say owners run the business and do not need direct trade experience",
+          "confidence": 86,
+          "source_url": "https://franchise.neighborly.com/franchises/mr-handyman/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "No toolbelt required"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Mr. Handyman and CFA pages.",
+      "Canadian territory terms, recurring fees beyond startup, and mature job-margin data still require direct review."
+    ]
+  },
+  {
+    "name": "The Grounds Guys",
+    "founded": "1987",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Hybrid / Canadian-operated banner within a broader franchisor platform",
+    "industry": "Commercial / Residential Services",
+    "cuisine_type": "Lawn care, landscaping, and outdoor property services franchise",
+    "category": "home-services",
+    "report_folder": "home services franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Handyman Connection",
+      "Mr. Handyman",
+      "Mosquito Joe",
+      "local landscaping and lawn-care operators"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "canadian_owned": {
+          "value": "Canadian owned and operated according to the live Canadian consumer site",
+          "confidence": 84,
+          "source_url": "https://www.groundsguys.ca//",
+          "source_date": "2026 official Canada page",
+          "source_reliability": 86,
+          "evidence_quote": "Canadian Owned and Operated"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$107,650-$252,850",
+          "confidence": 90,
+          "source_url": "https://franchise.neighborly.com/franchises/the-grounds-guys/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$107,650-$252,850"
+        },
+        "franchise_fee": {
+          "value": "$43,750",
+          "confidence": 90,
+          "source_url": "https://franchise.neighborly.com/franchises/the-grounds-guys/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$43,750 initial franchise fee"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "260+ locations across the network",
+          "confidence": 82,
+          "source_url": "https://www.franchise.org/franchise-opportunities/the-grounds-guys/",
+          "source_date": "2026 IFA profile",
+          "source_reliability": 80,
+          "evidence_quote": "260+ locations"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Neighborly franchise pages, the current Canadian consumer page, and the current IFA profile.",
+      "Canadian route density, seasonality, snow-service mix, and local contract economics still require direct diligence."
+    ]
+  },
+  {
+    "name": "Mosquito Joe",
+    "founded": "2010",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Commercial / Residential Services",
+    "cuisine_type": "Outdoor pest-control and mosquito treatment franchise",
+    "category": "home-services",
+    "report_folder": "home services franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Low",
+      "BC": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "The Grounds Guys",
+      "local mosquito and pest-control companies",
+      "seasonal lawn and spray services",
+      "local exterminator brands"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "profile": {
+        "franchise_available": {
+          "value": "Official materials promote the model broadly, but Canada-specific public franchise availability remains unconfirmed",
+          "confidence": 78,
+          "source_url": "https://franchise.neighborly.com/franchises/mosquito-joe/",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "No experience necessary"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "Official Neighborly materials cite more than 410 franchise locations in 38 states",
+          "confidence": 80,
+          "source_url": "https://franchise.neighborly.com/blog/2024/june/mosquito-joe-franchise-opportunity/",
+          "source_date": "June 2024 official blog",
+          "source_reliability": 84,
+          "evidence_quote": "410-plus franchise locations"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official franchise pages emphasize low-barrier entry, no special licensing in many markets, and experienced team support",
+          "confidence": 84,
+          "source_url": "https://franchise.neighborly.com/franchises/mosquito-joe/",
+          "source_date": "2026 official page",
+          "source_reliability": 88,
+          "evidence_quote": "one of the lowest-priced franchise opportunities"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Mosquito Joe and Neighborly materials.",
+      "Canada-specific regulatory requirements, seasonality, and public fee detail remain too thin for investment use."
+    ]
+  },
+  {
+    "name": "The Little Gym",
+    "founded": "1976",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Children's Products & Services",
+    "cuisine_type": "Children's fitness, gymnastics, and enrichment franchise",
+    "category": "child-services",
+    "report_folder": "child services franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Angus Valley Montessori Schools",
+      "The Goddard School",
+      "local gymnastics clubs",
+      "premium children's enrichment brands"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "financials": {
+        "initial_investment": {
+          "value": "$420,324-$722,773",
+          "confidence": 88,
+          "source_url": "https://franchise.thelittlegym.com/franchise-information/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$420,324 - $722,773"
+        },
+        "franchise_fee": {
+          "value": "$59,500",
+          "confidence": 88,
+          "source_url": "https://franchise.thelittlegym.com/franchise-information/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$59,500"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "Almost 400 locations worldwide",
+          "confidence": 84,
+          "source_url": "https://franchise.thelittlegym.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "Almost 400 locations worldwide"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current The Little Gym franchise pages.",
+      "The public investment page is official but not clearly Canada-specific, so currency, legal entity, and local childcare/gym permitting economics still need confirmation."
+    ]
+  },
+  {
+    "name": "The Goddard School",
+    "founded": "1988",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Children's Products & Services",
+    "cuisine_type": "Premium early-childhood education and daycare franchise",
+    "category": "child-services",
+    "report_folder": "child services franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Angus Valley Montessori Schools",
+      "The Little Gym",
+      "local Montessori schools",
+      "premium daycare operators"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "financials": {
+        "initial_investment": {
+          "value": "$1,003,500-$1,503,000 for a build-to-suit school",
+          "confidence": 88,
+          "source_url": "https://www.goddardschoolfranchise.com/franchisee-information/request-franchise-information/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$1,003,500 to $1,503,000"
+        },
+        "franchise_fee": {
+          "value": "$135,000",
+          "confidence": 88,
+          "source_url": "https://www.goddardschoolfranchise.com/franchisee-information/request-franchise-information/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$135,000"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "665+ schools open or under development",
+          "confidence": 86,
+          "source_url": "https://www.goddardschoolfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "665+ schools open or under development"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official materials highlight curriculum, operations, marketing, and site-development support",
+          "confidence": 86,
+          "source_url": "https://www.goddardschoolfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "best-in-class support"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Goddard School franchise pages.",
+      "Public eligibility language is U.S.-focused, so Canada-specific availability, licensing economics, and enrollment margins must be confirmed directly."
+    ]
+  },
+  {
+    "name": "Right at Home Canada",
+    "founded": "1995",
+    "headquarters": "Winnipeg, Manitoba, Canada",
+    "canadian_owned": "Hybrid / Canadian operating platform within a global care brand",
+    "industry": "Senior and Home Care Services",
+    "cuisine_type": "In-home senior care and healthcare staffing franchise",
+    "category": "senior-care",
+    "report_folder": "senior care franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Home Instead",
+      "Nurse Next Door",
+      "Bayshore Home Care",
+      "local home-care agencies"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "headquarters": {
+          "value": "1750 Ellice Avenue, Winnipeg, MB R3H 0B3",
+          "confidence": 90,
+          "source_url": "https://www.rightathomecanada.com/franchise-opportunities",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "1750 Ellice Avenue, Winnipeg, MB R3H0B3"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "Approx. $150,000",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/right-at-home-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required Approx. $150K"
+        },
+        "franchise_fee": {
+          "value": "$70,000-$90,000",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/right-at-home-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $70,000-$90,000"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Two full weeks of training plus one week of on-site opening support",
+          "confidence": 90,
+          "source_url": "https://www.rightathomecanada.com/franchise-opportunities",
+          "source_date": "2026 official page",
+          "source_reliability": 92,
+          "evidence_quote": "two full weeks of training"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Right at Home Canada pages and the current CFA listing.",
+      "Caregiver utilization, referral-channel economics, and provincial compliance costs still require direct diligence."
+    ]
+  },
+  {
+    "name": "PostalAnnex",
+    "founded": "Not Verified",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Business Services",
+    "cuisine_type": "Shipping, mailbox, printing, and business-services centre franchise",
+    "category": "shipping-and-printing",
+    "report_folder": "shipping and printing franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "The UPS Store",
+      "FedEx Office",
+      "local print shops",
+      "independent shipping and mailbox centres"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "financials": {
+        "initial_investment": {
+          "value": "$249,130-$349,830",
+          "confidence": 88,
+          "source_url": "https://www.postalannexfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$249,130 - $349,830"
+        },
+        "franchise_fee": {
+          "value": "$35,000",
+          "confidence": 88,
+          "source_url": "https://www.postalannexfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$35,000"
+        },
+        "territory_protection": {
+          "value": "Protected territories are offered according to the official page",
+          "confidence": 86,
+          "source_url": "https://www.postalannexfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "Protected Territories"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "PostalAnnex has nearly 300 franchises; Annex Brands reports more than 820 locations across North America",
+          "confidence": 84,
+          "source_url": "https://www.postalannexfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "Nearly 300 Franchises"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current PostalAnnex franchise pages.",
+      "Public pages are U.S.-centric; Canadian availability, parcel economics, and print-margin mix still need direct confirmation."
+    ]
+  },
+  {
+    "name": "Spherion",
+    "founded": "1946",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Employment / Personnel Services",
+    "cuisine_type": "Staffing, recruiting, and workforce-solutions office",
+    "category": "staffing",
+    "report_folder": "staffing franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Express Employment Professionals",
+      "Randstad",
+      "Robert Half",
+      "local staffing agencies"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "financials": {
+        "initial_investment": {
+          "value": "$211,725-$423,925 depending on market and model",
+          "confidence": 88,
+          "source_url": "https://www.spherion.com/franchise/franchise-faqs/",
+          "source_date": "2026 official FAQ",
+          "source_reliability": 90,
+          "evidence_quote": "$211,725 to $423,925"
+        },
+        "franchise_fee": {
+          "value": "$30,090-$60,100",
+          "confidence": 88,
+          "source_url": "https://www.spherion.com/franchise/franchise-faqs/",
+          "source_date": "2026 official FAQ",
+          "source_reliability": 90,
+          "evidence_quote": "$30,090 to $60,100"
+        },
+        "average_unit_revenue": {
+          "value": "$6.9M average annual revenue and $1.4M average gross profit according to the official marketing page",
+          "confidence": 86,
+          "source_url": "https://www.spherion.com/franchise/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$6.9M"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official materials emphasize payroll funding, back-office systems, and one-on-one coaching",
+          "confidence": 88,
+          "source_url": "https://www.spherion.com/franchise/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "payroll funding"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Spherion franchise pages and FAQ.",
+      "Public economics are official but not Canada-specific, so Canadian legal entity, currency, and bad-debt exposure still need direct diligence."
+    ]
+  },
+  {
+    "name": "Camp Bow Wow",
+    "founded": "2000",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Pets - Sales / Supplies / Services",
+    "cuisine_type": "Dog daycare, boarding, grooming, and training franchise",
+    "category": "pet-services",
+    "report_folder": "pet services franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Global Pet Foods",
+      "Pet Wants",
+      "local dog daycare operators",
+      "regional boarding and grooming brands"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "franchise_available": {
+          "value": "Yes - official FAQ states the brand is selling locations in Canada and has additional markets in development",
+          "confidence": 88,
+          "source_url": "https://www.campbowwowfranchise.com/franchise-faq/",
+          "source_date": "2026 official FAQ",
+          "source_reliability": 90,
+          "evidence_quote": "selling locations in Canada"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$954,606-$1,229,536",
+          "confidence": 88,
+          "source_url": "https://www.campbowwowfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$954,606-$1,229,536"
+        },
+        "average_unit_revenue": {
+          "value": "$1,089,859.75 mean average gross revenue in the 2025 Item 19 summary cited on the official page",
+          "confidence": 86,
+          "source_url": "https://www.campbowwowfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$1,089,859.75"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "One location in Canada with more in development",
+          "confidence": 86,
+          "source_url": "https://www.campbowwowfranchise.com/franchise-faq/",
+          "source_date": "2026 official FAQ",
+          "source_reliability": 90,
+          "evidence_quote": "We currently have 1 location in Canada"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Camp Bow Wow franchise pages and FAQ.",
+      "This is one of the more capital-intensive pet-service concepts, and Canadian market density is still early."
+    ]
+  },
+  {
+    "name": "Pet Wants",
+    "founded": "2010",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Pets - Sales / Supplies / Services",
+    "cuisine_type": "Fresh pet-food retail, delivery, and neighborhood pet-services franchise",
+    "category": "pet-services",
+    "report_folder": "pet services franchises",
+    "province_strength": {
+      "Ontario": "Medium",
+      "Alberta": "Low to medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Global Pet Foods",
+      "Camp Bow Wow",
+      "local independent pet stores",
+      "regional pet-delivery operators"
+    ],
+    "saturation": "Medium",
+    "franchise_available": "Not Verified",
+    "field_evidence": {
+      "financials": {
+        "initial_investment": {
+          "value": "$148,150-$239,400",
+          "confidence": 88,
+          "source_url": "https://petwantsfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$148,150-$239,400"
+        },
+        "franchise_fee": {
+          "value": "$53,500",
+          "confidence": 88,
+          "source_url": "https://petwantsfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "$53,500"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "More than 100 open locations across the system",
+          "confidence": 84,
+          "source_url": "https://petwantsfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "100+ Open Locations"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official materials emphasize mobile-first launch paths, clear processes, and centralized support",
+          "confidence": 84,
+          "source_url": "https://petwantsfranchise.com/",
+          "source_date": "2026 official page",
+          "source_reliability": 90,
+          "evidence_quote": "proven model, clear processes and unmatched support"
+        }
+      }
+    },
+    "source_notes": [
+      "Professional seed loaded from current Pet Wants franchise pages.",
+      "Public pages are U.S.-weighted, so Canadian availability, supply-chain economics, and fresh-food margin structure still need direct diligence."
+    ]
+  }
+]

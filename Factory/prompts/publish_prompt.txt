@@ -1,0 +1,1 @@
+OFFLINE ONLY. Station 3 publishes only locally source-backed verified values after all eight evidence gates pass. No model, API, browser, or network operation is permitted.

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GetFranchise offline published record",
+  "required": ["schema_version", "franchise", "slug", "clean_path", "published_at", "tier_basic", "tier_advanced", "tier_premium", "website_write"],
+  "types": {"schema_version": "string", "franchise": "string", "slug": "string", "clean_path": "string", "published_at": "string", "tier_basic": "object", "tier_advanced": "object", "tier_premium": "object", "website_write": "object"}
+}

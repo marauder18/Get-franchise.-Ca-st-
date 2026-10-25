@@ -1,0 +1,1303 @@
+[
+  {
+    "name": "Burger King",
+    "founded": "1954",
+    "headquarters": "Toronto, Ontario, Canada / Miami, Florida brand parent",
+    "canadian_owned": "No",
+    "cuisine_type": "Burgers, fries, chicken, breakfast",
+    "category": "burger",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "McDonalds Canada",
+      "A&W Canada",
+      "Wendy's Canada",
+      "Harvey's",
+      "local burger restaurants"
+    ],
+    "saturation": "High",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1954",
+          "confidence": 85,
+          "source_url": "https://www.rbi.com/English/brands/default.aspx",
+          "source_date": "2025 page",
+          "source_reliability": 90,
+          "evidence_quote": "Founded in 1954"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "More than 19,700 locations in more than 120 markets",
+          "confidence": 85,
+          "source_url": "https://www.rbi.com/English/brands/default.aspx",
+          "source_date": "2025 page",
+          "source_reliability": 90,
+          "evidence_quote": "more than 19,700 locations in more than 120 markets"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "About 95% of Burger King restaurants are independently franchisee-owned; Canadian franchisee-rated support not verified",
+          "confidence": 75,
+          "source_url": "https://www.rbi.com/English/brands/default.aspx",
+          "source_date": "2025 page",
+          "source_reliability": 90,
+          "evidence_quote": "Approximately 95% of Burger King restaurants are owned and operated by independent franchisees"
+        }
+      }
+    }
+  },
+  {
+    "name": "Dominos Canada",
+    "founded": "1960",
+    "headquarters": "Ann Arbor, Michigan, United States",
+    "canadian_owned": "No",
+    "cuisine_type": "Pizza, wings, sides, delivery",
+    "category": "pizza",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Pizza Pizza",
+      "Pizza Hut Canada",
+      "Little Caesars Canada",
+      "Papa Johns Canada",
+      "local pizzerias"
+    ],
+    "saturation": "High",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1960; renamed Domino's Pizza in 1965",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Domino%27s",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "renamed the business to Domino's Pizza, Inc. in 1965"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "Domino's operates internationally; Canada was first international market in 1983 background note",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Domino%27s",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "opened its first international store, in Winnipeg, Manitoba, Canada"
+        }
+      },
+      "financials": {
+        "franchise_fee": {
+          "value": "U.S./background only: $10,000 initial franchise fee; not Canadian-confirmed",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Domino%27s",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "initial franchise fee for a Domino's franchise is $10,000"
+        },
+        "royalty": {
+          "value": "U.S./background only: 5.5% weekly sales; not Canadian-confirmed",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Domino%27s",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "royalty fee is 5.5%"
+        },
+        "marketing_fee": {
+          "value": "U.S./background only: 4% weekly sales; not Canadian-confirmed",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Domino%27s",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "advertising payment is 4%"
+        }
+      }
+    },
+    "source_notes": [
+      "Domino's Canada requires official Canadian franchisor confirmation; current added evidence is background-only and not investor-scoring evidence."
+    ]
+  },
+  {
+    "name": "Harvey's",
+    "founded": "1959",
+    "headquarters": "Vaughan, Ontario, Canada",
+    "canadian_owned": "Yes",
+    "cuisine_type": "Burgers, fries, chicken",
+    "category": "burger",
+    "province_strength": {
+      "Ontario": "Very high",
+      "Alberta": "Medium",
+      "BC": "Low to medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "McDonalds Canada",
+      "A&W Canada",
+      "Burger King",
+      "Wendy's Canada",
+      "local burger restaurants"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1959 in Richmond Hill, Ontario",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Harvey%27s",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "Foundation: 1959-04-01 Richmond Hill, Ontario, Canada"
+        },
+        "headquarters": {
+          "value": "Vaughan, Ontario, Canada",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Harvey%27s",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "Location City Vaughan, Ontario"
+        },
+        "canadian_owned": {
+          "value": "Owned by Recipe Unlimited / Canadian brand background",
+          "confidence": 70,
+          "source_url": "https://www.recipeunlimited.com/en/franchising.html",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "RESTAURANT BRANDS"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Recipe Unlimited portfolio has more than 1,000 locations nationwide; Harvey's exact count not confirmed here",
+          "confidence": 75,
+          "source_url": "https://www.recipeunlimited.com/en/franchising.html",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "more than 1,000 locations nationwide"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Recipe franchising page lists training, operational support, business development manager, site selection, lease negotiation, design, construction and vendor support",
+          "confidence": 80,
+          "source_url": "https://www.recipeunlimited.com/en/franchising.html",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Comprehensive training for you and your management team"
+        },
+        "training_quality": {
+          "value": "Recipe franchising page lists comprehensive training for franchisees and management teams",
+          "confidence": 80,
+          "source_url": "https://www.recipeunlimited.com/en/franchising.html",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Comprehensive training for you and your management team"
+        }
+      }
+    }
+  },
+  {
+    "name": "KFC Canada",
+    "founded": "1955",
+    "headquarters": "Vaughan, Ontario, Canada / Louisville, Kentucky brand parent",
+    "canadian_owned": "No",
+    "cuisine_type": "Fried chicken, sandwiches, sides",
+    "category": "chicken",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Popeyes Canada",
+      "Mary Brown's Chicken",
+      "Church's Texas Chicken",
+      "local chicken restaurants"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "First franchise in 1952; first Canadian KFC opened in Saskatoon in 1955 background note",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Operations_of_KFC_by_country",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "The first KFC opened in 1955 in Saskatoon, Canada"
+        },
+        "franchising_internationally": {
+          "value": "Yes; KFC is a Yum! Brands franchised global system",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Yum%21_Brands",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "KFC, Pizza Hut and Taco Bell restaurant companies"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "Over 31,980 locations globally background count; Canadian count not franchisor-confirmed",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/KFC",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "over 31,980 locations globally"
+        }
+      }
+    },
+    "source_notes": [
+      "KFC Canada requires official Canadian franchisor confirmation; current added evidence is background-only and not investor-scoring evidence."
+    ]
+  },
+  {
+    "name": "Wendy's Canada",
+    "founded": "1969",
+    "headquarters": "Dublin, Ohio, United States",
+    "canadian_owned": "No",
+    "cuisine_type": "Burgers, chicken, fries, breakfast",
+    "category": "burger",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "McDonalds Canada",
+      "A&W Canada",
+      "Burger King",
+      "Harvey's"
+    ],
+    "saturation": "High",
+    "field_evidence": {
+      "growth": {
+        "total_locations_international": {
+          "value": "More than 7,000 restaurant locations in more than 30 markets and U.S. territories",
+          "confidence": 85,
+          "source_url": "https://www.wendys.com/franchising",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "more than 7,000 restaurant locations in more than 30 markets"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Official franchising page references development programs, preferred financial lenders, restaurant design, process, qualifications, requirements, and franchisee stories; franchisee-rated support not independently verified",
+          "confidence": 75,
+          "source_url": "https://www.wendys.com/franchising",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "development programs and close relationships with preferred financial lenders"
+        }
+      }
+    }
+  },
+  {
+    "name": "Dairy Queen Canada",
+    "founded": "1940",
+    "headquarters": "Burlington, Ontario, Canada / Bloomington, Minnesota brand parent",
+    "canadian_owned": "No",
+    "cuisine_type": "Ice cream, burgers, chicken, treats",
+    "category": "dessert-qsr",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "High",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "McDonalds Canada",
+      "A&W Canada",
+      "local ice cream shops",
+      "specialty dessert shops"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "financials": {
+        "initial_investment": {
+          "value": "$914,500-$3 million or more, Canadian opportunities page",
+          "confidence": 85,
+          "source_url": "https://www.dairyqueenfranchising.com/available-markets/canadian-opportunities/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Investment Range:$914,500 - $3 million or more"
+        },
+        "franchise_fee": {
+          "value": "$45,000, Canadian opportunities page",
+          "confidence": 85,
+          "source_url": "https://www.dairyqueenfranchising.com/available-markets/canadian-opportunities/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Franchise Fee:$45,000"
+        },
+        "royalty": {
+          "value": "4%",
+          "confidence": 85,
+          "source_url": "https://www.dairyqueenfranchising.com/available-markets/canadian-opportunities/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Royalty Fee:4%"
+        },
+        "marketing_fee": {
+          "value": "5-6%",
+          "confidence": 85,
+          "source_url": "https://www.dairyqueenfranchising.com/available-markets/canadian-opportunities/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Marketing Fee:5 - 6%"
+        },
+        "minimum_liquid_capital": {
+          "value": "$540,000, Canadian opportunities page",
+          "confidence": 85,
+          "source_url": "https://www.dairyqueenfranchising.com/available-markets/canadian-opportunities/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Liquid Capital Requirement:$540,000"
+        },
+        "minimum_net_worth": {
+          "value": "$1 million for a single unit, Canadian opportunities page",
+          "confidence": 85,
+          "source_url": "https://www.dairyqueenfranchising.com/available-markets/canadian-opportunities/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Net Worth Requirement:$1 million"
+        },
+        "franchise_term": {
+          "value": "20 years",
+          "confidence": 85,
+          "source_url": "https://www.dairyqueenfranchising.com/available-markets/canadian-opportunities/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Term:20 years"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Employee and management training programs disclosed on Canadian opportunities page",
+          "confidence": 75,
+          "source_url": "https://www.dairyqueenfranchising.com/available-markets/canadian-opportunities/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Employee and management training programs"
+        }
+      }
+    },
+    "investor_evidence": {
+      "cad_investment_fees": {
+        "verified": true,
+        "detail": "Official Dairy Queen Canadian opportunities page lists Canadian investment, fee, royalty, marketing, liquid capital, net worth, and term figures."
+      }
+    }
+  },
+  {
+    "name": "Popeyes Canada",
+    "founded": "1972",
+    "headquarters": "Toronto, Ontario, Canada / Miami, Florida brand parent",
+    "canadian_owned": "No",
+    "cuisine_type": "Fried chicken, sandwiches, sides",
+    "category": "chicken",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "KFC Canada",
+      "Mary Brown's Chicken",
+      "Church's Texas Chicken",
+      "local chicken restaurants"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "growth": {
+        "total_locations_international": {
+          "value": "Over 4,900 restaurants in the U.S. and around the world",
+          "confidence": 85,
+          "source_url": "https://www.rbi.com/English/brands/default.aspx",
+          "source_date": "2025 page",
+          "source_reliability": 90,
+          "evidence_quote": "over 4,900 restaurants in the U.S. and around the world"
+        }
+      },
+      "profile": {
+        "founded": {
+          "value": "1972",
+          "confidence": 85,
+          "source_url": "https://www.rbi.com/English/brands/default.aspx",
+          "source_date": "2025 page",
+          "source_reliability": 90,
+          "evidence_quote": "Founded in New Orleans in 1972"
+        }
+      }
+    }
+  },
+  {
+    "name": "Mary Brown's Chicken",
+    "founded": "1969",
+    "headquarters": "Markham, Ontario, Canada",
+    "canadian_owned": "Yes",
+    "cuisine_type": "Fried chicken, sandwiches, taters",
+    "category": "chicken",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "NL": "High"
+    },
+    "competitors": [
+      "KFC Canada",
+      "Popeyes Canada",
+      "Church's Texas Chicken",
+      "local chicken restaurants"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "growth": {
+        "total_locations_canada": {
+          "value": "300+ stores across Canada",
+          "confidence": 85,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "300+Stores Across Canada"
+        },
+        "net_growth_rate": {
+          "value": "19 consecutive years same-store sales growth claimed by franchisor",
+          "confidence": 80,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "19 Consecutive Years Same Store Sales Growth"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$875,000+ total average startup cost",
+          "confidence": 85,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Total Average Startup Cost 875k+"
+        },
+        "franchise_fee": {
+          "value": "$30,000",
+          "confidence": 85,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Franchisee Fee 30k"
+        },
+        "royalty": {
+          "value": "5%",
+          "confidence": 85,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Royalties 5%"
+        },
+        "marketing_fee": {
+          "value": "4%",
+          "confidence": 85,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Marketing 4%"
+        },
+        "minimum_liquid_capital": {
+          "value": "$300,000+ liquid capital",
+          "confidence": 85,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Liquid Capital 300k+"
+        },
+        "minimum_net_worth": {
+          "value": "$800,000",
+          "confidence": 85,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Net Worth 800k"
+        },
+        "other_mandatory_fees": {
+          "value": "Working capital approximately $100,000",
+          "confidence": 85,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Working Capital approx. 100k"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Training, operations, real estate/construction, marketing, and supply chain support listed",
+          "confidence": 80,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Training Operations Real Estate & Construction Marketing Supply Chain"
+        },
+        "support_quality": {
+          "value": "Official page lists training, operations, real estate/construction, marketing, and supply chain support; franchisee-rated support not independently verified",
+          "confidence": 75,
+          "source_url": "https://marybrowns.com/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "How We Help"
+        }
+      }
+    },
+    "investor_evidence": {
+      "cad_investment_fees": {
+        "verified": true,
+        "detail": "Official Mary Brown's franchising page lists startup cost, liquid capital, net worth, franchise fee, royalty, marketing, and working capital figures."
+      }
+    }
+  },
+  {
+    "name": "Pizza Hut Canada",
+    "founded": "1958",
+    "headquarters": "Vaughan, Ontario, Canada / Plano, Texas brand parent",
+    "canadian_owned": "No",
+    "cuisine_type": "Pizza, wings, pasta, delivery",
+    "category": "pizza",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Pizza Pizza",
+      "Dominos Canada",
+      "Little Caesars Canada",
+      "Papa Johns Canada",
+      "local pizzerias"
+    ],
+    "saturation": "High",
+    "field_evidence": {
+      "growth": {
+        "total_locations_international": {
+          "value": "19,974 restaurants worldwide as of December 2025",
+          "confidence": 85,
+          "source_url": "https://franchise.pizzahut.com/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "19,974 restaurants worldwide"
+        }
+      },
+      "financials": {
+        "franchise_fee": {
+          "value": "U.S. FDD / franchise site only: $25,000 initial franchise fee",
+          "confidence": 75,
+          "source_url": "https://franchise.pizzahut.com/faqs/",
+          "source_date": "2026 page",
+          "source_reliability": 85,
+          "evidence_quote": "Initial Franchise Fee = $25,000"
+        },
+        "royalty": {
+          "value": "U.S. FDD / franchise site only: 6% of gross sales, 6.5% under certain circumstances",
+          "confidence": 75,
+          "source_url": "https://franchise.pizzahut.com/faqs/",
+          "source_date": "2026 page",
+          "source_reliability": 85,
+          "evidence_quote": "Royalty Rate) = 6% of Gross Sales"
+        },
+        "marketing_fee": {
+          "value": "U.S. FDD / franchise site only: 4.75% national advertising plus IPHFHA dues noted",
+          "confidence": 75,
+          "source_url": "https://franchise.pizzahut.com/faqs/",
+          "source_date": "2026 page",
+          "source_reliability": 85,
+          "evidence_quote": "National Advertising = 4.75% of Gross Sales"
+        },
+        "training_fee": {
+          "value": "U.S. FDD / franchise site only: initial operations training program 8-12 weeks; travel/lodging paid by franchisee",
+          "confidence": 75,
+          "source_url": "https://franchise.pizzahut.com/faqs/",
+          "source_date": "2026 page",
+          "source_reliability": 85,
+          "evidence_quote": "initial training program is 8–12 weeks long"
+        }
+      }
+    }
+  },
+  {
+    "name": "Little Caesars Canada",
+    "founded": "1959",
+    "headquarters": "Detroit, Michigan, United States",
+    "canadian_owned": "No",
+    "cuisine_type": "Pizza, wings, value QSR",
+    "category": "pizza",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Pizza Pizza",
+      "Dominos Canada",
+      "Pizza Hut Canada",
+      "Papa Johns Canada",
+      "local pizzerias"
+    ],
+    "saturation": "High",
+    "field_evidence": {
+      "profile": {
+        "headquarters": {
+          "value": "Little Caesar of Canada ULC, Oakville, Ontario contact address",
+          "confidence": 85,
+          "source_url": "https://littlecaesarsfranchise.ca/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Little Caesar of Canada ULC, 2030 Bristol Circle"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Locations in 10 Canadian provinces coast to coast",
+          "confidence": 85,
+          "source_url": "https://littlecaesarsfranchise.ca/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "including 10 of Canada’s provinces coast to coast"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "Starting at $426,000, Canada franchise page",
+          "confidence": 85,
+          "source_url": "https://littlecaesarsfranchise.ca/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Estimated total investment: Starting at $426,000"
+        },
+        "franchise_fee": {
+          "value": "$20,000 initial franchise fee",
+          "confidence": 85,
+          "source_url": "https://littlecaesarsfranchise.ca/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "20K initial franchise fee"
+        },
+        "minimum_liquid_capital": {
+          "value": "$150,000 liquid asset requirement",
+          "confidence": 85,
+          "source_url": "https://littlecaesarsfranchise.ca/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Liquid asset requirement: $150,000"
+        },
+        "minimum_net_worth": {
+          "value": "$350,000 net worth requirement",
+          "confidence": 85,
+          "source_url": "https://littlecaesarsfranchise.ca/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Net worth requirement: $350,000"
+        },
+        "franchisor_financing": {
+          "value": "Partnerships with several financial institutions claimed",
+          "confidence": 75,
+          "source_url": "https://littlecaesarsfranchise.ca/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Financing: We have partnerships with several financial institutions"
+        }
+      }
+    },
+    "investor_evidence": {
+      "canadian_signing_entity": {
+        "verified": true,
+        "detail": "Canadian franchise page identifies Little Caesar of Canada ULC contact address in Oakville, Ontario."
+      },
+      "cad_investment_fees": {
+        "verified": true,
+        "detail": "Official Canadian franchise page lists startup investment, franchise fee, net worth, and liquid asset requirements."
+      }
+    }
+  },
+  {
+    "name": "Papa Johns Canada",
+    "founded": "1984",
+    "headquarters": "Louisville, Kentucky, United States",
+    "canadian_owned": "No",
+    "cuisine_type": "Pizza, sides, delivery",
+    "category": "pizza",
+    "province_strength": {
+      "Ontario": "Medium",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Pizza Pizza",
+      "Dominos Canada",
+      "Pizza Hut Canada",
+      "Little Caesars Canada",
+      "local pizzerias"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "growth": {
+        "total_locations_international": {
+          "value": "6,000+ units worldwide",
+          "confidence": 85,
+          "source_url": "https://franchise.papajohns.com/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "6,000+ Units Worldwide"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "U.S. and Canada page, currency not specified: $281,485-$890,267 traditional store development",
+          "confidence": 75,
+          "source_url": "https://franchise.papajohns.com/franchise/investment-requirements",
+          "source_date": "2026 page",
+          "source_reliability": 85,
+          "evidence_quote": "Initial Investment Range starts from $281,485 to $890,267"
+        },
+        "franchise_fee": {
+          "value": "U.S. and Canada page, currency not specified: $25,000 per traditional unit",
+          "confidence": 75,
+          "source_url": "https://franchise.papajohns.com/franchise/investment-requirements",
+          "source_date": "2026 page",
+          "source_reliability": 85,
+          "evidence_quote": "$25,000 per unit"
+        },
+        "royalty": {
+          "value": "U.S. and Canada page: 5% of net sales",
+          "confidence": 75,
+          "source_url": "https://franchise.papajohns.com/franchise/investment-requirements",
+          "source_date": "2026 page",
+          "source_reliability": 85,
+          "evidence_quote": "Royalty Fee 5% of Net Sales"
+        },
+        "marketing_fee": {
+          "value": "U.S. and Canada page: 6% of net sales for traditional stores",
+          "confidence": 75,
+          "source_url": "https://franchise.papajohns.com/franchise/investment-requirements",
+          "source_date": "2026 page",
+          "source_reliability": 85,
+          "evidence_quote": "Marketing Fund 6% of net sales"
+        }
+      }
+    }
+  },
+  {
+    "name": "Taco Bell Canada",
+    "founded": "1962",
+    "headquarters": "Vaughan, Ontario, Canada / Irvine, California brand parent",
+    "canadian_owned": "No",
+    "cuisine_type": "Mexican-inspired QSR, tacos, burritos",
+    "category": "mexican",
+    "province_strength": {
+      "Ontario": "Medium",
+      "Alberta": "Low to medium",
+      "BC": "Low to medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Quesada Burritos & Tacos",
+      "BarBurrito",
+      "Mucho Burrito",
+      "local Mexican restaurants"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "growth": {
+        "total_locations_international": {
+          "value": "8,212 restaurants as of 2023 background count; Canadian count not franchisor-confirmed",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Taco_Bell",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "8,212 restaurants"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "More than 94% of Taco Bell restaurants are franchisee/licensee-operated background note; Canadian support not verified",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Taco_Bell",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "more than 94 percent ... owned and operated by independent franchisees and licensees"
+        }
+      },
+      "profile": {
+        "franchising_internationally": {
+          "value": "Yes; Taco Bell is part of Yum! Brands franchise system",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Yum%21_Brands",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "KFC, Pizza Hut and Taco Bell restaurant companies"
+        }
+      }
+    },
+    "source_notes": [
+      "Taco Bell Canada requires official Canadian franchisor confirmation; current added evidence is background-only and not investor-scoring evidence."
+    ]
+  },
+  {
+    "name": "Firehouse Subs Canada",
+    "founded": "1994",
+    "headquarters": "Toronto, Ontario, Canada / Jacksonville, Florida brand parent",
+    "canadian_owned": "No",
+    "cuisine_type": "Hot subs, sandwiches, salads",
+    "category": "sandwich",
+    "province_strength": {
+      "Ontario": "Medium",
+      "Alberta": "Low to medium",
+      "BC": "Low to medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Subway Canada",
+      "Mr. Sub",
+      "Quiznos",
+      "local sandwich shops"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1994 in Jacksonville, Florida",
+          "confidence": 85,
+          "source_url": "https://www.rbi.com/English/brands/default.aspx",
+          "source_date": "2025 page",
+          "source_reliability": 90,
+          "evidence_quote": "Founded in Jacksonville, Florida in 1994"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "RBI says Firehouse is driven by more than 400 franchisees; current Canadian franchisee-rated support not verified",
+          "confidence": 70,
+          "source_url": "https://www.rbi.com/English/brands/default.aspx",
+          "source_date": "2025 page",
+          "source_reliability": 90,
+          "evidence_quote": "more than 400 Firehouse Subs franchisees"
+        }
+      }
+    }
+  },
+  {
+    "name": "Mr. Sub",
+    "founded": "1968",
+    "headquarters": "Toronto, Ontario, Canada",
+    "canadian_owned": "Yes",
+    "cuisine_type": "Submarine sandwiches, wraps, salads",
+    "category": "sandwich",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Low to medium",
+      "BC": "Low",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Subway Canada",
+      "Firehouse Subs Canada",
+      "Quiznos",
+      "local sandwich shops"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1968 in Toronto, Ontario",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Mr._Sub",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "founded in Toronto, Canada, in 1968"
+        },
+        "headquarters": {
+          "value": "Toronto, Ontario, Canada",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Mr._Sub",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "Location: Toronto, Ontario, Canada"
+        },
+        "canadian_owned": {
+          "value": "Owned by MTY Food Group background note",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Mr._Sub",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "Parent: MTY Food Group"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Over 200 submarine sandwich shops background count; current exact count not confirmed",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Mr._Sub",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "over 200 submarine sandwich shops"
+        }
+      }
+    }
+  },
+  {
+    "name": "Pita Pit Canada",
+    "founded": "1995",
+    "headquarters": "Kingston, Ontario, Canada",
+    "canadian_owned": "Yes",
+    "cuisine_type": "Pitas, wraps, bowls, healthier QSR",
+    "category": "sandwich",
+    "province_strength": {
+      "Ontario": "Medium",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Subway Canada",
+      "Freshii",
+      "local wrap shops",
+      "health-focused QSR"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1995 in Kingston, Ontario",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/pita-pit/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "opened their first Pita Pit in Kingston, Ontario in 1995"
+        }
+      },
+      "growth": {
+        "total_locations_international": {
+          "value": "More than 450 Pita Pit stores in North America, Europe, Asia, the Middle East and Asia-Pacific",
+          "confidence": 80,
+          "source_url": "https://foodtastic.ca/our-brands/pita-pit/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "more than 450 Pita Pit stores"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$425,000-$550,000 projected cost",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/pita-pit/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Projected cost: $425,000 – $550,000"
+        },
+        "franchise_fee": {
+          "value": "$30,000",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/pita-pit/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Franchise Fee: 30,000"
+        },
+        "minimum_liquid_capital": {
+          "value": "$150,000-$175,000 unencumbered cash required",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/pita-pit/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Unencumbered cash required: $150,000 – $175,000"
+        },
+        "royalty": {
+          "value": "5% of gross sales",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/pita-pit/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Royalty rate: 5% of gross sales"
+        },
+        "marketing_fee": {
+          "value": "3% total advertising funds: 2% national plus 1% local",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/pita-pit/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "National advertising fund: 2% of gross sales"
+        }
+      }
+    },
+    "investor_evidence": {
+      "cad_investment_fees": {
+        "verified": true,
+        "detail": "Foodtastic Pita Pit brand page lists projected cost, franchise fee, cash required, royalty, and advertising funds."
+      }
+    }
+  },
+  {
+    "name": "Quesada Burritos & Tacos",
+    "founded": "2004",
+    "headquarters": "Toronto, Ontario, Canada",
+    "canadian_owned": "Yes",
+    "cuisine_type": "Burritos, tacos, bowls",
+    "category": "mexican",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "BarBurrito",
+      "Mucho Burrito",
+      "Taco Bell Canada",
+      "local Mexican restaurants"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "Founded in 2004",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/quesada/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Founded in 2004"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "200 locations open; 25 in development; 8 provinces",
+          "confidence": 80,
+          "source_url": "https://quesada.ca/franchising/",
+          "source_date": "2026 page",
+          "source_reliability": 85,
+          "evidence_quote": "200 Locations now open"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$425,000-$550,000 projected build cost",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/quesada/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Projected build cost: $425,000 – $550,000"
+        },
+        "franchise_fee": {
+          "value": "$30,000",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/quesada/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Franchise fee: $30,000"
+        },
+        "minimum_liquid_capital": {
+          "value": "$150,000-$175,000 unencumbered capital required",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/quesada/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Unencumbered capital required: $150,000 – $175,000"
+        },
+        "royalty": {
+          "value": "6% of gross sales",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/quesada/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Royalty fee: 6 % of gross sales"
+        },
+        "marketing_fee": {
+          "value": "4% total marketing: 3% national ad fund plus 1% local area marketing",
+          "confidence": 85,
+          "source_url": "https://foodtastic.ca/our-brands/quesada/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "National Ad Fund: 3 % of gross sales"
+        }
+      }
+    },
+    "investor_evidence": {
+      "cad_investment_fees": {
+        "verified": true,
+        "detail": "Foodtastic Quesada brand page lists projected build cost, franchise fee, capital required, royalty, and marketing fees."
+      }
+    }
+  },
+  {
+    "name": "BarBurrito",
+    "founded": "2005",
+    "headquarters": "Toronto, Ontario, Canada",
+    "canadian_owned": "Yes",
+    "cuisine_type": "Burritos, tacos, bowls",
+    "category": "mexican",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Quesada Burritos & Tacos",
+      "Mucho Burrito",
+      "Taco Bell Canada",
+      "local Mexican restaurants"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "canadian_owned": {
+          "value": "Proudly Canadian since 2005",
+          "confidence": 80,
+          "source_url": "https://www.barburrito.ca/franchise/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "PROUDLY CANADIAN | SINCE 2005"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Comprehensive training program listed on official franchise page",
+          "confidence": 75,
+          "source_url": "https://www.barburrito.ca/franchise/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Comprehensive training program"
+        },
+        "support_quality": {
+          "value": "Official page lists negotiated supply agreements, site selection, lease negotiation, field support, and targeted marketing; franchisee-rated support not independently verified",
+          "confidence": 75,
+          "source_url": "https://www.barburrito.ca/franchise/",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Site selection and lease negotiation"
+        }
+      }
+    }
+  },
+  {
+    "name": "Mucho Burrito",
+    "founded": "2006",
+    "headquarters": "Vaughan, Ontario, Canada",
+    "canadian_owned": "Yes",
+    "cuisine_type": "Burritos, tacos, bowls",
+    "category": "mexican",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "Quesada Burritos & Tacos",
+      "BarBurrito",
+      "Taco Bell Canada",
+      "local Mexican restaurants"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "headquarters": {
+          "value": "Recipe Unlimited / Vaughan, Ontario brand family context; exact franchisor entity not confirmed",
+          "confidence": 70,
+          "source_url": "https://www.recipeunlimited.com/en/franchising.html",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "RESTAURANT BRANDS"
+        },
+        "canadian_owned": {
+          "value": "Recipe Unlimited brand family context; exact Mucho Burrito ownership/franchisor entity not confirmed",
+          "confidence": 70,
+          "source_url": "https://www.recipeunlimited.com/en/franchising.html",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Our portfolio of restaurant brands"
+        }
+      },
+      "franchisee": {
+        "support_quality": {
+          "value": "Recipe franchising page lists training, operational support, business development manager, site selection, lease negotiation, design, construction and vendor support",
+          "confidence": 80,
+          "source_url": "https://www.recipeunlimited.com/en/franchising.html",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Ongoing support from a dedicated business development manager"
+        },
+        "training_quality": {
+          "value": "Recipe franchising page lists comprehensive training for franchisees and management teams",
+          "confidence": 80,
+          "source_url": "https://www.recipeunlimited.com/en/franchising.html",
+          "source_date": "2026 page",
+          "source_reliability": 90,
+          "evidence_quote": "Comprehensive training for you and your management team"
+        }
+      }
+    }
+  },
+  {
+    "name": "Booster Juice",
+    "founded": "1999",
+    "headquarters": "Edmonton, Alberta, Canada",
+    "canadian_owned": "Yes",
+    "cuisine_type": "Smoothies, juices, wraps, bowls",
+    "category": "beverage",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Very high",
+      "BC": "High",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Jugo Juice",
+      "Freshii",
+      "local smoothie bars",
+      "health-focused QSR"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1999 in Sherwood Park, Alberta background note",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Booster_Juice",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "founded in 1999 in Sherwood Park, Alberta"
+        },
+        "headquarters": {
+          "value": "Edmonton, Alberta, Canada background note",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Booster_Juice",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "Headquarters: Edmonton, Alberta"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canadian smoothie/juice chain background source; exact current store count not franchisor-confirmed",
+          "confidence": 45,
+          "source_url": "https://en.wikipedia.org/wiki/Booster_Juice",
+          "source_date": "Crawled 2026",
+          "source_reliability": 45,
+          "evidence_quote": "Canadian chain of juice and smoothie bars"
+        }
+      }
+    },
+    "source_notes": [
+      "Booster Juice requires official franchisor confirmation; current added evidence is background-only and not investor-scoring evidence."
+    ]
+  }
+]

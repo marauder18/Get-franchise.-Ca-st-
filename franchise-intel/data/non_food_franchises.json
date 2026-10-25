@@ -1,0 +1,1416 @@
+[
+  {
+    "name": "Century 21 Canada Limited Partnership",
+    "founded": "1976",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Hybrid / Canadian master-franchisor structure",
+    "industry": "Real Estate",
+    "cuisine_type": "Residential and commercial real-estate brokerage",
+    "category": "real-estate",
+    "report_folder": "real estate franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "High",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "RE/MAX",
+      "Keller Williams",
+      "Royal LePage",
+      "local independent brokerages"
+    ],
+    "saturation": "High",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1976",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1976"
+        },
+        "industry": {
+          "value": "Real Estate",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Real Estate"
+        },
+        "canadian_owned": {
+          "value": "Canadian master franchisor / global brand structure",
+          "confidence": 82,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "CENTURY 21 Canada is the master franchisor in Canada for the CENTURY 21 real estate brand"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$50K-$100K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required $50K-$100K"
+        },
+        "franchise_fee": {
+          "value": "$10.5K-$21K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $10.5K-$21K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 400 | USA: 4600",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 400 | USA: 4600"
+        },
+        "total_locations_international": {
+          "value": "Approximately 12,500 offices and over 147,000 agents in 86 countries and territories",
+          "confidence": 82,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "86 countries and territories with approximately 12,500 offices and over 147,000 agents"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Initial training: Yes",
+          "confidence": 85,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial Training Yes"
+        }
+      }
+    },
+    "source_notes": [
+      "CFA listing supports the Canadian master-franchise structure and basic fee range.",
+      "Broker split economics, desk fees, and local recruiting assumptions still need direct franchisor confirmation."
+    ]
+  },
+  {
+    "name": "Days Inns - Canada",
+    "founded": "1992",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Hybrid / Canadian operating team under Wyndham affiliation",
+    "industry": "Hotels / Motels / Campgrounds",
+    "cuisine_type": "Midscale hotel and lodging franchise",
+    "category": "hotel",
+    "report_folder": "hotels franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "Medium",
+      "NS": "Medium"
+    },
+    "competitors": [
+      "Holiday Inn Express",
+      "Best Western",
+      "Comfort Inn",
+      "local independent hotels"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1992",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1992"
+        },
+        "industry": {
+          "value": "Hotels / Motels / Campgrounds",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Hotels / Motels / Campgrounds"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "Inquire",
+          "confidence": 80,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required Inquire"
+        },
+        "franchise_fee": {
+          "value": "Min. $46K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee Min. $46K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 108",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 108"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Initial training: Yes",
+          "confidence": 85,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial Training Yes"
+        },
+        "support_quality": {
+          "value": "Backed by a Canadian team of hospitality specialists",
+          "confidence": 82,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Backed by a Canadian team of hospitality specialists"
+        }
+      }
+    },
+    "source_notes": [
+      "Hotel economics require property-level underwriting, reserve schedules, and renovation obligations before any capital decision.",
+      "The public listing is useful for screening but does not disclose the real capex burden."
+    ]
+  },
+  {
+    "name": "Orangetheory Fitness",
+    "founded": "2010",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Health / Fitness / Nutrition",
+    "cuisine_type": "Boutique group fitness studio membership model",
+    "category": "fitness",
+    "report_folder": "fitness franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "High",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Anytime Fitness",
+      "F45 Training",
+      "Planet Fitness",
+      "local boutique gyms"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "2010",
+          "confidence": 86,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/orangetheory-fitness/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 2010"
+        },
+        "industry": {
+          "value": "Health / Fitness / Nutrition",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/orangetheory-fitness/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Health / Fitness / Nutrition"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "Inquire",
+          "confidence": 80,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/orangetheory-fitness/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required Inquire"
+        },
+        "franchise_fee": {
+          "value": "$69.5K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/orangetheory-fitness/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $69.5K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "115+ locations across Canada",
+          "confidence": 90,
+          "source_url": "https://www.orangetheory.com/en-ca/franchising",
+          "source_date": "2026 franchising page",
+          "source_reliability": 90,
+          "evidence_quote": "115+ locations across Canada"
+        },
+        "total_locations_international": {
+          "value": "1,500+ franchises awarded across 25 countries",
+          "confidence": 90,
+          "source_url": "https://www.orangetheory.com/en-ca/franchising",
+          "source_date": "2026 franchising page",
+          "source_reliability": 90,
+          "evidence_quote": "1500+ franchises awarded across 25 countries"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Comprehensive corporate training and support across real estate, operations, marketing, sales, fitness, equipment, technology, training, construction, and design",
+          "confidence": 90,
+          "source_url": "https://www.orangetheory.com/en-ca/franchising",
+          "source_date": "2026 franchising page",
+          "source_reliability": 90,
+          "evidence_quote": "Comprehensive corporate training & support includes: real estate, operations, marketing, sales, fitness, equipment, technology, training, construction & design"
+        },
+        "support_quality": {
+          "value": "Official franchising page highlights broad corporate training and support functions",
+          "confidence": 88,
+          "source_url": "https://www.orangetheory.com/en-ca/franchising",
+          "source_date": "2026 franchising page",
+          "source_reliability": 90,
+          "evidence_quote": "Comprehensive corporate training & support includes"
+        }
+      }
+    },
+    "source_notes": [
+      "The official Canadian franchising page is more current for system size than the CFA header units count.",
+      "Studio buildout, rent, and member-retention assumptions still need direct disclosure review."
+    ]
+  },
+  {
+    "name": "Kumon Math and Reading Centres",
+    "founded": "1958",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Educational Products & Services",
+    "cuisine_type": "Supplementary math and reading education centres",
+    "category": "education",
+    "report_folder": "education franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "BC": "High",
+      "Alberta": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Oxford Learning",
+      "Mathnasium",
+      "Sylvan Learning",
+      "local tutoring centres"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1958",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/kumon-math-and-reading-centres/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1958"
+        },
+        "industry": {
+          "value": "Educational Products & Services",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/kumon-math-and-reading-centres/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Educational Products & Services"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$64K-$160K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/kumon-math-and-reading-centres/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required $64K-$160K"
+        },
+        "franchise_fee": {
+          "value": "$2K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/kumon-math-and-reading-centres/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $2K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 437 | USA: 1677",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/kumon-math-and-reading-centres/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 437 | USA: 1677"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Initial training: Yes",
+          "confidence": 85,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/kumon-math-and-reading-centres/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial Training Yes"
+        },
+        "support_quality": {
+          "value": "Large and established supplemental education franchisor",
+          "confidence": 82,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/kumon-math-and-reading-centres/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "one of the largest & most established franchisors in the supplemental education industry"
+        }
+      }
+    },
+    "source_notes": [
+      "Kumon is one of the cleaner low-capex education concepts in the set, but local enrolment density still determines returns.",
+      "Parent acquisition cost, instructor payroll, and retention need direct operator validation."
+    ]
+  },
+  {
+    "name": "Merry Maids of Canada",
+    "founded": "1979",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Commercial / Residential Services",
+    "cuisine_type": "Residential home cleaning service franchise",
+    "category": "cleaning",
+    "report_folder": "cleaning franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low to medium"
+    },
+    "competitors": [
+      "MOLLY MAID Canada",
+      "Hellamaid",
+      "Servus Group Canada",
+      "local residential cleaners"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1979",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1979"
+        },
+        "industry": {
+          "value": "Commercial / Residential Services",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Commercial / Residential Services"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$90K-$186K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required $90K-$186K"
+        },
+        "franchise_fee": {
+          "value": "$33K-$40K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $33K-$40K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 35",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 35"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Initial training: Yes",
+          "confidence": 85,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial Training Yes"
+        },
+        "support_quality": {
+          "value": "Comprehensive support includes training, marketing, operating platform, scheduling software, customer communication tools, sales support, and recruitment assistance",
+          "confidence": 85,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "This includes extensive training, strategic marketing initiatives, a proven operating platform, and advanced scheduling software"
+        }
+      }
+    },
+    "source_notes": [
+      "Cleaning is one of the stronger recurring-service categories for smaller operators, but labour retention will determine execution quality.",
+      "Commercial/residential mix, route density, and customer churn need direct confirmation."
+    ]
+  },
+  {
+    "name": "Mr. Lube + Tires",
+    "founded": "1976",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Yes",
+    "industry": "Automotive & Truck Services / Products / Rentals",
+    "cuisine_type": "Automotive preventive maintenance and tire service centres",
+    "category": "automotive",
+    "report_folder": "automotive franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "High",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Jiffy Lube",
+      "Midas",
+      "Meineke",
+      "local automotive service shops"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1976",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1976"
+        },
+        "industry": {
+          "value": "Automotive & Truck Services / Products / Rentals",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Automotive & Truck Services / Products / Rentals"
+        },
+        "canadian_owned": {
+          "value": "Yes",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "100% Canadian owned"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$1.5M-$2.0M",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required $1.5M-$2.0M"
+        },
+        "franchise_fee": {
+          "value": "$100K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $100K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 179",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 179"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "3 months",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial Training 3 months"
+        },
+        "support_quality": {
+          "value": "Brand highlights established systems, training, purchasing power, and national fleet partnerships",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "established operating systems, industry-leading training, national purchasing power, national fleet partnerships"
+        }
+      }
+    },
+    "source_notes": [
+      "This is a high-capex service concept, well outside the current $320K target, but it is useful as a benchmark for serious automotive operators.",
+      "Bay-level economics, technician hiring, and real-estate format need direct underwriting."
+    ]
+  },
+  {
+    "name": "Handyman Connection",
+    "founded": "1991",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Home - Improvement / Renovation / Restoration",
+    "cuisine_type": "Handyman and home improvement contractor platform",
+    "category": "home-services",
+    "report_folder": "home services franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Mr. Handyman",
+      "The Grounds Guys",
+      "local renovation contractors",
+      "local handyman networks"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1991",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1991"
+        },
+        "industry": {
+          "value": "Home - Improvement / Renovation / Restoration",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Home - Improvement / Renovation / Restoration"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$99K-$150K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required $99-150k"
+        },
+        "franchise_fee": {
+          "value": "$70K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $70K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 17 | USA: 45",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 17 | USA: 45"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Initial training: Yes",
+          "confidence": 85,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial Training Yes"
+        },
+        "support_quality": {
+          "value": "Franchisees are equipped with skills, knowledge, and tools, and owners primarily coordinate local trades rather than do the work themselves",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "The local franchise owners are not responsible for completing the work, rather they connect local handyman with local homeowners"
+        }
+      }
+    },
+    "source_notes": [
+      "This is closer to a lead-generation and contractor-management model than a self-performed trade model.",
+      "Territory quality, contractor supply, and close rates need direct operator validation."
+    ]
+  },
+  {
+    "name": "Angus Valley Montessori Schools",
+    "founded": "2017",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Educational Products & Services",
+    "cuisine_type": "Premium Montessori childcare and early-learning centres",
+    "category": "child-services",
+    "report_folder": "child services franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "BC": "Medium",
+      "Alberta": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "The Goddard School",
+      "local Montessori operators",
+      "premium childcare centres",
+      "franchise and independent early-learning brands"
+    ],
+    "saturation": "Low to medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "2017",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 2017"
+        },
+        "industry": {
+          "value": "Educational Products & Services",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Educational Products & Services"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$900K-$2.2M",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required $900K-$2.2M"
+        },
+        "franchise_fee": {
+          "value": "$75K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $75K; Royalties 6% to corporate; 2% to advertising support"
+        },
+        "royalty": {
+          "value": "6%",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Royalties 6% to corporate"
+        },
+        "marketing_fee": {
+          "value": "2%",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "2% to advertising support"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 6",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 6"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Initial training is provided",
+          "confidence": 85,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial training is provided"
+        },
+        "support_quality": {
+          "value": "Brand highlights curriculum, custom-designed buildings, chef-created menus, operations, and land-developer relationships for site sourcing",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Through strong relationships with land developers, we secure prime locations with high demand opportunities"
+        }
+      }
+    },
+    "source_notes": [
+      "This is a premium child-services concept with serious capital intensity and licensing complexity.",
+      "Occupancy ramp, staffing ratios, and municipal approval timelines require direct diligence."
+    ]
+  },
+  {
+    "name": "Home Instead",
+    "founded": "1994",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Seniors Services / Home Care / Transition",
+    "cuisine_type": "Non-medical in-home senior care services",
+    "category": "senior-care",
+    "report_folder": "senior care franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Right at Home Canada",
+      "Nurse Next Door",
+      "Bayshore Home Care",
+      "local home-care agencies"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1994",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1994"
+        },
+        "industry": {
+          "value": "Seniors Services / Home Care / Transition",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Seniors Services / Home Care / Transition"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$130K-$140K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required $130K-$140K"
+        },
+        "franchise_fee": {
+          "value": "$59K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $59K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 48 | USA: 614",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 48 | USA: 614"
+        },
+        "total_locations_international": {
+          "value": "Over 1,200 independently owned and operated franchised businesses providing more than 90 million hours of in-home care services",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "over 1,200 independently owned and operated franchised businesses providing more than 90 million hours of in-home care services"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Initial training, onsite field visits, regional field training, ongoing face-to-face training, 24/7 support and online training",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial training, onsite field visits, regional field training, ongoing face-to-face training, 24/7 Support and online training"
+        },
+        "support_quality": {
+          "value": "The listing emphasizes a large network and meaningful ongoing support infrastructure",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial training, onsite field visits, regional field training, ongoing face-to-face training, 24/7 Support and online training"
+        }
+      }
+    },
+    "source_notes": [
+      "Home care can offer strong recurring demand, but caregiver hiring, utilization, and compliance control the economics.",
+      "Provincial care rules and referral relationships need city-by-city diligence."
+    ]
+  },
+  {
+    "name": "The UPS Store",
+    "founded": "1990",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Printing / Copying / Shipping",
+    "cuisine_type": "Shipping, printing, mailbox, and small-business services",
+    "category": "shipping-printing",
+    "report_folder": "shipping and printing franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "BC": "High",
+      "Alberta": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "PostalAnnex",
+      "FedEx Office",
+      "local print shops",
+      "independent shipping and mailbox centres"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1990",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1990"
+        },
+        "industry": {
+          "value": "Printing / Copying / Shipping",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Printing / Copying / Shipping"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$219.5K to $299.5K plus working capital",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required $219.5K to $299.5K plus working capital"
+        },
+        "franchise_fee": {
+          "value": "$40K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $40K"
+        },
+        "territory_protection": {
+          "value": "Defined territory assessed individually by The UPS Store Canada corporate office",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Each centre will have defined territory that is assessed individually by The UPS Store Canada corporate office"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 400",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 400"
+        },
+        "total_locations_international": {
+          "value": "Over 5,700 locations across North America, including over 400 in Canada",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "The over 5,700 locations across North America, including over 400 in Canada"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Training includes orientation, 30 days of eLearning, store-based certified trainer work, and The UPS Store University",
+          "confidence": 86,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "30 Days of eLearning training modules"
+        },
+        "support_quality": {
+          "value": "Experienced home office and in-field teams support grand opening, site selection, design, and construction",
+          "confidence": 86,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "The UPS Store franchisees enjoy the training and ongoing support of experienced home office and in-field teams"
+        }
+      }
+    },
+    "source_notes": [
+      "This is one of the cleaner business-services office concepts near the current investment ceiling.",
+      "Small-business account mix, parcel volume, and local centre economics still need direct diligence."
+    ]
+  },
+  {
+    "name": "Express Employment Professionals",
+    "founded": "1983",
+    "headquarters": "Not Verified",
+    "canadian_owned": "No",
+    "industry": "Employment / Personnel Services",
+    "cuisine_type": "Staffing, recruiting, and workforce-solutions office",
+    "category": "staffing",
+    "report_folder": "staffing franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "Medium",
+      "Quebec": "Low"
+    },
+    "competitors": [
+      "Spherion",
+      "Randstad",
+      "Robert Half",
+      "local staffing agencies"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1983",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1983"
+        },
+        "industry": {
+          "value": "Employment / Personnel Services",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Employment / Personnel Services"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$131K-$241.7K USD",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "$131K-$241.7K Initial Investment (USD)"
+        },
+        "franchise_fee": {
+          "value": "$40K USD",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "$40,000 Franchise Fee (USD)"
+        },
+        "royalty": {
+          "value": "8%",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "8% Royalties"
+        },
+        "minimum_net_worth": {
+          "value": "$250,000+ required",
+          "confidence": 86,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Net Worth $250,000+ required"
+        },
+        "minimum_liquid_capital": {
+          "value": "$200,000 access",
+          "confidence": 86,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Liquid Capital Minimum $200,000 access"
+        },
+        "average_unit_revenue": {
+          "value": "$5.3M Average AUV - Open 2+ Years; $5.7M - Open 5+ Years",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "$5.3M Average AUV - Open 2+ Years"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 40 | USA: 684",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 40 | USA: 684"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Two weeks of virtual training, continual education and training",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Two weeks of virtual training, continual education and training"
+        },
+        "support_quality": {
+          "value": "Back-office payroll support, owner community, leadership academy, regional meetings, and strategic development support",
+          "confidence": 86,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Express handles payroll funding for franchise owners"
+        },
+        "satisfaction_score": {
+          "value": "94% of Franchise Owners would recommend Express Employment Professionals",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "94% of Franchise Owners would recommend Express Employment Professionals to a prospective franchisee"
+        }
+      }
+    },
+    "source_notes": [
+      "This is a strong business-and-office comparison case, but it remains a cross-border caution because the public fee stack is in USD.",
+      "Payroll funding discipline, local sales productivity, and bad-debt exposure need direct diligence."
+    ]
+  },
+  {
+    "name": "Global Pet Foods",
+    "founded": "1976",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Yes",
+    "industry": "Pets - Sales / Supplies / Services",
+    "cuisine_type": "Pet nutrition and specialty pet retail",
+    "category": "pet-services",
+    "report_folder": "pet services franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "Medium",
+      "BC": "Medium",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Pet Valu",
+      "Ren's Pets",
+      "Bosley's",
+      "local independent pet stores"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1976",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/global-pet-foods/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1976"
+        },
+        "industry": {
+          "value": "Pets - Sales / Supplies / Services",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/global-pet-foods/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Pets - Sales / Supplies / Services"
+        },
+        "canadian_owned": {
+          "value": "Yes",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/global-pet-foods/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "the largest 100% Canadian-owned and operated pet-specialty retail chain"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "Starts at $355K",
+          "confidence": 86,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/global-pet-foods/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required Starts at $355K"
+        },
+        "franchise_fee": {
+          "value": "$30K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/global-pet-foods/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $30K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 230",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/global-pet-foods/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 230"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "4 weeks",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/global-pet-foods/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial Training 4 weeks"
+        },
+        "support_quality": {
+          "value": "Turnkey store support with site selection and merchandise management emphasis",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/global-pet-foods/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Our attention to site selection and merchandise management has resulted in time-proven and steady growth"
+        }
+      }
+    },
+    "source_notes": [
+      "The listing page gives a lower 'starts at' investment figure than some CFA listing-grid snippets, so direct reconciliation is required before modeling.",
+      "Retail margin mix, basket size, and omni-channel pressure need direct operator validation."
+    ]
+  },
+  {
+    "name": "Centum Financial Group Inc.",
+    "founded": "2002",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Financial / Cash Services",
+    "cuisine_type": "Mortgage brokerage and financial-services office",
+    "category": "finance",
+    "report_folder": "finance franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "Alberta": "High",
+      "BC": "High",
+      "Quebec": "Medium"
+    },
+    "competitors": [
+      "Dominion Lending Centres",
+      "Mortgage Alliance",
+      "independent mortgage brokerages",
+      "bank mortgage channels"
+    ],
+    "saturation": "Medium to high",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "2002",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 2002"
+        },
+        "industry": {
+          "value": "Financial / Cash Services",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Financial / Cash Services"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "Minimal to $10K",
+          "confidence": 86,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required Minimal to $10K"
+        },
+        "franchise_fee": {
+          "value": "Please call for more information",
+          "confidence": 82,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee Please call for more information"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 260",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 260"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "Initial training: Yes",
+          "confidence": 85,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial Training Yes"
+        },
+        "support_quality": {
+          "value": "Brand highlights systems, technology, training, support, financial products, and modern marketing support",
+          "confidence": 84,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "CENTUM provides its network with the systems, technology, training, support and financial products"
+        }
+      }
+    },
+    "source_notes": [
+      "This is a low-capital finance category benchmark, but fee transparency is weak at the public-listing level.",
+      "Lead flow, agent productivity, compliance, and lender mix still need direct diligence."
+    ]
+  },
+  {
+    "name": "Ledgers Canada",
+    "founded": "1994",
+    "headquarters": "Not Verified",
+    "canadian_owned": "Not Verified",
+    "industry": "Accounting / Tax Services",
+    "cuisine_type": "Accounting, bookkeeping, and tax-services office",
+    "category": "finance",
+    "report_folder": "finance franchises",
+    "province_strength": {
+      "Ontario": "High",
+      "BC": "Medium",
+      "Alberta": "Medium",
+      "NB": "Medium"
+    },
+    "competitors": [
+      "Padgett Business Services",
+      "independent bookkeeping firms",
+      "local tax offices",
+      "virtual accounting providers"
+    ],
+    "saturation": "Medium",
+    "field_evidence": {
+      "profile": {
+        "founded": {
+          "value": "1994",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "In Business Since 1994"
+        },
+        "industry": {
+          "value": "Accounting / Tax Services",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Accounting / Tax Services"
+        }
+      },
+      "financials": {
+        "initial_investment": {
+          "value": "$40K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Investment Required $40K"
+        },
+        "franchise_fee": {
+          "value": "$25K",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Fee $25K"
+        }
+      },
+      "growth": {
+        "total_locations_canada": {
+          "value": "Canada: 47",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Franchise Units Canada: 47"
+        }
+      },
+      "franchisee": {
+        "training_quality": {
+          "value": "7 days",
+          "confidence": 88,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Initial Training 7 days"
+        },
+        "support_quality": {
+          "value": "One-stop small-business accounting, bookkeeping, and tax-service positioning",
+          "confidence": 82,
+          "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+          "source_date": "2026 CFA listing",
+          "source_reliability": 88,
+          "evidence_quote": "Ledgers Franchise owners provide a comprehensive suite of services to small businesses"
+        }
+      }
+    },
+    "source_notes": [
+      "Ledgers is another business-and-office benchmark with a much smaller capital requirement than most retail or service buildouts.",
+      "Owner credentials, staffing model, and client-acquisition costs still need direct diligence."
+    ]
+  }
+]

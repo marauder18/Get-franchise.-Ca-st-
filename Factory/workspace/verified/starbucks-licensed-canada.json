@@ -1,0 +1,14 @@
+{
+  "brand": "Starbucks Licensed Stores Canada",
+  "verdict": "REVIEW_ONLY",
+  "verified_fields": [],
+  "rejected_fields": [
+    "franchise_available",
+    "business_model"
+  ],
+  "official_source_urls": [],
+  "core_money_fields_verified": 0,
+  "canadian_availability_verified": false,
+  "verification_notes": "Availability is unclear/denied. Sources used are secondary (VettedBiz, FranchiseBA) and not official franchisor sites. Not a traditional franchise.",
+  "publish_reason": "Unsupported availability and lack of official sources."
+}

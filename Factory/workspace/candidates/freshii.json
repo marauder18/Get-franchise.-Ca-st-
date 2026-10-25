@@ -1,0 +1,69 @@
+{
+  "brand": "Freshii",
+  "slug": "freshii",
+  "research_date": "2026-10-16",
+  "fields": [
+    {
+      "field_id": "franchise_available",
+      "value": "Yes",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/freshii-health-wellness/",
+      "source_excerpt": "BECOME A FRANCHISEE",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "initial_investment",
+      "value": "$450,000-$525,000 projected build cost",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/freshii-health-wellness/",
+      "source_excerpt": "$450,000-$525,000 projected build cost",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "franchise_fee",
+      "value": "$30,000",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/freshii-health-wellness/",
+      "source_excerpt": "$30,000",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "royalty",
+      "value": "6% of gross sales",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/freshii-health-wellness/",
+      "source_excerpt": "6% of gross sales",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "marketing_fee",
+      "value": "3% total advertising: 2% national ad fund plus 1% local area marketing",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/freshii-health-wellness/",
+      "source_excerpt": "3% total advertising: 2% national ad fund plus 1% local area marketing",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "liquid_capital",
+      "value": "$150,000-$175,000 unencumbered capital required",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "official_franchisor",
+      "source_url": "https://foodtastic.ca/our-brands/freshii-health-wellness/",
+      "source_excerpt": "$150,000-$175,000 unencumbered capital required",
+      "source_date": "2026-10-16"
+    }
+  ],
+  "notes": "Extracted from official Foodtastic brand pages.",
+  "recommended_for_verification": true
+}

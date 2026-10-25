@@ -1,0 +1,263 @@
+FRANCHISE NAME
+
+1. SUMMARY
+Generic Screening Score: [0-100 or Not Calculated]
+Investor-Grade Score: N/A
+Investor-Grade Status: Not investment-ready / requires franchisor confirmation
+Franchisor Confirmation: None confirmed. All figures must be confirmed directly by the franchisor before investment use.
+Risk Level: [Low / Medium / High / Not Calculated]
+Growth Outlook: [Positive / Neutral / Negative / Not Verified]
+Investment Tier: [Low / Medium / High / Not Verified]
+Investment Goal Fit: [0-100 or Not Calculated] against [less than $320,000 CAD default target]
+Confidence Level: [High / Medium / Medium-Low / Low]
+
+Important note: This is a clean screening report, not a final investment recommendation. Source-backed information may be added where available, but no record is franchisor-confirmed until direct confirmation is obtained.
+
+2. COMPANY PROFILE
+- Founded: [Not Verified]
+- HQ: [Not Verified]
+- Canadian Owned: [Yes / No / Hybrid / Not Verified]
+- Industry: [Not Verified]
+- Cuisine / Category: [Not Verified]
+- Franchising in Canada: [Yes / No / Not Verified]
+- Franchising Internationally: [Yes / No / Not Verified]
+- Total Canadian Units: [Not Verified]
+- Total International Units: [Not Verified]
+- Systemwide Revenue: [Not Verified]
+- Average Unit Revenue: [Not Verified]
+- Openings 12mo: [Not Verified]
+- Closures 12mo: [Not Verified]
+- Net Growth %: [Not Verified]
+- 3-Year Unit Trend: [Not Verified]
+
+3. MONEY AND UNIT ECONOMICS
+- Total Investment Range: [Not Verified]
+- Franchise Fee: [Not Verified]
+- Royalty %: [Not Verified]
+- Marketing Fund %: [Not Verified]
+- Technology Fee: [Not Verified]
+- Training Fee: [Not Verified]
+- Renewal Fee: [Not Verified]
+- Transfer Fee: [Not Verified]
+- Other Mandatory Fees: [Not Verified]
+- Average Unit Revenue: [Not Verified]
+- Item 19 Avg Revenue: [Not Verified]
+- Item 19 Gross Profit: [Not Verified]
+- Item 19 Net Profit: [Not Verified]
+- Payback: [Not Verified]
+- Profit Margin: [Not Verified]
+- Min Net Worth: [Not Verified]
+- Min Liquid Capital: [Not Verified]
+- Term Length: [Not Verified]
+- Territory Protection: [Not Verified]
+- Franchisor Financing: [Not Verified]
+
+Financial Model Status
+- Conservative case: [Not model-ready until verified]
+- Base case: [Not model-ready until verified]
+- Upside case: [Not model-ready until verified]
+- Break-even sales: [Not Verified]
+- EBITDA estimate: [Not Verified]
+- Payback: [Not Verified]
+- Sensitivity tests required: rent, wages, food cost, sales decline, delivery mix, debt service
+
+Capital Fit for Young Entrepreneurs
+- Minimum liquid capital: [Not Verified]
+- Investment tier: [Not Verified]
+- Working-capital buffer: [Not Verified]
+- Affordability note: [Not Verified]
+
+Investment Goal Fit
+- Target investment goal: [less than $320,000 CAD default target]
+- Reported investment range: [Not Verified]
+- Goal Fit Score: [0-100 or Not Calculated]
+- Fit decision: [Fits budget / Partly above target / Does not fit budget / Cannot verify fit]
+- Value test: [EBITDA, payback, resale value, and financing terms required before judging investment value]
+
+4. LOCATIONS AND MARKET
+Locations by Province:
+- BC: [Not Verified]
+- Alberta: [Not Verified]
+- SK: [Not Verified]
+- MB: [Not Verified]
+- Ontario: [Not Verified]
+- Quebec: [Not Verified]
+- NB: [Not Verified]
+- NS: [Not Verified]
+- PE: [Not Verified]
+- NL: [Not Verified]
+
+Province Ranking:
+1. [Province]: [Not Verified]
+2. [Province]: [Not Verified]
+3. [Province]: [Not Verified]
+
+Main competitors: [Not Verified]
+Market saturation: [Not Verified]
+Differentiation: [Not Verified]
+Threat level: [Not Verified]
+
+Local Market Fit
+- Target city score: N/A until a specific city or trade area is provided.
+- Required checks: demographics, traffic generators, competition density, delivery radius, rent pressure, reviews, parking/access, and cannibalization.
+- Current saturation signal: [Not Verified]
+
+5. CUSTOMER AND FRANCHISEE SIGNALS
+Google Rating: [Not Verified]
+Review Volume: [Not Verified]
+Customer Sentiment Trend: [Not Verified]
+Insight Summary: [Not Verified]
+
+Top Praises:
+- [Not Verified]
+
+Top Complaints:
+- [Not Verified]
+
+Franchisee Satisfaction: [Not Verified]
+Training Quality: [Not Verified]
+Support Quality: [Not Verified]
+Operational Difficulty: [Not Verified]
+Litigation History 5yr: [Not Verified]
+
+6. SCREENING SCORE
+Generic Screening Score: [0-100 or Not Calculated]
+This score is for comparison only. It is not franchisor-confirmed and is not an investment recommendation.
+Important scoring inputs include founded year, headquarters, Canadian ownership, industry, cuisine/category, Canadian franchise availability, initial investment, franchise fee, royalty, and marketing fee.
+
+Factor Breakdown
+- Investment: [0-100 or Not Calculated]
+- Investment Goal Fit: [0-100 or Not Calculated]
+- Payback: [0-100 or Not Calculated]
+- Profit Margin: [0-100 or Not Calculated]
+- Scalability: [0-100 or Not Calculated]
+- Hours: [0-100 or Not Calculated]
+- Industry Strength: [0-100 or Not Calculated]
+- Recurring Revenue: [0-100 or Not Calculated]
+- Franchisor Support: [0-100 or Not Calculated]
+- Franchisee Satisfaction: [0-100 or Not Calculated]
+- Exit Value: [0-100 or Not Calculated]
+- Territory Protection: [0-100 or Not Calculated]
+- Training Quality: [0-100 or Not Calculated]
+- Brand Maturity: [0-100 or Not Calculated]
+- Canadian Market Fit: [0-100 or Not Calculated]
+- Franchise Availability: [0-100 or Not Calculated]
+- Financial Terms Completeness: [0-100 or Not Calculated]
+
+AI Score Signals
+- Investment Score: [0-100 or Not Calculated]
+- Investment Goal Fit: [0-100 or Not Calculated]
+- Growth Score: [0-100 or Not Calculated]
+- Risk Score: [0-100 or Not Calculated]
+- Brand Strength: [0-100 or Not Calculated]
+- Canadian Fit: [0-100 or Not Calculated]
+- Franchise Availability: [0-100 or Not Calculated]
+- Financial Terms Completeness: [0-100 or Not Calculated]
+- Franchisee Satisfaction: [0-100 or Not Calculated]
+- Customer Satisfaction: [0-100 or Not Calculated]
+- Expansion Score: [0-100 or Not Calculated]
+- Profit Potential: [0-100 or Not Calculated]
+- Support Quality: [0-100 or Not Calculated]
+- Resale Value: [0-100 or Not Calculated]
+
+Tags
+- [Not Calculated]
+
+7. RISKS AND FIT
+Strengths:
+- [Not Verified]
+
+Weaknesses:
+- [Not Verified]
+
+Opportunities:
+- [Not Verified]
+
+Threats:
+- [Not Verified]
+
+Red Flags:
+- [Not Verified]
+
+Yellow Flags:
+- [Not Verified]
+
+Green Flags:
+- [Not Verified]
+
+8. EVIDENCE STATUS
+Franchisor Confirmation: None confirmed.
+Investor-Grade Score: N/A.
+Reason: the database still needs direct franchisor confirmation plus Canadian disclosure, Canadian signing entity, CAD fee confirmation, Canadian unit economics, closure/transfer/renewal data, franchisee interviews, and local market checks.
+
+Evidence Gates
+- Canadian disclosure package obtained: FAIL
+- Exact Canadian signing entity confirmed: FAIL
+- CAD investment and recurring fees verified: FAIL
+- Canadian AUV, EBITDA, or comparable P&L verified: FAIL
+- Closure, transfer, resale, and renewal data verified: FAIL
+- Current/former franchisee interviews completed: FAIL
+- Target-market review, competition, lease, and demographic checks completed: FAIL
+
+Missing Evidence Impact
+- Initial investment: not reliable for investment scoring until confirmed
+- Franchise fee: not reliable for investment scoring until confirmed
+- Royalty: not reliable for investment scoring until confirmed
+- Marketing fee: not reliable for investment scoring until confirmed
+- Average unit revenue: not reliable for investment scoring until confirmed
+- Profit margin / EBITDA: not reliable for investment scoring until confirmed
+- Closure trend: not reliable for investment scoring until confirmed
+- Transfer / renewal terms: not reliable for investment scoring until confirmed
+- Franchisee satisfaction: not reliable for investment scoring until confirmed
+
+Document Request Checklist
+- Canadian disclosure document and all exhibits
+- Exact Canadian franchisor/signing entity and affiliates
+- Franchise agreement, lease rider, personal guarantee, renewal and transfer terms
+- Current CAD investment range and required working capital
+- Royalty, ad fund, technology, training, renewal, transfer, supplier, audit, and local marketing fees
+- Canadian AUV, store-level P&L support, closure/transfer/resale history, and litigation history
+- Territory map, non-traditional venue rules, delivery marketplace rules, and encroachment protections
+
+9. SOURCES
+Total Source Count: [0]
+
+Source Reliability Guide
+- FDD / legal document: 95-100
+- Official franchise/company website: 85-95
+- CFA / FRANdata / franchise database: 80-90
+- Franchise Genius / FranDB / GetFDD / ClearlyFDD: 80-90
+- Government source: 90-95
+- Established news outlet: 70-85
+- Industry report: 75-85
+- Google Maps / Places API: 80-90
+- Glassdoor / Indeed aggregate: 50-70
+- Forum / Reddit aggregate: 30-50
+- Individual social post: 10-30
+
+Source-Backed Evidence Loaded
+- [No source-backed evidence loaded yet]
+
+Evidence Source URLs:
+- [Not Verified]
+
+Research Notes:
+- [Not Verified]
+
+Critical Gaps:
+- Franchisor confirmation
+- Canadian disclosure package
+- Exact Canadian signing entity
+- Canadian unit economics
+- Franchisee interviews
+- Current location/opening/closure data
+- Current customer review data
+
+Do Not Use For Investment Scoring:
+- U.S. FDD data unless independently reconciled to the Canadian franchise offer
+- Generic QSR estimates and industry benchmarks
+- Old or unsourced location counts
+- Wikipedia/background facts
+- Unsourced sentiment, review anecdotes, forum posts, and social media claims
+
+Fields Rejected Due To Evidence Rules: [Not Calculated]

@@ -1,0 +1,3065 @@
+[
+  {
+    "name": "Century 21 Canada Limited Partnership",
+    "profile": {
+      "headquarters": {
+        "value": "1285 West Pender, Suite 500, Vancouver, BC V6E 4B1",
+        "confidence": 90,
+        "source_url": "https://join.c21.ca/technology",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "1285 West Pender, Suite 500, Vancouver, BC V6E4B1"
+      },
+      "canadian_owned": {
+        "value": "Yes - proudly Canadian owned, operated, and family-run",
+        "confidence": 92,
+        "source_url": "https://join.c21.ca/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "proudly Canadian owned, operated, and family-run"
+      },
+      "franchising_internationally": {
+        "value": "Yes - official company profile cites 11,000 global offices across 79 countries",
+        "confidence": 88,
+        "source_url": "https://www.c21.ca/company-profile",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "11,000 GLOBAL OFFICES"
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1976",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Real Estate",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Nearly 400 offices and over 11,700 network members across Canada",
+        "confidence": 90,
+        "source_url": "https://join.c21.ca/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "nearly 400 offices and over 11,700 network members"
+      },
+      "total_locations_international": {
+        "value": "11,000 global offices, 125,000 system members, 79 countries",
+        "confidence": 88,
+        "source_url": "https://www.c21.ca/company-profile",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "11,000 GLOBAL OFFICES"
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "Industry-leading training with Campus 21 TV, C21 University, coaches, and onboarding guidance",
+        "confidence": 88,
+        "source_url": "https://join.c21.ca/training",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "industry-leading training programs"
+      },
+      "support_quality": {
+        "value": "Brokers, concierge support, tech tools, CRM, websites, marketing centre, and ongoing guidance are built into the platform",
+        "confidence": 88,
+        "source_url": "https://join.c21.ca/technology",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "tools and training"
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from current official CENTURY 21 Canada pages plus the current CFA listing.",
+      "The public source stack is strong on network scale and support, but not on brokerage-level economics."
+    ],
+    "critical_gaps": [
+      "Broker split model, desk fees, royalty formula, and brokerage-level P&L are not public.",
+      "Canadian signing-entity economics and transfer/renewal terms still need direct disclosure review."
+    ],
+    "financials": {
+      "franchise_fee": {
+        "value": "$10.5K-$21K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "initial_investment": {
+        "value": "$50K-$100K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/century-21-canada-limited-partnership/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Days Inns - Canada",
+    "profile": {
+      "headquarters": {
+        "value": "Parsippany, New Jersey, United States (global brand context)",
+        "confidence": 78,
+        "source_url": "https://www.franchise.org/franchise-opportunities/days-inn-by-wyndham/",
+        "source_date": "2026 IFA profile",
+        "source_reliability": 80,
+        "evidence_quote": "Headquarters: Parsippany, NJ"
+      },
+      "franchising_internationally": {
+        "value": "Yes - the brand reports over 1,800 properties worldwide",
+        "confidence": 86,
+        "source_url": "https://corporate.wyndhamhotels.com/our-brands/days-inn/",
+        "source_date": "2026 official page",
+        "source_reliability": 88,
+        "evidence_quote": "over 1,800 properties worldwide"
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1992",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Hotels / Motels / Campgrounds",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Over 1,800 properties worldwide",
+        "confidence": 86,
+        "source_url": "https://corporate.wyndhamhotels.com/our-brands/days-inn/",
+        "source_date": "2026 official page",
+        "source_reliability": 88,
+        "evidence_quote": "over 1,800 properties worldwide"
+      },
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 108",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from the current CFA listing, Wyndham corporate brand page, and IFA directory profile.",
+      "Public hotel-development economics remain thin; most real underwriting appears to move behind inquiry and disclosure."
+    ],
+    "critical_gaps": [
+      "Canadian property-improvement-plan costs, franchise agreement terms, and renovation reserves are not public.",
+      "Property-level ADR, occupancy, RevPAR, and management-fee structure still require direct diligence."
+    ],
+    "yellow_flags": [
+      "Public franchise data is strong on brand scale but weak on hotel-level capex and property-specific economics."
+    ],
+    "financials": {
+      "franchise_fee": {
+        "value": "Min. $46K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "initial_investment": {
+        "value": "Inquire",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 3.8% marketing/brand-fund fee.",
+        "confidence": 55,
+        "source_url": "https://franchisedepth.com/franchise/days-inn/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 5.5% royalty.",
+        "confidence": 55,
+        "source_url": "https://franchisedepth.com/franchise/days-inn/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Backed by a Canadian team of hospitality specialists",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): Initial training: Yes",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/days-inns-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Orangetheory Fitness",
+    "profile": {
+      "franchise_available": {
+        "value": "Yes - licenses available in select Canadian markets",
+        "confidence": 90,
+        "source_url": "https://www.orangetheory.com/en-ca/franchising",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "licenses available in select markets"
+      },
+      "franchising_internationally": {
+        "value": "Yes - 1,500+ franchises awarded across 25 countries",
+        "confidence": 90,
+        "source_url": "https://www.orangetheory.com/en-ca/franchising",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "1500+ franchises awarded across 25 countries"
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 2010",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/orangetheory-fitness/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Health / Fitness / Nutrition",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/orangetheory-fitness/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "Comprehensive corporate support across real estate, operations, marketing, sales, fitness, equipment, technology, training, construction, and design",
+        "confidence": 90,
+        "source_url": "https://www.orangetheory.com/en-ca/franchising",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Comprehensive corporate training & support"
+      },
+      "support_quality": {
+        "value": "Official Canadian page emphasizes real estate, operations, marketing, sales, technology, and construction support",
+        "confidence": 90,
+        "source_url": "https://www.orangetheory.com/en-ca/franchising",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "real estate, operations, marketing, sales"
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from the official Orangetheory Canada franchising page plus the current CFA listing.",
+      "The public official page is better than the directory layer for current Canada studio count and support detail."
+    ],
+    "critical_gaps": [
+      "Public Canadian investment, royalty, ad-fund, and mature-studio EBITDA data are still not posted.",
+      "Lease economics, member retention, and coach-payroll assumptions still need direct disclosure review."
+    ],
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): 115+ locations across Canada",
+        "confidence": 88,
+        "source_url": "https://www.orangetheory.com/en-ca/franchising",
+        "source_date": "2026 franchising page",
+        "source_reliability": 90
+      },
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 1,500+ franchises awarded across 25 countries",
+        "confidence": 88,
+        "source_url": "https://www.orangetheory.com/en-ca/franchising",
+        "source_date": "2026 franchising page",
+        "source_reliability": 90
+      }
+    },
+    "financials": {
+      "franchise_fee": {
+        "value": "$69.5K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/orangetheory-fitness/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "initial_investment": {
+        "value": "Inquire",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/orangetheory-fitness/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $350,000 liquid capital; $1,000,000 net worth.",
+        "confidence": 55,
+        "source_url": "https://www.orangetheory.com/en-us/franchising",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    }
+  },
+  {
+    "name": "Kumon Math and Reading Centres",
+    "profile": {
+      "franchise_available": {
+        "value": "Yes - official Canadian opportunity map shows available provinces and markets",
+        "confidence": 90,
+        "source_url": "https://www.kumonfranchise.com/ca-en/franchise-opportunities",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Find an Available Franchise Opportunity"
+      },
+      "brand_strength": {
+        "value": "Screening reference (not verified for investor scoring): Kumon Canada benefits page describes the system as the world's largest educational franchise with over 400 independently owned and operated centres in Canada.",
+        "confidence": 88,
+        "source_url": "https://www.kumonfranchise.com/ca-en/benefits",
+        "source_date": "2026-07-28 official benefits page",
+        "source_reliability": 90
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1958",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/kumon-math-and-reading-centres/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Educational Products & Services",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/kumon-math-and-reading-centres/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "financials": {
+      "initial_investment": {
+        "value": "$87,950-$277,900",
+        "confidence": 92,
+        "source_url": "https://www.kumonfranchise.com/ca-en/investment-fees",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "Total: $87,950 – $277,900"
+      },
+      "franchise_fee": {
+        "value": "$2,000-$3,000 less the $1,000 training deposit for a first centre franchise",
+        "confidence": 92,
+        "source_url": "https://www.kumonfranchise.com/ca-en/investment-fees",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "Initial Franchise Fee $2,000-$3,000"
+      },
+      "other_mandatory_fees": {
+        "value": "$2,000 initial materials purchase plus $2,500 pre-open marketing and other setup costs",
+        "confidence": 90,
+        "source_url": "https://www.kumonfranchise.com/ca-en/investment-fees",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "Initial Purchase of Materials $2,000"
+      },
+      "marketing_program": {
+        "value": "First-18-month marketing program totals $7,650, with Kumon contributing $3,600 and the instructor contributing $4,050 billed at $225/month",
+        "confidence": 88,
+        "source_url": "https://www.kumonfranchise.com/ca-en/investment-fees",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "minimum_liquid_capital": {
+        "value": "At least $100,000 liquid capital.",
+        "confidence": 88,
+        "source_url": "https://www.kumonfranchise.com/ca-en/buyer-faqs",
+        "source_date": "2026-07-28 official buyer FAQ",
+        "source_reliability": 92
+      },
+      "technology_requirement": {
+        "value": "Lead Management Tracking System monthly expense estimated by vendor at approximately $40/month; centre must use required computers/tablets and proprietary software",
+        "confidence": 88,
+        "source_url": "https://www.kumonfranchise.com/ca-en/investment-fees",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "marketing_fee": {
+        "value": "New-centre marketing includes $4,050 owner contribution over 18 months while Kumon contributes $3,600.",
+        "confidence": 88,
+        "source_url": "https://www.kumonfranchise.com/ca-en/investment-fees",
+        "source_date": "2026-07-28 official investment page",
+        "source_reliability": 90
+      },
+      "initial_investment_bilingual_confirmation": {
+        "value": "Screening reference (not verified for investor scoring): French Canadian official investment page confirms the same Canadian investment framework and disclosure-language context.",
+        "confidence": 88,
+        "source_url": "https://www.kumonfranchise.com/ca-fr/investment-fees",
+        "source_date": "2026-07-28 official French investment page",
+        "source_reliability": 88
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "Instructor Development Program with two four-day sessions, centre visits, preliminary homework, regional-office training, and continuing education",
+        "confidence": 90,
+        "source_url": "https://www.kumonfranchise.com/ca-en/buyer-faqs",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "two four-day sessions of training"
+      },
+      "support_quality": {
+        "value": "Branch offices support administration and growth, with updated curriculum materials, communications, meetings, and seminars",
+        "confidence": 88,
+        "source_url": "https://www.kumonfranchise.com/ca-en/buyer-faqs",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "our staff takes an active role"
+      },
+      "operational_difficulty": {
+        "value": "Owner-operator model; absentee ownership is not permitted and the instructor remains the face of the centre",
+        "confidence": 88,
+        "source_url": "https://www.kumonfranchise.com/ca-en/buyer-faqs",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "If you want to be an absentee owner"
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from current official Kumon Canada franchise pages plus the current CFA listing.",
+      "FRANdata's public storefront confirms a multi-year Kumon FDD archive exists for deeper legal and Item 19 diligence."
+    ],
+    "critical_gaps": [
+      "Canadian centre-level earnings, enrolment economics, and transfer/renewal terms still require disclosure review.",
+      "Public pages are strong on startup cost structure but not on mature unit cash flow."
+    ],
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Kumon Canada benefits page states over 400 independently owned and operated centres in Canada.",
+        "confidence": 88,
+        "source_url": "https://www.kumonfranchise.com/ca-en/benefits",
+        "source_date": "2026-07-28 official benefits page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "Merry Maids of Canada",
+    "profile": {
+      "franchising_internationally": {
+        "value": "Yes - the brand describes itself as part of an international network with over 45 years of experience",
+        "confidence": 84,
+        "source_url": "https://merrymaids.ca/franchise-opportunities/",
+        "source_date": "2026 official page",
+        "source_reliability": 88,
+        "evidence_quote": "international network with over 45 years of experience"
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1979",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Commercial / Residential Services",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "financials": {
+      "franchise_fee": {
+        "value": "$32,900-$39,900 depending on territory size",
+        "confidence": 90,
+        "source_url": "https://merrymaids.ca/franchise-opportunities/",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Small territory $32,900"
+      },
+      "minimum_liquid_capital": {
+        "value": "$60,000-$80,000 minimum working capital depending on territory size",
+        "confidence": 90,
+        "source_url": "https://merrymaids.ca/franchise-opportunities/",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Minimum Working Capital Required"
+      },
+      "initial_investment": {
+        "value": "$90K-$186K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "Training is included and new owners are registered for academy training in Memphis after pre-academy work",
+        "confidence": 86,
+        "source_url": "https://merrymaids.ca/franchise-opportunities/",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Register you for New Owner Training"
+      },
+      "support_quality": {
+        "value": "Official franchise materials say equipment, training, system access, marketing programs, and computer support are included",
+        "confidence": 88,
+        "source_url": "https://merrymaids.ca/franchise-opportunities/",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Equipment, Training, Merry Maids System"
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from the official Merry Maids Canada franchise page plus the current CFA listing.",
+      "The official page is stronger on territory-size pricing and minimum working capital than the directory layer."
+    ],
+    "critical_gaps": [
+      "Official royalty and ad-fund formulas are still not publicly posted on the Canadian page.",
+      "Route density, labour retention, and local churn still require direct operator diligence."
+    ],
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 35",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/merry-maids-of-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Mr. Lube + Tires",
+    "profile": {
+      "founded": {
+        "value": "1976; first centre opened in Edmonton, Alberta",
+        "confidence": 90,
+        "source_url": "https://www.mrlube.com/fr/Others/AboutUs/a-propos-de-nous",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Tout a commencé dans une petite ville nommée Edmonton"
+      },
+      "canadian_owned": {
+        "value": "Yes - 100% Canadian owned and operated",
+        "confidence": 92,
+        "source_url": "https://www.mrlube.com/en/Others/franchise/FranchiseInquiry",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "100% Canadian Owned and Operated"
+      },
+      "franchise_available": {
+        "value": "Yes - current opportunities posted in Timmins, Lloydminster, and Sault Ste. Marie",
+        "confidence": 88,
+        "source_url": "https://www.mrlube.com/en/Others/owning-a-franchise",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "We currently have a Mr. Lube + Tires opportunity"
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Automotive & Truck Services / Products / Rentals",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "financials": {
+      "initial_investment": {
+        "value": "Approximately $1,800,000-$2,200,000 for a flagship store; conversion or landlord-shell scenarios may reduce cost",
+        "confidence": 92,
+        "source_url": "https://www.mrlube.com/en/Others/franchise/FranchiseInquiry",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "approximately $1,800,000 - $2,200,000"
+      },
+      "minimum_liquid_capital": {
+        "value": "Approximately $600,000-$800,000 cash equity required",
+        "confidence": 92,
+        "source_url": "https://www.mrlube.com/en/Others/franchise/FranchiseInquiry",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "cash equity requirement"
+      },
+      "franchise_fee": {
+        "value": "$100K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from the official Mr. Lube franchise inquiry page, the official About Us page, and the current CFA listing.",
+      "The official page is stronger on actual flagship-store capital and cash-equity requirements than the directory layer."
+    ],
+    "critical_gaps": [
+      "Unit-level bay utilization, technician payroll, and mature-store EBITDA are not publicly posted.",
+      "Site format, landlord contribution, and conversion economics still need direct diligence."
+    ],
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Brand highlights established systems, training, purchasing power, and national fleet partnerships",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): 3 months",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 179",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/mr-lube-tires/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Handyman Connection",
+    "profile": {
+      "franchise_available": {
+        "value": "Yes - official franchise opportunity site is active and candidate-facing",
+        "confidence": 85,
+        "source_url": "https://franchiseopportunity.handymanconnection.com/faqs/",
+        "source_date": "2026 official page",
+        "source_reliability": 88,
+        "evidence_quote": "handyman franchise opportunities"
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1991",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Home - Improvement / Renovation / Restoration",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "Approximately 5 weeks of conference-call and online training followed by a 5-day in-person session",
+        "confidence": 88,
+        "source_url": "https://franchiseopportunity.handymanconnection.com/faqs/",
+        "source_date": "2026 official page",
+        "source_reliability": 88,
+        "evidence_quote": "approximately 5 weeks of conference calls"
+      },
+      "support_quality": {
+        "value": "Official site emphasizes marketing, technology, customer-service, hiring, and territory support for owners",
+        "confidence": 86,
+        "source_url": "https://franchiseopportunity.handymanconnection.com/the-investment/",
+        "source_date": "2026 official page",
+        "source_reliability": 88,
+        "evidence_quote": "ongoing business owner training and support"
+      },
+      "operational_difficulty": {
+        "value": "Owner primarily runs the business, manages customer relationships, and recruits skilled craftspeople; direct trade experience is not required",
+        "confidence": 88,
+        "source_url": "https://franchiseopportunity.handymanconnection.com/starting-your-handyman-franchise/do-i-need-trade-experience-to-run-a-handyman-franchise/",
+        "source_date": "2025 official post",
+        "source_reliability": 86,
+        "evidence_quote": "You won’t be swinging the hammer"
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from the current CFA listing and the official Handyman Connection franchise opportunity pages.",
+      "The official site materially improves owner-model and training detail, but public economics still need Canadian reconciliation."
+    ],
+    "critical_gaps": [
+      "Canadian fee stack, local territory terms, and recurring-fee economics still require direct confirmation.",
+      "Lead flow, contractor supply, and local job-margin data are not public."
+    ],
+    "yellow_flags": [
+      "Official franchise-opportunity pages appear North American in scope; Canadian economics should still be reconciled directly with the franchisor."
+    ],
+    "financials": {
+      "franchise_fee": {
+        "value": "$70K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "initial_investment": {
+        "value": "$99K-$150K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 2% marketing/brand fund fee.",
+        "confidence": 55,
+        "source_url": "https://franchisedepth.com/franchise/handyman-connection/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 6% royalty.",
+        "confidence": 55,
+        "source_url": "https://franchisedepth.com/franchise/handyman-connection/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 17 | USA: 45",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/handyman-connection/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Angus Valley Montessori Schools",
+    "profile": {
+      "headquarters": {
+        "value": "90 Gough Road Unit #1, 2nd floor, Markham, ON L3R 5V5",
+        "confidence": 90,
+        "source_url": "https://avmschoolsfranchise.com/become-a-franchisee/",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "90 Gough Road Unit #1"
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 2017",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Educational Products & Services",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "financials": {
+      "minimum_liquid_capital": {
+        "value": "$450,000 minimum cash injection",
+        "confidence": 92,
+        "source_url": "https://avmschoolsfranchise.com/become-a-franchisee/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "Minimum Cash injection: $450,000"
+      },
+      "franchise_fee": {
+        "value": "$75K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "initial_investment": {
+        "value": "$900K-$2.2M",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "marketing_fee": {
+        "value": "2%",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "royalty": {
+        "value": "6%",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from the official AVMS franchise site plus the current CFA listing.",
+      "The official franchise site strengthens the cash-injection requirement and confirms the Markham corporate office address."
+    ],
+    "critical_gaps": [
+      "Licensing approvals, occupancy ramp, and mature childcare EBITDA are not public.",
+      "Municipal entitlement timeline and staffing-ratio economics still need direct diligence."
+    ],
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Brand highlights curriculum, custom-designed buildings, chef-created menus, operations, and land-developer relationships for site sourcing",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): Initial training is provided",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 6",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/angus-valley-montessori-schools/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Home Instead",
+    "profile": {
+      "headquarters": {
+        "value": "13323 California St, Omaha, Nebraska 68154, United States (global headquarters)",
+        "confidence": 88,
+        "source_url": "https://franchises.homeinstead.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Global Headquarters"
+      },
+      "franchising_internationally": {
+        "value": "Yes - more than 1,200 franchises in 13 countries",
+        "confidence": 90,
+        "source_url": "https://franchises.homeinstead.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "more than 1,200 franchises in 13 countries"
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1994",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Seniors Services / Home Care / Transition",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "More than 1,200 franchises in 13 countries",
+        "confidence": 90,
+        "source_url": "https://franchises.homeinstead.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "more than 1,200 franchises"
+      },
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 48 | USA: 614",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "financials": {
+      "territory_protection": {
+        "value": "Protected franchise territory",
+        "confidence": 86,
+        "source_url": "https://franchises.homeinstead.com/franchise-fees",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "A protected franchise territory"
+      },
+      "franchise_fee": {
+        "value": "$59K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "initial_investment": {
+        "value": "$130K-$140K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/home-instead/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 2% marketing/brand-fund fee.",
+        "confidence": 55,
+        "source_url": "https://franchisedepth.com/franchise/home-instead/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 5% royalty.",
+        "confidence": 55,
+        "source_url": "https://franchisedepth.com/franchise/home-instead/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "Extensive new owner training is listed as part of the franchise package",
+        "confidence": 86,
+        "source_url": "https://franchises.homeinstead.com/franchise-fees",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Extensive new owner training"
+      },
+      "support_quality": {
+        "value": "Network performance support team, marketing materials, start-up kit, research-based programs, and a customizable local website",
+        "confidence": 88,
+        "source_url": "https://franchises.homeinstead.com/franchise-fees",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Network Performance support team"
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from the current CFA listing, the official Home Instead franchise site, and Franchise Business Review's current opportunity profile.",
+      "The official franchise site improves global scale and support detail, but public startup-cost pages remain U.S.-oriented."
+    ],
+    "critical_gaps": [
+      "Canada-specific disclosure, local care-compliance economics, and billable-hour margin data are not public.",
+      "Referral-channel mix and caregiver utilization still require direct franchisee diligence."
+    ],
+    "yellow_flags": [
+      "Home Instead's public investment page is useful for model context, but Canadian underwriting should remain anchored to Canadian disclosure and franchisor confirmation."
+    ]
+  },
+  {
+    "name": "The UPS Store",
+    "financials": {
+      "initial_investment": {
+        "value": "$219,500-$299,500 for a traditional location, plus at least $50,000 working capital for year one",
+        "confidence": 92,
+        "source_url": "https://www.theupsstore.ca/franchising/owning-a-franchise/franchise-costs/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "A Traditional Location Ranges From $219,500 - $299,500"
+      },
+      "minimum_liquid_capital": {
+        "value": "At least $150,000 in liquid assets; minimum 50% cash investment required",
+        "confidence": 92,
+        "source_url": "https://www.theupsstore.ca/franchising/owning-a-franchise/franchise-costs/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "at least $150,000 in liquid assets"
+      },
+      "marketing_fee": {
+        "value": "3% advertising fee for national marketing.",
+        "confidence": 88,
+        "source_url": "https://www.theupsstore.ca/franchising/owning-a-franchise/faqs/",
+        "source_date": "2026-07-28 official FAQ",
+        "source_reliability": 92
+      },
+      "royalty": {
+        "value": "7% of Sales Subject To Royalty (SSTR).",
+        "confidence": 88,
+        "source_url": "https://www.theupsstore.ca/franchising/owning-a-franchise/faqs/",
+        "source_date": "2026-07-28 official FAQ",
+        "source_reliability": 92
+      },
+      "franchise_fee": {
+        "value": "$40K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "territory_protection": {
+        "value": "Defined territory assessed individually by The UPS Store Canada corporate office",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "Comprehensive four-phase program with virtual setup, 3 days in-store, 9 days at Oakville University, 5 more in-store days, plus eLearning",
+        "confidence": 92,
+        "source_url": "https://www.theupsstore.ca/franchising/owning-a-franchise/franchise-training/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "comprehensive four-phase training program"
+      },
+      "support_quality": {
+        "value": "Site selection, lease negotiation, marketing, technology, product development, and in-field consultant support from day one",
+        "confidence": 90,
+        "source_url": "https://www.theupsstore.ca/franchising/owning-a-franchise/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "Help in selecting a site and negotiating a lease"
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from current official The UPS Store Canada franchising pages plus the current CFA listing.",
+      "The official page now gives cleaner Canadian cost, liquid-asset, and training detail than the directory layer alone."
+    ],
+    "critical_gaps": [
+      "Public Canadian royalty, technology, and recurring-fee detail still need direct disclosure review.",
+      "Business-account mix, parcel-volume economics, and print-margin data are not public."
+    ],
+    "growth": {
+      "recent_openings_signal": {
+        "value": "Screening reference (not verified for investor scoring): Official Canadian franchising page lists recent 2026 openings including Stouffville ON, Saint-Jerome QC, and Calgary AB; this is a positive opening signal, not a complete 12-month opening count",
+        "confidence": 88,
+        "source_url": "https://www.theupsstore.ca/franchising/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): The UPS Store Canada franchising page describes more than 400 locations in Canada.",
+        "confidence": 88,
+        "source_url": "https://www.theupsstore.ca/franchising/",
+        "source_date": "2026-07-28 official franchising page",
+        "source_reliability": 90
+      },
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): Over 5,700 locations across North America, including over 400 in Canada",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1990",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Printing / Copying / Shipping",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/the-ups-store/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Express Employment Professionals",
+    "growth": {
+      "total_locations_international": {
+        "value": "800+ locations throughout the U.S., Canada, and South Africa",
+        "confidence": 82,
+        "source_url": "https://franchisebusinessreview.com/post/watch-leveling-up-in-express-employment-professionals/",
+        "source_date": "2026 FBR page",
+        "source_reliability": 78,
+        "evidence_quote": "800+ locations throughout the U.S., Canada, and South Africa"
+      },
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 40 | USA: 684",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "financials": {
+      "average_unit_revenue": {
+        "value": "U.S./official Item 19 context: first-year offices averaged $999,949 annual sales; territories open more than 24 months averaged $5,342,686 in 2025",
+        "confidence": 86,
+        "source_url": "https://expressfranchising.com/faqs/",
+        "source_date": "2026 official FAQ",
+        "source_reliability": 88,
+        "evidence_quote": "first year offices averaged nearly $1M"
+      },
+      "territory_protection": {
+        "value": "Exclusive territories with protected boundaries",
+        "confidence": 88,
+        "source_url": "https://expressfranchising.com/faqs/",
+        "source_date": "2026 official FAQ",
+        "source_reliability": 88,
+        "evidence_quote": "exclusive territories with protected boundaries"
+      },
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): $40K USD",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $131K-$241.7K USD",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "minimum_liquid_capital": {
+        "value": "$200,000 access",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "minimum_net_worth": {
+        "value": "$250,000+ required",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "royalty": {
+        "value": "8%",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "The system says it is 100% franchised so corporate support stays focused on franchise owners; payroll funding support is also highlighted",
+        "confidence": 86,
+        "source_url": "https://expressfranchising.com/news/is-express-employment-professionals-a-franchise/",
+        "source_date": "2022 official post",
+        "source_reliability": 84,
+        "evidence_quote": "100% franchised"
+      },
+      "satisfaction_score": {
+        "value": "94% of Franchise Owners would recommend Express Employment Professionals",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): Two weeks of virtual training, continual education and training",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from the official Express franchising FAQ, the current CFA listing, and current Franchise Business Review context pages.",
+      "Public economics remain heavily U.S./FDD-oriented even when the brand is active in Canada."
+    ],
+    "critical_gaps": [
+      "Canadian signing entity, CAD economics, and Canada-specific disclosure still need direct franchisor confirmation.",
+      "Bad-debt exposure, payroll funding economics, and local client concentration are not public."
+    ],
+    "yellow_flags": [
+      "Public performance figures are useful, but they are primarily U.S./official FDD context and should not be treated as Canadian unit economics."
+    ],
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1983",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Employment / Personnel Services",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/express-employment-professionals/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Global Pet Foods",
+    "profile": {
+      "canadian_owned": {
+        "value": "Yes - 100% Canadian-owned and operated",
+        "confidence": 92,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "100% Canadian-owned and operated"
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): Global Pet Foods opened its first store in 1976.",
+        "confidence": 88,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026-07-28 official franchise page",
+        "source_reliability": 92
+      },
+      "headquarters": {
+        "value": "Screening reference (not verified for investor scoring): 294 Walker Dr, Unit #2, Brampton, ON L6T 4Z2.",
+        "confidence": 88,
+        "source_url": "https://globalpetfoods.com/pages/about-us",
+        "source_date": "2026-07-28 official company page",
+        "source_reliability": 90
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Pets - Sales / Supplies / Services",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/global-pet-foods/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "company_contact": {
+        "value": "Screening reference (not verified for investor scoring): Official company site lists corporate office contact details in Brampton, Ontario.",
+        "confidence": 84,
+        "source_url": "https://globalpetfoods.com/",
+        "source_date": "2026-07-28 official company homepage",
+        "source_reliability": 84
+      }
+    },
+    "financials": {
+      "initial_investment": {
+        "value": "New store total investment starts at $355K and varies by location, size, and whether the site is new or established",
+        "confidence": 92,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "For a new store, the total investment starts at $355K"
+      },
+      "royalty": {
+        "value": "Reduced royalty in year one; progressive royalty structure after year one based on previous year's sales",
+        "confidence": 88,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "reduced royalty rate during their first year"
+      },
+      "marketing_fee": {
+        "value": "1.5% national advertising fund fee",
+        "confidence": 92,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "1.5% national advertising fund fee"
+      },
+      "minimum_liquid_capital": {
+        "value": "$200K in unencumbered cash",
+        "confidence": 92,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "required start-up capital of $200K"
+      },
+      "franchise_fee": {
+        "value": "$30,000 franchise fee with a ten-year term and two additional five-year renewal options.",
+        "confidence": 88,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026-07-28 official franchise page",
+        "source_reliability": 92
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "Four-week hybrid franchise training with classroom instruction and hands-on work at the corporate training store",
+        "confidence": 90,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "four-week franchise training program"
+      },
+      "support_quality": {
+        "value": "Turnkey support includes site selection, lease negotiation, custom store design, construction management, weekly communication, and in-house team access",
+        "confidence": 90,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "strategic site selection, lease negotiation"
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from the official Global Pet Foods franchise site plus the current CFA listing.",
+      "The official page is materially better on capital, ad-fund, onboarding, and owner-operator model than the directory layer."
+    ],
+    "critical_gaps": [
+      "Public pages still do not show a clean recurring royalty schedule in numeric form after year one.",
+      "Category margin mix, basket size, and local omni-channel pressure still require direct diligence."
+    ],
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Nearly 230 locations across Canada.",
+        "confidence": 88,
+        "source_url": "https://www.globalpetfoodsfranchise.com/",
+        "source_date": "2026-07-28 official franchise page",
+        "source_reliability": 92
+      }
+    },
+    "customer": {
+      "loyalty_program": {
+        "value": "Screening reference (not verified for investor scoring): Official rewards page describes a free food rewards program available at Global Pet Foods stores across Canada.",
+        "confidence": 84,
+        "source_url": "https://globalpetfoods.com/pages/rewards-program",
+        "source_date": "2026-07-28 official rewards page",
+        "source_reliability": 84
+      }
+    }
+  },
+  {
+    "name": "Centum Financial Group Inc.",
+    "profile": {
+      "canadian_owned": {
+        "value": "Yes - proudly Canadian owned and operated",
+        "confidence": 90,
+        "source_url": "https://www.centum.ca/company-overview",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "proudly Canadian owned and operated"
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 2002",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Financial / Cash Services",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Nearly 200 offices and over 2,100 agents nationwide",
+        "confidence": 86,
+        "source_url": "https://www.joincentum.ca/post/centum-canada-appoints-lori-smith-as-vice-president-growth-development",
+        "source_date": "2025 official post",
+        "source_reliability": 88,
+        "evidence_quote": "nearly 200 offices and over 2,100 agents nationwide"
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "CENTUM University, onboarding, webinars, and new-agent training support are publicly highlighted",
+        "confidence": 88,
+        "source_url": "https://www.joincentum.ca/university",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "Training for you and your agents"
+      },
+      "support_quality": {
+        "value": "Members get Connect, Portal, marketing tools, national deal desk access, lender relationships, and 30-day post-launch check-ins",
+        "confidence": 88,
+        "source_url": "https://www.joincentum.ca/centum-onboarding",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "National Deal Desk"
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from official CENTUM company and join pages plus the current CFA listing.",
+      "The official page stack is strong on Canadian ownership, onboarding, and support tools, but weak on public economics."
+    ],
+    "critical_gaps": [
+      "Brokerage fee structure, commission splits, lender compensation mix, and compliance-cost economics are not public.",
+      "Canadian signing entity and full legal/franchise package still need direct review."
+    ],
+    "financials": {
+      "franchise_fee": {
+        "value": "Please call for more information",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "initial_investment": {
+        "value": "Minimal to $10K",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/centum-financial-group-inc/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Ledgers Canada",
+    "financials": {
+      "initial_investment": {
+        "value": "$40,000 net investment for the full market franchise package",
+        "confidence": 92,
+        "source_url": "https://ledgersfranchise.ca/investment",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "NET INVESTMENT $40,000"
+      },
+      "franchise_fee": {
+        "value": "$30,000 franchise license",
+        "confidence": 92,
+        "source_url": "https://ledgersfranchise.ca/investment",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "Franchise License $30,000"
+      },
+      "training_fee": {
+        "value": "$3,500 classroom and virtual training programs",
+        "confidence": 92,
+        "source_url": "https://ledgersfranchise.ca/investment",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "Classroom & Virtual Training Programs $3,500"
+      },
+      "other_mandatory_fees": {
+        "value": "$10,000 head-start marketing program plus $1,500 startup materials",
+        "confidence": 92,
+        "source_url": "https://ledgersfranchise.ca/investment",
+        "source_date": "2026 official page",
+        "source_reliability": 92,
+        "evidence_quote": "Head Start Marketing Program $10,000"
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): $200 advertising fund; no royalties or ad fees for first three months.",
+        "confidence": 55,
+        "source_url": "https://ledgersfranchise.ca/investment",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 9% royalty.",
+        "confidence": 55,
+        "source_url": "https://ledgersfranchise.ca/investment",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "National network support includes cloud technology, central processing, app-partner training, annual conference education, and peer networking",
+        "confidence": 88,
+        "source_url": "https://ledgersfranchise.ca/conference",
+        "source_date": "2026 official page",
+        "source_reliability": 90,
+        "evidence_quote": "interaction, educational seminars and more"
+      },
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): 7 days",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "source_notes": [
+      "Professional pass loaded from official Ledgers franchise investment pages, the Ledgers Canada about page, and the current CFA listing.",
+      "The official Ledgers pages are materially better than the directory layer on the actual package structure of the investment."
+    ],
+    "critical_gaps": [
+      "Recurring royalty and technology-fee formulas are not publicly clear from the official page.",
+      "Owner credential expectations, staffing model, and mature-client retention economics still need direct diligence."
+    ],
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 47",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    },
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1994",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "industry": {
+        "value": "Screening reference (not verified for investor scoring): Accounting / Tax Services",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/ledgers-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "1-800 WATER DAMAGE Canada",
+    "financials": {
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $142,903-$312,398 U.S. franchise FAQ range",
+        "confidence": 85,
+        "source_url": "https://1800waterdamagefranchise.com/frequently-asked-questions/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $100,000 U.S. FAQ requirement",
+        "confidence": 85,
+        "source_url": "https://1800waterdamagefranchise.com/frequently-asked-questions/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      },
+      "minimum_net_worth": {
+        "value": "Screening reference (not verified for investor scoring): $300,000 U.S. FAQ requirement",
+        "confidence": 85,
+        "source_url": "https://1800waterdamagefranchise.com/frequently-asked-questions/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Training, marketing support, financial coaching, branding, equipment, and 24/7 call center claimed",
+        "confidence": 85,
+        "source_url": "https://1800waterdamagefranchise.com/frequently-asked-questions/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    }
+  },
+  {
+    "name": "Anytime Fitness",
+    "financials": {
+      "initial_investment": {
+        "value": "$474,552-$970,097",
+        "confidence": 88,
+        "source_url": "https://www.anytimefitness.ca/franchise/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $225,000 liquid capital and $380,000 minimum net worth.",
+        "confidence": 55,
+        "source_url": "https://franchise.anytimefitness.com/franchise/what-it-takes-to-be-an-anytime-fitness-franchisee",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): $799/month per center for 1-9 gyms.",
+        "confidence": 55,
+        "source_url": "https://franchise.anytimefitness.com/franchise/what-it-takes-to-be-an-anytime-fitness-franchisee",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Yes - official Canada pages promote current franchise opportunities",
+        "confidence": 88,
+        "source_url": "https://www.anytimefitness.ca/franchise/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official materials emphasize 360-degree franchise support, innovation, and a mature operating playbook",
+        "confidence": 88,
+        "source_url": "https://www.anytimefitness.com/en-ca/own-a-gym",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 5,800+ clubs around the world",
+        "confidence": 88,
+        "source_url": "https://www.anytimefitness.com/en-ca/own-a-gym",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "Aqua-Tots Swim Schools Canada",
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 160+ worldwide locations claimed",
+        "confidence": 88,
+        "source_url": "https://www.aqua-tots.com/franchise/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1991",
+        "confidence": 88,
+        "source_url": "https://www.aqua-tots.com/franchise/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "headquarters": {
+        "value": "Screening reference (not verified for investor scoring): Mesa, Arizona, United States",
+        "confidence": 88,
+        "source_url": "https://www.aqua-tots.com/franchise/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Public franchise materials include Canada among franchise markets",
+        "confidence": 85,
+        "source_url": "https://www.aqua-tots.com/franchise/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    }
+  },
+  {
+    "name": "Best Western Hotels & Resorts",
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): BWH promotes lifecycle support from development through performance optimization and business reviews",
+        "confidence": 88,
+        "source_url": "https://development.bestwestern.com/why-best-western",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): Approximately 4,300 hotels in over 100 countries and territories",
+        "confidence": 88,
+        "source_url": "https://development.bestwestern.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Yes - BWH Hotels actively markets hotel development and conversion opportunities",
+        "confidence": 88,
+        "source_url": "https://development.bestwestern.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1946",
+        "confidence": 88,
+        "source_url": "https://development.bestwestern.com/our-brands",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "British Swim School Canada",
+    "financials": {
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): $55,000 USD CFA; $59,500 official page before discounts",
+        "confidence": 88,
+        "source_url": "CFA + official franchise page",
+        "source_date": "2026 pages",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $108,850-$145,200 USD per CFA listing; $122,700-$176,050 official franchise page",
+        "confidence": 88,
+        "source_url": "CFA + official franchise page",
+        "source_date": "2026 pages",
+        "source_reliability": 90
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Training, business coaching, marketing support, convention, system calls, and intranet described",
+        "confidence": 88,
+        "source_url": "https://britishswimschoolfranchise.com/become-a-swim-school-franchise-owner/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 30",
+        "confidence": 85,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/british-swim-school/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    },
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1981",
+        "confidence": 85,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/british-swim-school/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    }
+  },
+  {
+    "name": "Camp Bow Wow",
+    "financials": {
+      "average_unit_revenue": {
+        "value": "$1,089,859.75 mean average gross revenue in the 2025 Item 19 summary cited on the official page",
+        "confidence": 88,
+        "source_url": "https://www.campbowwowfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "$954,606-$1,229,536",
+        "confidence": 88,
+        "source_url": "https://www.campbowwowfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): One location in Canada with more in development",
+        "confidence": 88,
+        "source_url": "https://www.campbowwowfranchise.com/franchise-faq/",
+        "source_date": "2026 official FAQ",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Yes - official FAQ states the brand is selling locations in Canada and has additional markets in development",
+        "confidence": 88,
+        "source_url": "https://www.campbowwowfranchise.com/franchise-faq/",
+        "source_date": "2026 official FAQ",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "Chem-Dry Canada",
+    "financials": {
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $68,145-$191,196 CFA listing; $92,150-$249,500 official page",
+        "confidence": 88,
+        "source_url": "CFA + official franchise page",
+        "source_date": "2026 pages",
+        "source_reliability": 90
+      },
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): $23,500 CFA listing; $36,000 official page",
+        "confidence": 85,
+        "source_url": "CFA + official franchise page",
+        "source_date": "2026 pages",
+        "source_reliability": 85
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $50,000",
+        "confidence": 85,
+        "source_url": "https://chemdryfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      },
+      "minimum_net_worth": {
+        "value": "Screening reference (not verified for investor scoring): $250,000",
+        "confidence": 85,
+        "source_url": "https://chemdryfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 63",
+        "confidence": 85,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/chem-dry-carpet-upholstery-cleaning/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 85
+      }
+    },
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1975",
+        "confidence": 85,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/chem-dry-carpet-upholstery-cleaning/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 85
+      }
+    }
+  },
+  {
+    "name": "Goldfish Swim School Canada",
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 160+ schools open or in development across North America",
+        "confidence": 88,
+        "source_url": "https://goldfishfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 2006",
+        "confidence": 88,
+        "source_url": "https://goldfishfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "headquarters": {
+        "value": "Screening reference (not verified for investor scoring): Troy, Michigan, United States",
+        "confidence": 88,
+        "source_url": "https://goldfishfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Franchise opportunity marketed for North America; Canada requires franchisor confirmation",
+        "confidence": 85,
+        "source_url": "https://goldfishfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    }
+  },
+  {
+    "name": "Holiday Inn Express",
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 3,304 open hotels across 50 countries, with 666 in the pipeline as of March 31, 2026",
+        "confidence": 88,
+        "source_url": "https://development.ihg.com/hotel-brands/holiday-inn-express",
+        "source_date": "March 31, 2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): IHG highlights design, development, revenue, and commercial support around the brand platform",
+        "confidence": 88,
+        "source_url": "https://development.ihg.com/hotel-brands/holiday-inn-express",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Yes - IHG promotes active owner and development opportunities for Holiday Inn Express",
+        "confidence": 88,
+        "source_url": "https://development.ihg.com/hotel-brands/holiday-inn-express",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 1991",
+        "confidence": 80,
+        "source_url": "https://www.franchise.org/franchise-opportunities/holiday-inn-express/",
+        "source_date": "2026 IFA profile",
+        "source_reliability": 80
+      }
+    }
+  },
+  {
+    "name": "JAN-PRO Cleaning & Disinfecting",
+    "financials": {
+      "initial_investment": {
+        "value": "Local-market pricing varies; official page recommends at least $1,000 in savings and finances most of the startup cost",
+        "confidence": 86,
+        "source_url": "https://jan-pro.com/franchise-opportunity/costs/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): Ongoing management fees exist but complete details are disclosed in FDD",
+        "confidence": 86,
+        "source_url": "https://jan-pro.com/franchising/cost/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Regional Development offices may provide business support, billing, account management, and client acquisition programs",
+        "confidence": 86,
+        "source_url": "https://jan-pro.com/franchising/cost/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      },
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): Training before launch; many owners begin servicing accounts within weeks after completing training",
+        "confidence": 86,
+        "source_url": "https://jan-pro.com/franchising/cost/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      }
+    }
+  },
+  {
+    "name": "Jani-King Canada",
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Unit franchisees receive training, invoicing, accounts receivable, customer service, administration, monthly reports, and operations-management support",
+        "confidence": 88,
+        "source_url": "https://janiking.ca/franchise-opportunities/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Unit Franchise and Master Franchise opportunities in Canada",
+        "confidence": 88,
+        "source_url": "https://janiking.ca/franchise-opportunities/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "Jiffy Lube",
+    "financials": {
+      "franchise_fee": {
+        "value": "$35,000",
+        "confidence": 88,
+        "source_url": "https://www.jiffylube.com/franchise-opportunities",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      },
+      "minimum_liquid_capital": {
+        "value": "$250,000 minimum liquidity",
+        "confidence": 88,
+        "source_url": "https://www.jiffylube.com/franchise-opportunities",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      },
+      "minimum_net_worth": {
+        "value": "$500,000 minimum net worth",
+        "confidence": 88,
+        "source_url": "https://www.jiffylube.com/franchise-opportunities",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 3% royalty payment.",
+        "confidence": 55,
+        "source_url": "https://franchise.jiffylube.com/HowItWorks",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "franchisee": {
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): Award-winning training and no automotive experience required according to the official page",
+        "confidence": 88,
+        "source_url": "https://www.jiffylube.com/franchise-opportunities",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Keller Williams Canada",
+    "franchisee": {
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): KW Canada emphasizes agent education, leadership coaching, and hands-on expansion support",
+        "confidence": 88,
+        "source_url": "https://kwcan.ca/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Yes - Keller Williams Canada actively recruits broker owners and team leaders",
+        "confidence": 88,
+        "source_url": "https://kwcan.ca/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): Since 1983",
+        "confidence": 84,
+        "source_url": "https://kwurbain.com/about-us",
+        "source_date": "2026 official page",
+        "source_reliability": 84
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 60+ regions and 260+ market center locations across the global network",
+        "confidence": 88,
+        "source_url": "https://kwworldwide.com/en-US",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Mathnasium",
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): More than 1,200 learning centres worldwide",
+        "confidence": 88,
+        "source_url": "https://mathnasiumfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): 2002",
+        "confidence": 88,
+        "source_url": "https://mathnasiumfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Yes - Canada has a dedicated Mathnasium Center Licensing Canada entity in the terms page",
+        "confidence": 88,
+        "source_url": "https://www.mathnasium.com/ca/terms-of-use",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "financials": {
+      "initial_investment": {
+        "value": "$127,316-$165,846",
+        "confidence": 88,
+        "source_url": "https://mathnasiumfranchise.com/mathnasium-franchise-cost/",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      },
+      "royalty": {
+        "value": "10% of monthly gross revenue plus a $650 monthly technology and development fee",
+        "confidence": 88,
+        "source_url": "https://mathnasiumfranchise.com/mathnasium-franchise-cost/",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      },
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): $49,000 initial franchise fee.",
+        "confidence": 55,
+        "source_url": "https://franchisedepth.com/franchise/mathnasium/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 2% of monthly gross revenue plus $250.",
+        "confidence": 55,
+        "source_url": "https://mathnasiumfranchise.com/cost/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    }
+  },
+  {
+    "name": "Meineke Car Care Centers",
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): A federally registered Canadian Meineke entity exists, but a current Canada-facing franchise development page was not verified in public sources",
+        "confidence": 88,
+        "source_url": "https://ised-isde.canada.ca/cc/lgcy/fdrlCrpDtls.html?corpId=12052449",
+        "source_date": "2026 federal registry record",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "Midas",
+    "financials": {
+      "initial_investment": {
+        "value": "$209,557-$885,989",
+        "confidence": 86,
+        "source_url": "https://www.midasfranchise.com/franchise-cost/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official materials emphasize pre-opening guidance, technical training, and ongoing corporate support",
+        "confidence": 86,
+        "source_url": "https://www.midasfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 2,000-plus locations worldwide",
+        "confidence": 86,
+        "source_url": "https://www.midasfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      }
+    }
+  },
+  {
+    "name": "MOLLY MAID Canada",
+    "financials": {
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): $13,000 Neighbourhood; $30,000 New Franchise",
+        "confidence": 88,
+        "source_url": "https://franchise.mollymaid.ca/franchise-models/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): Neighbourhood approx. $25,000-$30,000 upfront plus working capital; New Franchise approx. $74,000-$94,000 upfront/operating capital before vehicles and local costs",
+        "confidence": 88,
+        "source_url": "https://franchise.mollymaid.ca/franchise-models/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 2% Brand Development Fund",
+        "confidence": 88,
+        "source_url": "https://franchise.mollymaid.ca/faqs/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "profit_margin": {
+        "value": "Screening reference (not verified for investor scoring): No FPR; margins vary by location/cash flow/expense management/execution",
+        "confidence": 88,
+        "source_url": "https://franchise.mollymaid.ca/faqs/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 6%",
+        "confidence": 88,
+        "source_url": "https://franchise.mollymaid.ca/faqs/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $5,000-$10,000 operating capital for neighbourhood model; $40,000-$60,000 for new or established models.",
+        "confidence": 55,
+        "source_url": "https://franchise.mollymaid.ca/franchise-models/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "franchisee": {
+      "operational_difficulty": {
+        "value": "Screening reference (not verified for investor scoring): Owner-operator model; official FAQ says new owners do not perform cleaning but run the business full-time",
+        "confidence": 88,
+        "source_url": "https://franchise.mollymaid.ca/faqs/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official materials emphasize training, technology, marketing, HR, financial management, and proven business systems",
+        "confidence": 88,
+        "source_url": "https://franchise.mollymaid.ca/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Yes - official Canada page lists available territories across Canada",
+        "confidence": 88,
+        "source_url": "https://franchise.mollymaid.ca/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      }
+    }
+  },
+  {
+    "name": "Mosquito Joe",
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official franchise pages emphasize low-barrier entry, no special licensing in many markets, and experienced team support",
+        "confidence": 88,
+        "source_url": "https://franchise.neighborly.com/franchises/mosquito-joe/",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Official materials promote the model broadly, but Canada-specific public franchise availability remains unconfirmed",
+        "confidence": 88,
+        "source_url": "https://franchise.neighborly.com/franchises/mosquito-joe/",
+        "source_date": "2026 official page",
+        "source_reliability": 88
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): Official Neighborly materials cite more than 410 franchise locations in 38 states",
+        "confidence": 84,
+        "source_url": "https://franchise.neighborly.com/blog/2024/june/mosquito-joe-franchise-opportunity/",
+        "source_date": "June 2024 official blog",
+        "source_reliability": 84
+      }
+    }
+  },
+  {
+    "name": "Mr. Handyman",
+    "financials": {
+      "franchise_fee": {
+        "value": "$67,000 included in the startup package",
+        "confidence": 88,
+        "source_url": "https://franchise.neighborly.com/franchises/mr-handyman/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "$161,900-$215,000",
+        "confidence": 88,
+        "source_url": "https://franchise.neighborly.com/franchises/mr-handyman/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $50,000 minimum cash required; $250,000 net worth required.",
+        "confidence": 55,
+        "source_url": "https://www.franchise.com/franchise/mr-handyman",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 7% royalty.",
+        "confidence": 55,
+        "source_url": "https://www.franchise.com/franchise/mr-handyman",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "franchisee": {
+      "operational_difficulty": {
+        "value": "Screening reference (not verified for investor scoring): Official materials say owners run the business and do not need direct trade experience",
+        "confidence": 88,
+        "source_url": "https://franchise.neighborly.com/franchises/mr-handyman/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): Canada: 15 | USA: 250",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/mr-handyman/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      }
+    }
+  },
+  {
+    "name": "Pet Wants",
+    "financials": {
+      "franchise_fee": {
+        "value": "$53,500",
+        "confidence": 88,
+        "source_url": "https://petwantsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "$148,150-$239,400",
+        "confidence": 88,
+        "source_url": "https://petwantsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $50,000 minimum liquid capital.",
+        "confidence": 55,
+        "source_url": "https://petwantsfranchise.com/investment",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official materials emphasize mobile-first launch paths, clear processes, and centralized support",
+        "confidence": 88,
+        "source_url": "https://petwantsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): More than 100 open locations across the system",
+        "confidence": 88,
+        "source_url": "https://petwantsfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "PostalAnnex",
+    "financials": {
+      "franchise_fee": {
+        "value": "$35,000",
+        "confidence": 88,
+        "source_url": "https://www.postalannexfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "$249,130-$349,830",
+        "confidence": 88,
+        "source_url": "https://www.postalannexfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "territory_protection": {
+        "value": "Protected territories are offered according to the official page",
+        "confidence": 88,
+        "source_url": "https://www.postalannexfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $50,000 minimum liquid capital.",
+        "confidence": 55,
+        "source_url": "https://www.postalannexfranchise.com/faq",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): PostalAnnex has nearly 300 franchises; Annex Brands reports more than 820 locations across North America",
+        "confidence": 88,
+        "source_url": "https://www.postalannexfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "PuroClean Canada",
+    "financials": {
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $250,000 available capital required: $150,000 startup capital and $100,000 working capital",
+        "confidence": 88,
+        "source_url": "https://puroclean.ca/franchise-site",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "territory_protection": {
+        "value": "Screening reference (not verified for investor scoring): Proprietary market areas / exclusivity claimed",
+        "confidence": 85,
+        "source_url": "https://puroclean.ca/franchise-site",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): 61 franchise locations across Canada as of 2025",
+        "confidence": 88,
+        "source_url": "https://puroclean.ca/franchise-site",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "system_growth": {
+        "value": "Screening reference (not verified for investor scoring): 18% system-wide sales growth in 2024",
+        "confidence": 85,
+        "source_url": "https://puroclean.ca/franchise-site",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    },
+    "profile": {
+      "canadian_owned": {
+        "value": "Screening reference (not verified for investor scoring): PuroClean Canada became Canadian owned in 2016",
+        "confidence": 88,
+        "source_url": "https://puroclean.ca/about-us",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "headquarters": {
+        "value": "Screening reference (not verified for investor scoring): Mississauga, Ontario, Canada",
+        "confidence": 88,
+        "source_url": "https://puroclean.ca/about-us",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "REMAX Canada",
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): RE/MAX Canada highlights peer sharing, recruiting support, marketing tools, technology, and succession planning support",
+        "confidence": 88,
+        "source_url": "https://franchise.remax.ca/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Yes - official Canada page invites owners and team leaders to explore franchise conversion",
+        "confidence": 88,
+        "source_url": "https://franchise.remax.ca/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      },
+      "headquarters": {
+        "value": "Screening reference (not verified for investor scoring): 639 Queen Street West, 3rd Floor, Toronto, ON M5V 2B7",
+        "confidence": 88,
+        "source_url": "https://franchise.remax.ca/",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): More than 145,000 agents in nearly 9,000 offices across more than 110 countries and territories",
+        "confidence": 88,
+        "source_url": "https://news.remax.com/press-release/remax-canada-welcomes-don-kottick-as-new-president",
+        "source_date": "May 2025 official press release",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "Right at Home Canada",
+    "franchisee": {
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): Two full weeks of training plus one week of on-site opening support",
+        "confidence": 88,
+        "source_url": "https://www.rightathomecanada.com/franchise-opportunities",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      }
+    },
+    "profile": {
+      "headquarters": {
+        "value": "Screening reference (not verified for investor scoring): 1750 Ellice Avenue, Winnipeg, MB R3H 0B3",
+        "confidence": 88,
+        "source_url": "https://www.rightathomecanada.com/franchise-opportunities",
+        "source_date": "2026 official page",
+        "source_reliability": 92
+      }
+    },
+    "financials": {
+      "franchise_fee": {
+        "value": "$70,000-$90,000",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/right-at-home-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "initial_investment": {
+        "value": "Approx. $150,000",
+        "confidence": 88,
+        "source_url": "https://cfa.ca/lookforafranchise/listing/right-at-home-canada/",
+        "source_date": "2026 CFA listing",
+        "source_reliability": 88
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 2% marketing/brand-fund fee in 2026 FDD-derived source.",
+        "confidence": 55,
+        "source_url": "https://franchisedepth.com/franchise/right-at-home/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $150,000 minimum liquid capital on U.S. official franchise page.",
+        "confidence": 55,
+        "source_url": "https://www.rightathomefranchise.com/what-it-takes",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 5% royalty in 2026 FDD-derived source.",
+        "confidence": 55,
+        "source_url": "https://franchisedepth.com/franchise/right-at-home/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    }
+  },
+  {
+    "name": "ServiceMaster Clean Canada",
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): startup program, marketing materials, franchise support centre, online resource centre, workshops and conventions",
+        "confidence": 88,
+        "source_url": "https://servicemasterclean.ca/about/franchise-opportunity",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "training_quality": {
+        "value": "Screening reference (not verified for investor scoring): Two-week Training Program with ServiceMaster Clean's Academy of Service",
+        "confidence": 88,
+        "source_url": "https://servicemasterclean.ca/about/franchise-opportunity",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): ServiceMaster Canada franchise opportunities across cleaning/restoration brands",
+        "confidence": 88,
+        "source_url": "https://www.servicemaster.ca/franchise_info",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "headquarters": {
+        "value": "Screening reference (not verified for investor scoring): Canadian Support Center, 2275 Upper Middle Road, Suite 200, Oakville, ON",
+        "confidence": 88,
+        "source_url": "https://www.servicemaster.ca/franchise_info",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 2,000+ worldwide locations",
+        "confidence": 85,
+        "source_url": "https://servicemasterclean.ca/about/franchise-opportunity",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    }
+  },
+  {
+    "name": "Snap Fitness",
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official Canada page highlights property, recruiting, training, pre-sales, finance, and ongoing support",
+        "confidence": 88,
+        "source_url": "https://www.snapfitness.com/ca/why-franchise-with-snap-fitness",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): Nearly 1,000 gyms in 17 countries with more than 800,000 members",
+        "confidence": 88,
+        "source_url": "https://www.snapfitness.com/ca/why-franchise-with-snap-fitness",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Yes - Snap Fitness Canada markets current franchise opportunities",
+        "confidence": 88,
+        "source_url": "https://www.snapfitness.com/ca/why-franchise-with-snap-fitness",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "financials": {
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): $39,500 initial franchise fee.",
+        "confidence": 55,
+        "source_url": "https://www.snapfitness.com/us/news/snap-fitness-incredible-gym-franchise-opportunities",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $528,757-$1,014,575.",
+        "confidence": 55,
+        "source_url": "https://www.snapfitness.com/us/gym-franchise-opportunity",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 2% national advertising fee.",
+        "confidence": 55,
+        "source_url": "https://www.snapfitness.com/us/franchise-faqs",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 6% royalty.",
+        "confidence": 55,
+        "source_url": "https://www.snapfitness.com/us/franchise-faqs",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    }
+  },
+  {
+    "name": "Soccer Shots Canada",
+    "financials": {
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): $36,500 initial franchise fee",
+        "confidence": 88,
+        "source_url": "https://www.soccershotsfranchising.com/the-numbers/",
+        "source_date": "2025 FDD summary on 2026 page",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $42,950-$54,300 total estimated startup costs",
+        "confidence": 88,
+        "source_url": "https://www.soccershotsfranchising.com/the-numbers/",
+        "source_date": "2025 FDD summary on 2026 page",
+        "source_reliability": 90
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 1% brand fund plus software licensing fee starting at 2% first year",
+        "confidence": 88,
+        "source_url": "https://www.soccershotsfranchising.com/the-numbers/",
+        "source_date": "2025 FDD summary on 2026 page",
+        "source_reliability": 90
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 7% of gross sales",
+        "confidence": 88,
+        "source_url": "https://www.soccershotsfranchising.com/the-numbers/",
+        "source_date": "2025 FDD summary on 2026 page",
+        "source_reliability": 90
+      }
+    },
+    "customer": {
+      "market_signal": {
+        "value": "Screening reference (not verified for investor scoring): 620,000+ children enrolled in 2023 per franchise site",
+        "confidence": 85,
+        "source_url": "https://www.soccershotsfranchising.com/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "Screening reference (not verified for investor scoring): 2 Canadian provinces",
+        "confidence": 85,
+        "source_url": "https://www.soccershots.com/about/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    }
+  },
+  {
+    "name": "Spherion",
+    "financials": {
+      "average_unit_revenue": {
+        "value": "$6.9M average annual revenue and $1.4M average gross profit according to the official marketing page",
+        "confidence": 88,
+        "source_url": "https://www.spherion.com/franchise/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "franchise_fee": {
+        "value": "$30,090-$60,100",
+        "confidence": 88,
+        "source_url": "https://www.spherion.com/franchise/franchise-faqs/",
+        "source_date": "2026 official FAQ",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "$211,725-$423,925 depending on market and model",
+        "confidence": 88,
+        "source_url": "https://www.spherion.com/franchise/franchise-faqs/",
+        "source_date": "2026 official FAQ",
+        "source_reliability": 90
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $200,000 liquid capital and $250,000 net worth.",
+        "confidence": 55,
+        "source_url": "https://info.spherion.com/en/franchise-info-request",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official materials emphasize payroll funding, back-office systems, and one-on-one coaching",
+        "confidence": 88,
+        "source_url": "https://www.spherion.com/franchise/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "Sportball Canada",
+    "financials": {
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $76,250-$106,000 estimated startup cost",
+        "confidence": 88,
+        "source_url": "https://sportballfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 2% ad fund fee on gross sales",
+        "confidence": 88,
+        "source_url": "https://sportballfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 8% royalty fee on gross sales",
+        "confidence": 88,
+        "source_url": "https://sportballfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): Older CFA article referenced $20,000 major-market / $15,000 secondary-market franchise fee; supersede with current FDD",
+        "confidence": 65,
+        "source_url": "CFA Franchise Canada article",
+        "source_date": "older article",
+        "source_reliability": 65
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Active franchise opportunity",
+        "confidence": 88,
+        "source_url": "https://sportballfranchise.com/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      },
+      "headquarters": {
+        "value": "Screening reference (not verified for investor scoring): Thornhill, Ontario, Canada",
+        "confidence": 85,
+        "source_url": "https://www.franchise.org/franchise-opportunities/sportball/",
+        "source_date": "2026 IFA profile",
+        "source_reliability": 85
+      }
+    }
+  },
+  {
+    "name": "Stratus Building Solutions Canada",
+    "financials": {
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): $75,000 starting Canada master franchise fee; broader master fee range $75,000-$200,000",
+        "confidence": 88,
+        "source_url": "https://www.stratusclean.com/master-opportunity/canada/ and https://stratusfranchising.com/investment-opportunity/",
+        "source_date": "2026 pages",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $110,000-$350,000 master initial investment range; Canada page indicates fee starts at $75,000 plus suggested working capital",
+        "confidence": 88,
+        "source_url": "Stratus franchise pages",
+        "source_date": "2026 pages",
+        "source_reliability": 90
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $125,000-$150,000 required liquid capital on master page",
+        "confidence": 85,
+        "source_url": "https://stratusfranchising.com/investment-opportunity/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      },
+      "territory_protection": {
+        "value": "Screening reference (not verified for investor scoring): Exclusive territory claimed for master franchise",
+        "confidence": 85,
+        "source_url": "https://www.stratusclean.com/master-opportunity/canada/",
+        "source_date": "2026 page",
+        "source_reliability": 85
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Janitorial Master Franchise Opportunity in Canada",
+        "confidence": 88,
+        "source_url": "https://www.stratusclean.com/master-opportunity/canada/",
+        "source_date": "2026 page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "The Goddard School",
+    "financials": {
+      "franchise_fee": {
+        "value": "Screening reference (not verified for investor scoring): $135,000",
+        "confidence": 88,
+        "source_url": "https://goddardschoolfranchise.com/franchise-opportunities",
+        "source_date": "2026 FDD summary page",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "Screening reference (not verified for investor scoring): $1,003,500-$8,908,000 depending on real-estate model",
+        "confidence": 88,
+        "source_url": "https://goddardschoolfranchise.com/franchise-opportunities",
+        "source_date": "2026 FDD summary page",
+        "source_reliability": 90
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 2% currently, may increase to 4%",
+        "confidence": 88,
+        "source_url": "https://goddardschoolfranchise.com/franchise-opportunities",
+        "source_date": "2026 FDD summary page",
+        "source_reliability": 90
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $350,000",
+        "confidence": 88,
+        "source_url": "https://goddardschoolfranchise.com/franchise-opportunities",
+        "source_date": "2026 FDD summary page",
+        "source_reliability": 90
+      },
+      "minimum_net_worth": {
+        "value": "Screening reference (not verified for investor scoring): $500,000",
+        "confidence": 88,
+        "source_url": "https://goddardschoolfranchise.com/franchise-opportunities",
+        "source_date": "2026 FDD summary page",
+        "source_reliability": 90
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 7%",
+        "confidence": 88,
+        "source_url": "https://goddardschoolfranchise.com/franchise-opportunities",
+        "source_date": "2026 FDD summary page",
+        "source_reliability": 90
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official materials highlight curriculum, operations, marketing, and site-development support",
+        "confidence": 88,
+        "source_url": "https://www.goddardschoolfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 665+ schools open or under development",
+        "confidence": 88,
+        "source_url": "https://www.goddardschoolfranchise.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "The Grounds Guys",
+    "financials": {
+      "franchise_fee": {
+        "value": "$43,750",
+        "confidence": 88,
+        "source_url": "https://franchise.neighborly.com/franchises/the-grounds-guys/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "$107,650-$252,850",
+        "confidence": 88,
+        "source_url": "https://franchise.neighborly.com/franchises/the-grounds-guys/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "marketing_fee": {
+        "value": "Screening reference (not verified for investor scoring): 2% marketing/ad fund.",
+        "confidence": 55,
+        "source_url": "https://franchiseoverview.com/company/the-grounds-guys",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      },
+      "royalty": {
+        "value": "Screening reference (not verified for investor scoring): 5%-6% royalty/license fee.",
+        "confidence": 55,
+        "source_url": "https://franchiseoverview.com/company/the-grounds-guys",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "profile": {
+      "canadian_owned": {
+        "value": "Screening reference (not verified for investor scoring): Canadian owned and operated according to the live Canadian consumer site",
+        "confidence": 86,
+        "source_url": "https://www.groundsguys.ca//",
+        "source_date": "2026 official Canada page",
+        "source_reliability": 86
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 260+ locations across the network",
+        "confidence": 80,
+        "source_url": "https://www.franchise.org/franchise-opportunities/the-grounds-guys/",
+        "source_date": "2026 IFA profile",
+        "source_reliability": 80
+      }
+    }
+  },
+  {
+    "name": "The Little Gym",
+    "financials": {
+      "franchise_fee": {
+        "value": "$59,500",
+        "confidence": 88,
+        "source_url": "https://franchise.thelittlegym.com/franchise-information/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "initial_investment": {
+        "value": "$420,324-$722,773",
+        "confidence": 88,
+        "source_url": "https://franchise.thelittlegym.com/franchise-information/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      },
+      "minimum_liquid_capital": {
+        "value": "Screening reference (not verified for investor scoring): $100,000 required liquid capital.",
+        "confidence": 55,
+        "source_url": "https://www.thelittlegymfranchise.com/investment/",
+        "source_date": "2026-07-28",
+        "source_reliability": 0
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): Almost 400 locations worldwide",
+        "confidence": 88,
+        "source_url": "https://franchise.thelittlegym.com/",
+        "source_date": "2026 official page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "The Tutoring Center",
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official page emphasizes unlimited training and operational support",
+        "confidence": 86,
+        "source_url": "https://www.tutoringcenter.com/franchise/franchise-opportunities/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 120+ national locations",
+        "confidence": 86,
+        "source_url": "https://www.tutoringcenter.com/franchise/franchise-opportunities/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      }
+    },
+    "profile": {
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Official franchise opportunity page is active, but Canada-specific availability is not clearly stated in public materials",
+        "confidence": 86,
+        "source_url": "https://www.tutoringcenter.com/franchise/franchise-opportunities/",
+        "source_date": "2026 official page",
+        "source_reliability": 86
+      }
+    }
+  },
+  {
+    "name": "Vanguard Cleaning Systems Canada",
+    "financials": {
+      "franchise_fee": {
+        "value": "Area franchise initial franchise fee is typically $100,000-$350,000; janitorial franchise fees vary by Area Franchisor.",
+        "confidence": 88,
+        "source_url": "https://www.vanguardcleaning.ca/franchise-opportunities/faq/",
+        "source_date": "2026-07-28 official FAQ",
+        "source_reliability": 90
+      },
+      "minimum_liquid_capital": {
+        "value": "Area franchise candidates typically have a minimum of $500,000 in liquid assets.",
+        "confidence": 88,
+        "source_url": "https://www.vanguardcleaning.ca/franchise-opportunities/faq/",
+        "source_date": "2026-07-28 official FAQ",
+        "source_reliability": 90
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Area franchise offices provide account sourcing, billing, collections, account support, industry information, software, and marketing materials.",
+        "confidence": 88,
+        "source_url": "https://www.vanguardcleaning.ca/franchise-opportunities/faq/",
+        "source_date": "2026-07-28 official FAQ",
+        "source_reliability": 90
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): Nearly 2,000 independently owned janitorial franchise businesses and more than 50 Area Franchise regional offices across Canada and the United States.",
+        "confidence": 88,
+        "source_url": "https://www.vanguardcleaning.ca/franchise-opportunities/faq/",
+        "source_date": "2026-07-28 official FAQ",
+        "source_reliability": 90
+      }
+    },
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): The Vanguard brand was founded in 1984.",
+        "confidence": 88,
+        "source_url": "https://www.vanguardcleaning.ca/franchise-opportunities/",
+        "source_date": "2026-07-28 official page",
+        "source_reliability": 90
+      },
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Vanguard Canada presents both Area Franchise and Janitorial Franchise opportunities.",
+        "confidence": 88,
+        "source_url": "https://www.vanguardcleaning.ca/franchise-opportunities/",
+        "source_date": "2026-07-28 official page",
+        "source_reliability": 90
+      }
+    }
+  },
+  {
+    "name": "Visiting Angels Canada",
+    "financials": {
+      "initial_investment": {
+        "value": "Approximately $120,000 initial investment; actual costs may vary.",
+        "confidence": 88,
+        "source_url": "https://franchise.visitingangels.com/",
+        "source_date": "2026-07-28 official page",
+        "source_reliability": 88
+      },
+      "average_unit_revenue": {
+        "value": "Screening reference (not verified for investor scoring): $2,300,000 median gross revenue, data from 2024.",
+        "confidence": 86,
+        "source_url": "https://franchise.visitingangels.com/",
+        "source_date": "2026-07-28 official page",
+        "source_reliability": 86
+      },
+      "profit_margin": {
+        "value": "Screening reference (not verified for investor scoring): 15%-18% average net profit, data from 2024.",
+        "confidence": 86,
+        "source_url": "https://franchise.visitingangels.com/",
+        "source_date": "2026-07-28 official page",
+        "source_reliability": 86
+      }
+    },
+    "franchisee": {
+      "support_quality": {
+        "value": "Screening reference (not verified for investor scoring): Official materials describe one-on-one franchise owner support, regional meetings, annual conferences, lead distribution, marketing support, extranet resources, and weekly updates.",
+        "confidence": 88,
+        "source_url": "https://franchise.visitingangels.com/about-us",
+        "source_date": "2026-07-28 official page",
+        "source_reliability": 88
+      }
+    },
+    "growth": {
+      "total_locations_international": {
+        "value": "Screening reference (not verified for investor scoring): 600+ franchised senior home care agencies across the United States; international master franchise opportunities are described.",
+        "confidence": 88,
+        "source_url": "https://franchise.visitingangels.com/about-us",
+        "source_date": "2026-07-28 official page",
+        "source_reliability": 88
+      }
+    },
+    "profile": {
+      "founded": {
+        "value": "Screening reference (not verified for investor scoring): Visiting Angels franchise ownership began in 1998.",
+        "confidence": 88,
+        "source_url": "https://franchise.visitingangels.com/about-us",
+        "source_date": "2026-07-28 official page",
+        "source_reliability": 88
+      },
+      "franchise_available": {
+        "value": "Screening reference (not verified for investor scoring): Official franchise page invites candidates to search open markets.",
+        "confidence": 88,
+        "source_url": "https://franchise.visitingangels.com/",
+        "source_date": "2026-07-28 official page",
+        "source_reliability": 88
+      }
+    }
+  }
+]

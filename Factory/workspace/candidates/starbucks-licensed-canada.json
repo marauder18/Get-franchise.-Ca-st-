@@ -1,0 +1,29 @@
+{
+  "brand": "Starbucks Licensed Stores Canada",
+  "slug": "starbucks-licensed-canada",
+  "research_date": "2026-10-16",
+  "fields": [
+    {
+      "field_id": "franchise_available",
+      "value": "unclear",
+      "status": "unclear",
+      "country_context": "Canada",
+      "source_type": "secondary",
+      "source_url": "https://www.vettedbiz.com/resources/starbucks-franchise",
+      "source_excerpt": "Starbucks does not offer franchises in the United States or Canada.",
+      "source_date": "2026-10-16"
+    },
+    {
+      "field_id": "business_model",
+      "value": "Licensed stores only, not traditional franchising",
+      "status": "candidate",
+      "country_context": "Canada",
+      "source_type": "secondary",
+      "source_url": "https://www.franchiseba.com/starbucks-franchise/",
+      "source_excerpt": "The company grows through company-operated stores and licensed locations only.",
+      "source_date": "2026-10-16"
+    }
+  ],
+  "notes": "Not a traditional franchise; uses a licensing model. No official Canadian franchise development site found.",
+  "recommended_for_verification": true
+}

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GetFranchise offline raw record",
+  "required": ["schema_version", "franchise", "slug", "report_path", "source_file_sha256", "extracted_at", "fields", "evidence_gates"],
+  "types": {"schema_version": "string", "franchise": "string", "slug": "string", "report_path": "string", "source_file_sha256": "string", "extracted_at": "string", "fields": "array", "evidence_gates": "array"}
+}

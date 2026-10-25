@@ -1,0 +1,245 @@
+
+
+ 
+Jun 7
+Starred
+me
+GetFranchise_AI_Native_Plan
+ 
+Attachment:
+GetFranchise_AI_Native_Plan.md
+Jun 7
+0% of 5,120 GB used
+Terms · Privacy · Program Policies
+Last account activity: in 1 minute
+Details
+# GetFranchise.ca — Implementation Plan (v1)
+### A father-and-sons build: learning to ship a real business with AI
+
+This is the working plan for our first version. It is deliberately small. The goal is **learning by building a real thing**, not building everything at once. We prove the whole loop end-to-end with a tiny dataset, then grow.
+
+---
+
+## 0. What we are actually building first
+
+**Scope of v1:** Canada only. **10–15 franchises in ONE category** (recommended: Coffee or Food & Beverage — familiar, lots of public data). Franchise *opportunities* only (no resales). A small public website that shows those franchises with AI-generated analysis, plus a verification outreach effort to confirm the data.
+
+**What v1 is NOT:** not 100 franchises, not 12 categories, not 5 autonomous agents, not paid listings, not lead generation. Those are later. Writing them down here so we don't lose them — see "Later / someday" at the end.
+
+**The one rule that governs everything:** ship something small and real every week. Ugly but working beats polished but imaginary.
+
+---
+
+## 1. The roles — who does what
+
+There are three humans and three kinds of software helper. Keep them straight; this clarity is half the lesson.
+
+### The humans
+- **Dad (you):** accountable adult. Owns the website deployment review, the business email identity, the API keys and spending limits, and the final "go live" / "send this email" approvals.
+- **Son A:** owns **data** — collecting franchise info into the sheet, source + date on every record, and the AI analysis prompts.
+- **Son B:** owns **build & outreach** — the website code with Claude Code/Codex, and managing the outreach tracking.
+- *(Rotate these every couple of weeks so both boys learn every part.)*
+
+### The software helpers
+- **OpenClaw — the MANAGER.** Lives on Telegram. Gives the boys their assignments, answers their questions, tracks where everything is, reminds them of follow-ups, and handles deployment. **OpenClaw never writes the franchise platform's code itself.** It manages and it deploys.
+- **Claude Code / Codex — the WORKERS.** The boys sit at the terminal and use these to actually write code. This is where the learning happens. OpenClaw tells them what to build; they build it.
+- **The website + database** — what we're producing. Next.js front end, Supabase database, GitHub repo, deployed to the Hetzner VPS.
+
+### The single most important mental model
+> OpenClaw is the **project manager**. Claude Code and Codex are the **engineers**. The boys *are* the engineers' hands — they drive the tools. OpenClaw guides and then deploys. It does not build.
+
+---
+
+## 2. How the day-to-day actually flows
+
+**Building a feature:**
+1. OpenClaw (Telegram): "Today's task: add the franchise data model. Here's what 'done' looks like…"
+2. A boy opens **Claude Code or Codex** at the terminal and does the work.
+3. He commits and pushes to **GitHub**.
+4. He tells OpenClaw: "Done, pushed."
+5. OpenClaw deploys to **staging** on the VPS and replies: "Live on staging, here's the link — look good?"
+6. A human says go → OpenClaw promotes to production (or we click the button ourselves at first).
+
+So: **boys build at the terminal; OpenClaw guides them and handles GitHub → VPS deploys with a human go-live checkpoint.**
+
+**Choosing Claude Code vs Codex (keep it simple):** default to Claude Code. If it stalls or you want a second opinion, try the same task in Codex and compare. Don't over-engineer the routing — comparing the two on the same task is itself a great lesson.
+
+---
+
+## 3. OpenClaw governance — the "strict guidelines"
+
+OpenClaw is powerful (it can run commands, deploy, and message people), and it's triggered from a phone by two 14-year-olds. So it gets clear, strict rules. Paste the block below into OpenClaw's system prompt and refine it together.
+
+### Starter system-prompt block (edit to taste)
+
+```
+You are the project manager and operator for the GetFranchise.ca build.
+You are working with two 14-year-old developers and their father (the supervising adult).
+
+ROLE — MANAGER, NOT MAKER:
+- You do NOT write application code for the franchise platform. Ever.
+- When real work is needed, you assign it to the boys to do in Claude Code or Codex,
+  with a clear, self-contained brief (see HANDOFF FORMAT).
+- The ONLY things you do directly are: talking to the team, tracking status,
+  drafting (emails, briefs), and DEPLOYMENT tasks (see DEPLOY RULES).
+- Trivial conversational replies ("what's next?") you answer directly — don't spin up a worker for those.
+
+HANDOFF FORMAT (every task you assign must include):
+- Goal: one sentence.
+- Files/areas to touch.
+- Definition of done.
+- What to report back when finished.
+
+DEPLOY RULES:
+- Deploy to STAGING automatically after a push. Never to production without a human "go live".
+- Never run a destructive command (delete, drop, overwrite, force-push) without explicit human approval.
+- Never send any outbound email without a human reading it and approving it first.
+
+SAFETY:
+- Stay within the project's sandboxed working directory.
+- Never expose, log, or transmit API keys or credentials.
+- If unsure, stop and ask the human.
+
+TONE:
+- Encouraging, plain-language, age-appropriate. Explain the "why," not just the "what."
+```
+
+### Hard safety rails (set these up BEFORE the first Telegram command)
+- **Spending limits on every API key** (Claude, Codex, any model). A hard monthly ceiling.
+- **Sandboxed working directory** — agents can't roam the whole machine.
+- **No production credentials** in the boys' access path; deploy uses a **scoped deploy key**, staging first.
+- **Human-in-the-loop checkpoint** before anything destructive, and before any outbound email.
+- **A note on the tool itself:** OpenClaw was acquired by OpenAI in early 2026, so expect its direction/licensing to shift. Fine for learning — just don't build anything we can't migrate off. Consider letting OpenClaw *trigger and report on* a standard deploy pipeline (e.g. GitHub Actions) rather than reinventing deployment, so the deploy half rests on a well-trodden path.
+
+---
+
+## 4. The data model (corrected)
+
+Every franchise record gets **source and date fields**. These numbers (fees, investment ranges, royalties) are exactly what people make decisions and lawsuits over, so provenance is mandatory.
+
+```json
+{
+  "brand_name": "",
+  "industry": "",
+  "website": "",
+  "headquarters": "",
+  "year_founded": "",
+  "franchising_since": "",
+  "franchise_fee": "",
+  "investment_range": "",
+  "royalty_fee": "",
+  "marketing_fee": "",
+  "locations_canada": "",
+  "provinces_operating": "",
+
+  "data_source": "",          // where each figure came from
+  "date_collected": "",       // when we recorded it
+  "last_verified": "",        // set when a franchisor confirms it
+  "verified": false           // becomes true after Phase: Verification
+}
+```
+
+**Storage:** start in **Google Sheets** (zero friction, everyone can see the data). Migrate to **Supabase** when the website needs it. Skip Airtable — one tool at a time.
+
+**Disclaimer (must appear on the site):** AI-generated analysis and our scores are informational only, not financial or legal advice. In Canada, official franchise terms come from disclosure documents and vary by province.
+
+---
+
+## 5. The AI analysis & Health Score (be honest about what it is)
+
+AI generates, per franchise: summary, strengths, weaknesses, ideal owner, and component scores.
+
+**Health Score (out of 100), five parts of 20:** Brand Strength, Digital Presence, Technology, Growth Trend, Franchise Support.
+
+**Rule:** the scoring method must be **written down and applied consistently**, and the score must be **clearly labelled as our proprietary editorial opinion** — not a fact. "Tim Hortons: 87/100" means nothing unless we can show exactly how we got 87. Documenting the method is part of the assignment.
+
+---
+
+## 6. Outreach & Verification (the email exercise)
+
+The boys email franchises to verify the data. This is one of the richest parts of the project — real writing, real follow-up, real handling of "no reply."
+
+### Who it comes from
+- **All outreach goes from our getfranchise.ca business email**, with **Dad as the accountable sender**. The boys draft, send, and manage the conversations under that identity. We do not use the boys' personal emails, and minors' personal contact details do not go out to strangers.
+
+### Compliance (Canada's anti-spam law, CASL — real, with real fines)
+Every outreach email must include:
+- Clear identification of who we are (GetFranchise.ca) and that Dad is the contact.
+- A real mailing address.
+- A working unsubscribe / "tell us to stop" option.
+- We contact each franchise's **official published contact address** (their "contact us"), to verify **their own listing**. We do not scrape personal emails or buy lists.
+
+### How it runs in v1
+- **OpenClaw drafts and tracks. Boys send manually. A human approves every single outbound email.** No auto-sending in v1.
+- OpenClaw maintains the tracker: who was contacted, when, response, what was verified, corrections received, follow-up due.
+- **Follow-up cadence:** one polite follow-up about a week after no reply. Then stop.
+- When a franchisor confirms: set `verified: true` and `last_verified` date, award the (internal) verified status.
+
+### Verification workflow
+```
+Profile created → Email drafted by OpenClaw → Human approves → Boy sends from business email
+→ Response logged → Corrections applied → verified = true, last_verified set
+```
+
+### Starter outreach template (to refine)
+```
+Subject: Quick verification of your franchise listing on GetFranchise.ca
+
+Hello [Franchise] team,
+
+I'm building GetFranchise.ca, a Canadian directory to help people research
+franchise opportunities. We've created a free listing for [Franchise] using
+publicly available information, and we'd like to make sure it's accurate.
+
+Could you confirm or correct the details at [link]? There's no cost.
+
+If you'd prefer we remove the listing or not contact you again, just reply
+and we'll do that right away.
+
+Thank you,
+[Dad's name], GetFranchise.ca
+[Mailing address]
+```
+
+---
+
+## 7. Weekly milestones (a Friday demo every week)
+
+Family work is part-time, so think in small weekly wins, each ending in a quick demo.
+
+| Week | Goal | Demo at the end |
+|------|------|-----------------|
+| 1 | Set up: GitHub repo, Supabase, OpenClaw on Telegram, API keys **with spending limits**, sandbox + safety rails. Boys do a "hello world" task via Claude Code. | OpenClaw assigns a tiny task over Telegram; a boy completes it in Claude Code and pushes. |
+| 2 | Pick the category. Collect **10–15 franchises** into Google Sheets with source + date on every field. | The filled sheet, with provenance on every number. |
+| 3 | Stand up a basic Next.js site listing those franchises. OpenClaw does its first staging deploy. | A live (staging) page showing the franchises. |
+| 4 | Add AI analysis (summary + SWOT) per franchise; document the Health Score method. | A franchise page showing AI analysis + an explained score. |
+| 5 | Outreach: write the CASL-compliant template, build the tracker, send the **first manual wave** (human-approved). | First emails sent; tracker showing status. |
+| 6 | Handle responses, apply corrections, mark verified records. Polish the site. Promote to production. | The real site, live, with at least a few verified listings. |
+
+After week 6 we stop, look at what we learned, and decide what to grow next.
+
+---
+
+## 8. Strategic questions — our answers for v1
+
+1. **Geography:** Canada only.
+2. **Opportunities or resales:** Opportunities only.
+3. **Contact franchisors directly or routed:** From our business email, Dad accountable.
+4. **AI ratings or verified reviews:** AI analysis now; franchisee reviews much later.
+5. **Long-term vision:** Treat v1 as an **Information Platform**. Revisit brokerage/lead-gen later.
+
+---
+
+## 9. Later / someday (parked, not forgotten)
+
+- Scale to 100+ franchises and all 12 categories.
+- Franchisee Intelligence Layer (satisfaction, "would you buy again?").
+- Digital Readiness Index.
+- Marketplace + Lead Matching agent.
+- Revenue: verified/premium listings, lead generation.
+- Possible auto-send for outreach — **only** once the template is proven and we've decided we want it, with CASL handled.
+- Additional specialized agents — added **one at a time**, each only when we hit a real limit that justifies it, and documented as to why it exists.
+
+---
+
+*Guiding principle: every new piece of complexity gets added because we hit a specific wall — never on faith. That's the whole education.*

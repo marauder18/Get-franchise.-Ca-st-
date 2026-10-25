@@ -1,0 +1,793 @@
+[
+  {
+    "name": "Tim Hortons",
+    "profile": {
+      "founded": {
+        "value": "1964; founded as a single location in Canada",
+        "confidence": 85,
+        "source_url": "https://www.rbi.com/English/brands/default.aspx",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "Founded as a single location in Canada in 1964"
+      },
+      "headquarters": "Toronto, Ontario, Canada",
+      "canadian_owned": "Hybrid",
+      "industry": "Quick-service restaurant",
+      "cuisine_type": "Coffee, baked goods, breakfast, sandwiches",
+      "franchise_available": "Yes",
+      "franchising_internationally": {
+        "value": "Yes; more than 6,000 systemwide restaurants in Canada, the U.S., and around the world",
+        "confidence": 85,
+        "source_url": "https://www.rbi.com/English/brands/default.aspx",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "more than 6,000 system wide restaurants"
+      }
+    },
+    "financials": {
+      "initial_investment": "Estimated (industry benchmark)",
+      "franchise_fee": "Estimated (industry benchmark)",
+      "royalty": "Estimated (industry benchmark)",
+      "marketing_fee": "Estimated (industry benchmark)",
+      "payback_period": "Estimated (industry benchmark): 4-7 years",
+      "profit_margin": "Estimated (industry benchmark): 10-18% store-level EBITDA range for mature QSR units"
+    },
+    "growth": {
+      "total_locations_canada": "Large national footprint; exact current count not verified in this seed file",
+      "locations_by_province": {
+        "Ontario": "Very high",
+        "Alberta": "High",
+        "BC": "High",
+        "Quebec": "High"
+      },
+      "new_locations_this_year": "Not verified / not available",
+      "closures_this_year": "Not verified / not available",
+      "net_growth_rate": "Estimated (industry benchmark): stable to modest growth",
+      "hiring_trend": "Estimated (industry benchmark): steady national hiring demand",
+      "total_locations_international": {
+        "value": "More than 6,000 systemwide restaurants in Canada, the United States, and around the world",
+        "confidence": 85,
+        "source_url": "https://www.rbi.com/English/brands/default.aspx",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "more than 6,000 system wide restaurants located in Canada, the United States and around the world"
+      }
+    },
+    "customer": {
+      "google_rating": "Not verified / requires Google Places API",
+      "review_volume": "Not verified / requires Google Places API",
+      "sentiment_trend": "Stable",
+      "insight_summary": "Aggregated QSR signals usually point to very high brand awareness and routine repeat visits, with local store execution driving rating variation."
+    },
+    "franchisee": {
+      "satisfaction_score": "Estimated (industry benchmark)",
+      "training_quality": "Strong standardized system expected for a mature national brand",
+      "operational_difficulty": "High volume, labour-intensive, multi-daypart operation",
+      "support_quality": {
+        "value": "RBI brand page notes franchisees and communities, but Canadian franchisee-rated support remains unverified",
+        "confidence": 70,
+        "source_url": "https://www.rbi.com/English/brands/default.aspx",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "serving their respective guests, franchisees and communities for decades"
+      }
+    },
+    "sentiment": {
+      "positive_themes": [
+        "High brand recognition across Canada",
+        "Frequent repeat purchase behaviour",
+        "Strong convenience and morning traffic pattern"
+      ],
+      "negative_themes": [
+        "Operational pressure during peak hours",
+        "Local quality consistency varies by store",
+        "Mature-market saturation in dense areas"
+      ],
+      "profit_reality": "Strong locations can benefit from scale and traffic, but mature QSR labour, rent, food cost, and throughput discipline materially affect owner returns.",
+      "risks_mentioned": [
+        "High competition in coffee and breakfast",
+        "Labour availability and wage pressure",
+        "Real estate cost in premium corridors"
+      ],
+      "consensus_summary": "A nationally recognized, repeat-visit brand with lower discovery risk but meaningful execution and saturation risk."
+    },
+    "competitive": {
+      "main_competitors": [
+        "McDonald's Canada",
+        "Starbucks Canada",
+        "A&W",
+        "Second Cup",
+        "local cafes"
+      ],
+      "market_saturation": "High in major Canadian markets",
+      "differentiation": "Canadian coffee identity, convenience, breakfast frequency, and national scale",
+      "threat_level": "Medium"
+    },
+    "source_notes": [
+      "Official Tim Hortons corporate/franchise materials should be used for current franchise terms before investment decisions.",
+      "Google Places API required for current rating and review-volume metrics.",
+      "CFA, Franchise Genius, FRANdata, FranDB, GetFDD, ClearlyFDD, official website, news, and job-signal sources should be checked during production ingestion."
+    ]
+  },
+  {
+    "name": "A&W Canada",
+    "profile": {
+      "founded": {
+        "value": "1956 in Winnipeg, Manitoba, Canada",
+        "confidence": 45,
+        "source_url": "https://en.wikipedia.org/wiki/A%26W_(Canada)",
+        "source_date": "Crawled 2026",
+        "source_reliability": 45,
+        "evidence_quote": "first Canadian A&W restaurant opened in Winnipeg, Manitoba, in 1956"
+      },
+      "headquarters": {
+        "value": "North Vancouver, British Columbia, Canada",
+        "confidence": 45,
+        "source_url": "https://en.wikipedia.org/wiki/A%26W_(Canada)",
+        "source_date": "Crawled 2026",
+        "source_reliability": 45,
+        "evidence_quote": "headquartered in North Vancouver"
+      },
+      "canadian_owned": {
+        "value": "Yes; Canadian operation separate from U.S. A&W chain",
+        "confidence": 45,
+        "source_url": "https://en.wikipedia.org/wiki/A%26W_(Canada)",
+        "source_date": "Crawled 2026",
+        "source_reliability": 45,
+        "evidence_quote": "separation from the U.S.-based company"
+      },
+      "industry": "Quick-service restaurant",
+      "cuisine_type": "Burgers, fries, breakfast, root beer",
+      "franchise_available": "Yes"
+    },
+    "financials": {
+      "initial_investment": "Estimated (industry benchmark)",
+      "franchise_fee": "Estimated (industry benchmark)",
+      "royalty": "Estimated (industry benchmark)",
+      "marketing_fee": "Estimated (industry benchmark)",
+      "payback_period": "Estimated (industry benchmark): 4-7 years",
+      "profit_margin": "Estimated (industry benchmark): 10-18% store-level EBITDA range for mature QSR units"
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "1,029 franchises as of 2022 background count; replace with franchisor-confirmed current count",
+        "confidence": 45,
+        "source_url": "https://en.wikipedia.org/wiki/A%26W_(Canada)",
+        "source_date": "2022 figure; crawled 2026",
+        "source_reliability": 45,
+        "evidence_quote": "1,029 franchises"
+      },
+      "locations_by_province": {
+        "Ontario": "High",
+        "Alberta": "High",
+        "BC": "Very high",
+        "Quebec": "Medium"
+      },
+      "new_locations_this_year": "Not verified / not available",
+      "closures_this_year": "Not verified / not available",
+      "net_growth_rate": "Estimated (industry benchmark): stable to positive",
+      "hiring_trend": "Estimated (industry benchmark): steady hiring demand"
+    },
+    "customer": {
+      "google_rating": "Not verified / requires Google Places API",
+      "review_volume": "Not verified / requires Google Places API",
+      "sentiment_trend": "Stable",
+      "insight_summary": "Aggregated signals commonly emphasize product differentiation and Canadian ownership, with performance varying by traffic corridor and operator execution."
+    },
+    "franchisee": {
+      "satisfaction_score": "Estimated (industry benchmark)",
+      "training_quality": "Strong system training expected for a mature national chain",
+      "operational_difficulty": "Moderate to high; kitchen execution and labour scheduling are central",
+      "support_quality": "Strong support expected; exact satisfaction requires verified franchisee survey data"
+    },
+    "sentiment": {
+      "positive_themes": [
+        "Canadian-owned brand identity",
+        "Differentiated burger positioning",
+        "Strong highway, suburban, and mall-format potential"
+      ],
+      "negative_themes": [
+        "Food cost and labour pressure can affect margins",
+        "Competition from global burger chains",
+        "Site selection matters heavily"
+      ],
+      "profit_reality": "Returns depend heavily on traffic, real estate, labour discipline, and food-cost control; strong brand fit can help but does not remove operator risk.",
+      "risks_mentioned": [
+        "Competitive burger category",
+        "Commodity and wage pressure",
+        "Dependence on strong local site economics"
+      ],
+      "consensus_summary": "A well-known Canadian QSR brand with differentiated positioning and attractive repeat demand, but category competition remains intense."
+    },
+    "competitive": {
+      "main_competitors": [
+        "McDonald's Canada",
+        "Burger King",
+        "Wendy's",
+        "Harvey's",
+        "local burger restaurants"
+      ],
+      "market_saturation": "Medium to high",
+      "differentiation": "Canadian ownership, root beer heritage, burger quality positioning",
+      "threat_level": "Medium"
+    },
+    "source_notes": [
+      "Official A&W Canada franchise materials should be used for current franchise terms before investment decisions.",
+      "Google Places API required for current rating and review-volume metrics.",
+      "CFA, Franchise Genius, FRANdata, FranDB, GetFDD, ClearlyFDD, official website, news, and job-signal sources should be checked during production ingestion.",
+      "A&W evidence currently uses low-reliability background source because a current readable official Canadian franchising page was not available in this pass; replace with franchisor confirmation."
+    ]
+  },
+  {
+    "name": "Pizza Pizza",
+    "profile": {
+      "founded": "1967",
+      "headquarters": "Toronto, Ontario, Canada",
+      "canadian_owned": "Yes",
+      "industry": "Quick-service restaurant",
+      "cuisine_type": "Pizza, wings, sides",
+      "franchise_available": "Yes"
+    },
+    "financials": {
+      "initial_investment": {
+        "value": "CAD $380,000-CAD $550,000 expected total investment depending on opportunity",
+        "confidence": 85,
+        "source_url": "https://www.pizzapizza.ca/franchising/basics/",
+        "source_date": "2026 page",
+        "source_reliability": 90,
+        "evidence_quote": "between $380,000.00 to $550,000.00"
+      },
+      "franchise_fee": {
+        "value": "CAD $35,000",
+        "confidence": 85,
+        "source_url": "https://www.pizzapizza.ca/franchising/basics/",
+        "source_date": "2026 page",
+        "source_reliability": 90,
+        "evidence_quote": "Franchise Fee of $35,000"
+      },
+      "royalty": {
+        "value": "6% of net sales",
+        "confidence": 90,
+        "source_url": "https://www.pizzapizza.ca/2026/02/05/pizza-pizza-royalty-corp-adds-39-restaurants-to-and-removes-19-restaurants-from-the-royalty-pool",
+        "source_date": "2026-02-05",
+        "source_reliability": 90,
+        "evidence_quote": "PPL pays the Partnership a royalty equal to 6% of the System Sales of its Pizza Pizza restaurants"
+      },
+      "marketing_fee": {
+        "value": "6% of net sales",
+        "confidence": 70,
+        "source_url": "http://cdn.pizzapizza.ca/o33/static/PPLNEWWEB/PRODLX/Marketing/wpf/wp-content/files_mf/annualinformationform2015final.pdf",
+        "source_date": "2015 report",
+        "source_reliability": 90,
+        "evidence_quote": "6% of net sales"
+      },
+      "payback_period": "Estimated (industry benchmark): 3-6 years",
+      "profit_margin": "Estimated (industry benchmark): 10-18% store-level EBITDA range for mature QSR units",
+      "minimum_liquid_capital": {
+        "value": "Minimum 30% of total investment as unencumbered cash; at least CAD $150,000",
+        "confidence": 85,
+        "source_url": "https://www.pizzapizza.ca/franchising/basics/",
+        "source_date": "2026 page",
+        "source_reliability": 90,
+        "evidence_quote": "at least $150,000.00 or more"
+      },
+      "minimum_net_worth": {
+        "value": "Minimum CAD $250,000 net worth",
+        "confidence": 85,
+        "source_url": "https://www.pizzapizza.ca/franchising/basics/",
+        "source_date": "2026 page",
+        "source_reliability": 90,
+        "evidence_quote": "Minimum $250,000 net worth"
+      }
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "730+ locations",
+        "confidence": 85,
+        "source_url": "https://www.pizzapizza.ca/franchising/basics/",
+        "source_date": "2026 page",
+        "source_reliability": 90,
+        "evidence_quote": "over 730 locations coast to coast"
+      },
+      "locations_by_province": {
+        "Ontario": "Very high",
+        "Alberta": "Medium",
+        "BC": "Medium",
+        "Quebec": "Low to medium"
+      },
+      "new_locations_this_year": "Not verified / not available",
+      "closures_this_year": "Not verified / not available",
+      "net_growth_rate": "Estimated (industry benchmark): stable",
+      "hiring_trend": "Estimated (industry benchmark): steady location-level hiring"
+    },
+    "customer": {
+      "google_rating": "Not verified / requires Google Places API",
+      "review_volume": "Not verified / requires Google Places API",
+      "sentiment_trend": "Stable",
+      "insight_summary": "Aggregated pizza-chain signals usually show strong convenience and value demand, with store-level execution and delivery reliability shaping customer scores."
+    },
+    "franchisee": {
+      "satisfaction_score": "Estimated (industry benchmark)",
+      "training_quality": {
+        "value": "Comprehensive 8-10 week training program",
+        "confidence": 85,
+        "source_url": "https://www.pizzapizza.ca/franchising/basics/",
+        "source_date": "2026 page",
+        "source_reliability": 90,
+        "evidence_quote": "comprehensive 8-10 week training program"
+      },
+      "operational_difficulty": "Moderate; delivery, late hours, staffing, and local marketing matter",
+      "support_quality": {
+        "value": "Site help, lease negotiation, design/construction support, regional operations support, marketing and supply chain support disclosed",
+        "confidence": 80,
+        "source_url": "https://www.pizzapizza.ca/franchising/get-answers/",
+        "source_date": "2026 page",
+        "source_reliability": 90,
+        "evidence_quote": "Regional Operations Managers will give you everyday support"
+      }
+    },
+    "sentiment": {
+      "positive_themes": [
+        "Strong Ontario brand recognition",
+        "Value-driven pizza positioning",
+        "High repeat and delivery frequency"
+      ],
+      "negative_themes": [
+        "Highly competitive pizza market",
+        "Delivery operations can add complexity",
+        "Customer experience varies by location"
+      ],
+      "profit_reality": "Pizza can generate repeat revenue, but margins depend on delivery mix, local competition, labour, rent, and couponing discipline.",
+      "risks_mentioned": [
+        "Price competition",
+        "Third-party delivery economics",
+        "Local market saturation"
+      ],
+      "consensus_summary": "A strong Canadian pizza brand with repeat-demand economics, especially in Ontario, but intense category competition limits pricing power."
+    },
+    "competitive": {
+      "main_competitors": [
+        "Domino's",
+        "Pizza Hut",
+        "Little Caesars",
+        "Papa Johns",
+        "local pizzerias"
+      ],
+      "market_saturation": "High in Ontario and urban markets",
+      "differentiation": "Canadian brand awareness, value positioning, late-night and delivery relevance",
+      "threat_level": "Medium to high"
+    },
+    "source_notes": [
+      "Official Pizza Pizza franchise materials should be used for current franchise terms before investment decisions.",
+      "Google Places API required for current rating and review-volume metrics.",
+      "CFA, Franchise Genius, FRANdata, FranDB, GetFDD, ClearlyFDD, official website, news, and job-signal sources should be checked during production ingestion."
+    ],
+    "investor_evidence": {
+      "cad_investment_fees": {
+        "verified": true,
+        "detail": "Official Pizza Pizza franchising basics page lists total investment range, franchise fee, cash requirement, and net worth."
+      }
+    }
+  },
+  {
+    "name": "McDonalds Canada",
+    "profile": {
+      "founded": "1967 in Canada",
+      "headquarters": "Toronto, Ontario, Canada",
+      "canadian_owned": "No",
+      "industry": "Quick-service restaurant",
+      "cuisine_type": "Burgers, fries, chicken, breakfast, coffee",
+      "franchise_available": "Yes"
+    },
+    "financials": {
+      "initial_investment": {
+        "value": "Minimum $1,000,000 non-borrowed funds required; exact total investment not disclosed on page",
+        "confidence": 85,
+        "source_url": "https://www.mcdonalds.com/ca/en-ca/about-us/franchising.html",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "invest a minimum of $1,000,000 of non-borrowed funds"
+      },
+      "franchise_fee": "Estimated (industry benchmark)",
+      "royalty": "Estimated (industry benchmark)",
+      "marketing_fee": "Estimated (industry benchmark)",
+      "payback_period": "Estimated (industry benchmark): 5-8 years",
+      "profit_margin": "Estimated (industry benchmark): 10-20%+ store-level EBITDA range for mature high-volume QSR units",
+      "minimum_liquid_capital": {
+        "value": "Minimum $1,000,000 non-borrowed funds",
+        "confidence": 85,
+        "source_url": "https://www.mcdonalds.com/ca/en-ca/about-us/franchising.html",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "minimum of $1,000,000 of non-borrowed funds"
+      }
+    },
+    "growth": {
+      "total_locations_canada": "Large national footprint; exact current count not verified in this seed file",
+      "locations_by_province": {
+        "Ontario": "Very high",
+        "Alberta": "High",
+        "BC": "High",
+        "Quebec": "High"
+      },
+      "new_locations_this_year": "Not verified / not available",
+      "closures_this_year": "Not verified / not available",
+      "net_growth_rate": "Estimated (industry benchmark): stable to modest growth",
+      "hiring_trend": "Estimated (industry benchmark): steady to high national hiring demand"
+    },
+    "customer": {
+      "google_rating": "Not verified / requires Google Places API",
+      "review_volume": "Not verified / requires Google Places API",
+      "sentiment_trend": "Stable",
+      "insight_summary": "Aggregated QSR signals point to very high convenience and brand familiarity, with speed, order accuracy, and local cleanliness driving store-level rating differences."
+    },
+    "franchisee": {
+      "satisfaction_score": "Estimated (industry benchmark)",
+      "training_quality": {
+        "value": "Training required before investment; page references extensive training programs",
+        "confidence": 85,
+        "source_url": "https://www.mcdonalds.com/ca/en-ca/about-us/franchising.html",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "Restaurant development support and extensive training programs"
+      },
+      "operational_difficulty": "High; large-format, high-volume, labour- and systems-intensive operation",
+      "support_quality": {
+        "value": "Official page claims world-class service, support, restaurant development support, and extensive training programs",
+        "confidence": 85,
+        "source_url": "https://www.mcdonalds.com/ca/en-ca/about-us/franchising.html",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "world-class service and support"
+      }
+    },
+    "sentiment": {
+      "positive_themes": [
+        "Exceptional global and Canadian brand strength",
+        "Very high customer frequency",
+        "Strong operating systems and supply-chain maturity"
+      ],
+      "negative_themes": [
+        "High capital requirements",
+        "Complex operations",
+        "Competitive and mature urban markets"
+      ],
+      "profit_reality": "The brand can support strong multi-unit economics, but entry cost, operator standards, labour, rent, and required reinvestment can extend payback.",
+      "risks_mentioned": [
+        "High investment threshold",
+        "Operational complexity",
+        "Mature-market cannibalization"
+      ],
+      "consensus_summary": "One of the strongest QSR systems for brand and repeat demand, but not an affordable or simple operator path."
+    },
+    "competitive": {
+      "main_competitors": [
+        "Tim Hortons",
+        "A&W",
+        "Burger King",
+        "Wendy's",
+        "Starbucks Canada"
+      ],
+      "market_saturation": "High",
+      "differentiation": "Scale, convenience, breakfast, drive-thru, global systems, digital ordering",
+      "threat_level": "Medium"
+    },
+    "source_notes": [
+      "Official McDonald's Canada franchise materials should be used for current franchise terms before investment decisions.",
+      "Google Places API required for current rating and review-volume metrics.",
+      "CFA, Franchise Genius, FRANdata, FranDB, GetFDD, ClearlyFDD, official website, news, and job-signal sources should be checked during production ingestion."
+    ]
+  },
+  {
+    "name": "Subway Canada",
+    "profile": {
+      "founded": {
+        "value": "1965",
+        "confidence": 85,
+        "source_url": "https://www.subway.com/en-us/aboutus/history",
+        "source_date": "2026 page",
+        "source_reliability": 90,
+        "evidence_quote": "In 1965, 17-year-old Fred DeLuca asked his family friend, Dr. Peter Buck"
+      },
+      "headquarters": {
+        "value": "Shelton, Connecticut / Miami, Florida support presence",
+        "confidence": 80,
+        "source_url": "https://apnews.com/article/subway-roark-capital-sandwich-chain-66ce052f6b12469fc9264defbad2c75d",
+        "source_date": "2023-08-24",
+        "source_reliability": 80,
+        "evidence_quote": "Subway, which has dual headquarters in Miami and Connecticut"
+      },
+      "canadian_owned": {
+        "value": "No; owned by Roark Capital",
+        "confidence": 85,
+        "source_url": "https://apnews.com/article/subway-ceo-roark-capital-sandwiches-cc7314aa5fa531920ded22289916073d",
+        "source_date": "2025-07-21",
+        "source_reliability": 80,
+        "evidence_quote": "Subway was bought by the private equity firm Roark Capital in 2024"
+      },
+      "industry": {
+        "value": "Quick-service restaurant",
+        "confidence": 80,
+        "source_url": "https://apnews.com/article/subway-roark-capital-sandwich-chain-66ce052f6b12469fc9264defbad2c75d",
+        "source_date": "2023-08-24",
+        "source_reliability": 80,
+        "evidence_quote": "It specializes in franchised businesses and backs two holding companies that own multiple restaurant chains"
+      },
+      "cuisine_type": {
+        "value": "Submarine sandwiches, salads, bowls, cookies",
+        "confidence": 80,
+        "source_url": "https://apnews.com/article/subway-ceo-roark-capital-sandwiches-cc7314aa5fa531920ded22289916073d",
+        "source_date": "2025-07-21",
+        "source_reliability": 80,
+        "evidence_quote": "The Miami-based sandwich chain said Monday"
+      },
+      "franchise_available": {
+        "value": "Yes; multi-unit candidates preferred",
+        "confidence": 85,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "We are currently seeking qualified candidates to open multi-unit franchises"
+      },
+      "franchising_internationally": {
+        "value": "Yes; more than 100 countries",
+        "confidence": 85,
+        "source_url": "https://apnews.com/article/subway-ceo-roark-capital-sandwiches-cc7314aa5fa531920ded22289916073d",
+        "source_date": "2025-07-21",
+        "source_reliability": 80,
+        "evidence_quote": "nearly 37,000 outlets in more than 100 countries"
+      }
+    },
+    "financials": {
+      "initial_investment": {
+        "value": "$199,135-$536,745 USD",
+        "confidence": 75,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "The estimated initial investment for a Subway restaurant ranges from $199,135 - $536,745"
+      },
+      "franchise_fee": {
+        "value": "$15,000 USD",
+        "confidence": 75,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "The initial franchise fee is $15,000"
+      },
+      "royalty": {
+        "value": "8% of gross sales",
+        "confidence": 75,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "The royalty fee is 8% of gross sales"
+      },
+      "marketing_fee": {
+        "value": "4.5% advertising fee",
+        "confidence": 75,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "the advertising fee is 4.5% of gross sales"
+      },
+      "minimum_net_worth": {
+        "value": "$150,000 USD",
+        "confidence": 75,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "The minimum financial requirements are $150,000 net worth"
+      },
+      "minimum_liquid_capital": {
+        "value": "$100,000 USD",
+        "confidence": 75,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "$100,000 liquid assets (cash-on-hand) per location"
+      },
+      "average_unit_revenue": {
+        "value": "$490,000 USD average per-unit sales, 2023",
+        "confidence": 70,
+        "source_url": "https://www.businessinsider.com/mcdonalds-chick-fil-a-taco-bell-fast-food-franchise-costs-2019-5",
+        "source_date": "2025-05",
+        "source_reliability": 75,
+        "evidence_quote": "Average per-unit sales: $490,000 in 2023"
+      },
+      "systemwide_revenue": {
+        "value": "$971.9 million USD reported 2023 revenue",
+        "confidence": 65,
+        "source_url": "https://www.investopedia.com/articles/forex-currencies/081316/cost-buying-subway-franchise.asp",
+        "source_date": "2026-01",
+        "source_reliability": 75,
+        "evidence_quote": "Subway's revenue was $971.9 million"
+      },
+      "payback_period": "Estimated (industry benchmark): 3-6 years",
+      "profit_margin": "Estimated (industry benchmark): 8-15% store-level EBITDA range for mature sandwich QSR units",
+      "franchise_term": {
+        "value": "20 years",
+        "confidence": 90,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "The Subway restaurant franchise term is 20 years"
+      },
+      "training_fee": {
+        "value": "No separate fee verified; 3-week training program verified",
+        "confidence": 80,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "Subway offers a comprehensive 3-week training program"
+      },
+      "other_mandatory_fees": {
+        "value": "Remodel expected every 10 years; exact cost not verified",
+        "confidence": 80,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "The brand standard is every 10 years"
+      },
+      "territory_protection": "Not Verified",
+      "renewal_terms": "Not Verified",
+      "franchisor_financing": "Not Verified"
+    },
+    "growth": {
+      "total_locations_canada": {
+        "value": "2,881 locations in Canada, as of 2019",
+        "confidence": 45,
+        "source_url": "https://en.wikipedia.org/wiki/Subway_(restaurant)",
+        "source_date": "2019 figure; page crawled 2026-05",
+        "source_reliability": 45,
+        "evidence_quote": "2,881 in Canada"
+      },
+      "total_locations_international": {
+        "value": "More than 35,000 restaurants worldwide",
+        "confidence": 80,
+        "source_url": "https://newsroom.subway.com/",
+        "source_date": "2026 page",
+        "source_reliability": 90,
+        "evidence_quote": "Subway's more than 35,000 restaurants are independently owned and operated"
+      },
+      "locations_by_province": {
+        "Ontario": "Very high",
+        "Alberta": "High",
+        "BC": "High",
+        "Quebec": "High"
+      },
+      "new_locations_this_year": "Not verified / not available",
+      "closures_this_year": "Not verified / not available",
+      "net_growth_rate": {
+        "value": "International expansion active; U.S. pressure noted",
+        "confidence": 70,
+        "source_url": "https://apnews.com/article/subway-roark-capital-sandwich-chain-66ce052f6b12469fc9264defbad2c75d",
+        "source_date": "2023-08-24",
+        "source_reliability": 80,
+        "evidence_quote": "plans to continue to modernize restaurants and expand internationally"
+      },
+      "three_year_unit_trend": "Not Verified",
+      "active_job_postings": "Not Verified",
+      "hiring_trend": "Not Verified",
+      "average_unit_age": "Not Verified"
+    },
+    "customer": {
+      "google_rating": "Not verified / requires Google Places API",
+      "review_volume": "Not verified / requires Google Places API",
+      "sentiment_trend": "Not Verified",
+      "insight_summary": "Strong convenience and value awareness, but current store-level customer truth requires Google Places ingestion."
+    },
+    "franchisee": {
+      "satisfaction_score": "Not Verified",
+      "training_quality": {
+        "value": "3-week training program: virtual University of Subway plus in-person certified restaurant training",
+        "confidence": 85,
+        "source_url": "https://www.subwayfranchise.com/en-us/faqs",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "Training includes virtual training via University of Subway and in-person training at certified restaurants"
+      },
+      "operational_difficulty": "Moderate; food prep, labour scheduling, local discounting, and throughput matter",
+      "support_quality": {
+        "value": "Site, design, construction, opening, and operations support claimed; franchisee-rated support not verified",
+        "confidence": 75,
+        "source_url": "https://www.subwayfranchise.com/en-us/ownership-path",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "Our veteran operations team will be there to support you along the way"
+      },
+      "marketing_support_quality": "Not Verified",
+      "turnover_percent": "Not Verified",
+      "litigation_history_5yr": "Not Verified"
+    },
+    "sentiment": {
+      "positive_themes": [
+        "99% claimed brand awareness",
+        "Lower startup cost than many large QSR brands",
+        "Flexible small-footprint formats and simple no-fryer operations"
+      ],
+      "negative_themes": [
+        "High royalty plus advertising load",
+        "Heavy sandwich-category competition",
+        "Sales and market-share pressure from Jersey Mike's and Firehouse Subs",
+        "Remodel cycle and promotion pressure"
+      ],
+      "profit_reality": "Subway has lower entry cost and simpler equipment than many QSR systems, but 12.5% combined royalty and advertising fees, discounting, remodel requirements, labour, rent, and local sandwich competition can compress returns.",
+      "risks_mentioned": [
+        "Competitive sandwich category",
+        "Franchisee economics pressure from promotions",
+        "Mature-market saturation",
+        "Potential remodel capital requirements"
+      ],
+      "consensus_summary": "Subway is a massive, accessible QSR franchise, but the investment case depends heavily on site quality, local sales volume, and verified franchisee economics."
+    },
+    "competitive": {
+      "main_competitors": [
+        "Mr. Sub",
+        "Firehouse Subs",
+        "Jersey Mike's",
+        "Quiznos",
+        "local sandwich shops"
+      ],
+      "market_saturation": "High in major Canadian markets",
+      "differentiation": {
+        "value": "Global scale, 99% claimed brand awareness, flexible 400 sq. ft.+ formats, no fryer/grill model",
+        "confidence": 80,
+        "source_url": "https://www.subwayfranchise.com/en-us/growth-opportunities",
+        "source_date": "2025 page",
+        "source_reliability": 90,
+        "evidence_quote": "Starting at just 400 sq. ft., our non-traditional formats fit almost anywhere"
+      },
+      "threat_level": "Medium to high",
+      "market_share_estimate": "Not Verified",
+      "category_growth_rate": "Not Verified",
+      "international_competitive_pressure": "High from global sandwich and QSR brands"
+    },
+    "source_notes": [
+      "Official Subway franchise FAQ: investment, franchise fee, royalty, advertising fee, term, training, remodel cycle, opening timeline, and financial requirements.",
+      "Official Subway history page: founding, franchising start, international growth, and 2024 ownership event.",
+      "Official Subway franchise growth page: format flexibility, 400 sq. ft. non-traditional formats, simple no-fryer operations, 99% claimed brand awareness.",
+      "Official Subway newsroom: more than 35,000 restaurants and independently owned/operated franchise model.",
+      "AP News and Business Insider/New York Post: ownership, CEO context, sales pressure, closures, and franchisee-promotion conflict.",
+      "Wikipedia Subway page used only as low-reliability backup for old Canada count; replace with official Subway locator or disclosure data.",
+      "Google Places API, Indeed, Glassdoor, LinkedIn, FDD, and Canadian disclosure documents still required for full production verification."
+    ],
+    "critical_gaps": [
+      "Current Canadian unit count and province-level location counts",
+      "Canadian franchise disclosure/FDD-equivalent terms",
+      "Current Google rating and review count",
+      "Franchisee satisfaction, turnover, litigation, and real payback",
+      "Live job postings and current opening/closure trend"
+    ],
+    "red_flags": [
+      "No Canadian disclosure document loaded",
+      "Franchisee satisfaction and real payback remain unverified"
+    ],
+    "yellow_flags": [
+      "High combined 12.5% royalty and advertising fee load",
+      "Mature sandwich category with strong competitors",
+      "Remodel expected every 10 years"
+    ],
+    "green_flags": [
+      "Large global brand with more than 35,000 restaurants",
+      "Lower published startup cost than many major QSR franchises",
+      "Officially documented 3-week training program"
+    ],
+    "source_audit": [
+      {
+        "value": "Franchisee conflict around discounting and promotions",
+        "source_url": "https://nypost.com/2024/08/27/business/subway-franchisees-revolt-over-6-99-footlong-deal/",
+        "source_date": "2024-08-27",
+        "source_reliability": 70,
+        "evidence_quote": "Subway's recent $6.99 footlong sandwich deal has sparked strong opposition from its largest franchise group"
+      },
+      {
+        "value": "U.S. closures and international growth context",
+        "source_url": "https://www.businessinsider.com/subway-closures-us-stores-for-first-time-in-20-years-2025-5",
+        "source_date": "2025-05",
+        "source_reliability": 75,
+        "evidence_quote": "Subway's number of U.S. locations has fallen below 20,000"
+      }
+    ]
+  }
+]

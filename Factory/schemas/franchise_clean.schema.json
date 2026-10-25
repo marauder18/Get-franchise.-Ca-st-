@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GetFranchise offline clean record",
+  "required": ["schema_version", "franchise", "slug", "raw_path", "cleaned_at", "fields", "evidence_gates", "deletions"],
+  "types": {"schema_version": "string", "franchise": "string", "slug": "string", "raw_path": "string", "cleaned_at": "string", "fields": "array", "evidence_gates": "array", "deletions": "array"}
+}

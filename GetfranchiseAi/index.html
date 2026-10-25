@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GetFranchise Beta | Canadian Franchise Intelligence</title>
+    <meta
+      name="description"
+      content="Search and screen Canadian franchise opportunities with evidence grades, source links, risk notes, and local shortlist tools."
+    />
+    <link rel="icon" href="Logo%20of%20Getfranchise.jpg" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand-link" href="#/" aria-label="GetFranchise home">
+        <span class="brand-mark brand-logo" aria-hidden="true">
+          <img src="Logo%20of%20Getfranchise.jpg" alt="" />
+        </span>
+        <span>
+          <strong>Getfranchise <small>Beta</small></strong>
+          <small>Franchise intelligence</small>
+        </span>
+      </a>
+      <nav class="top-nav" aria-label="Primary">
+        <a href="#/how-it-works">How it works</a>
+        <a href="#/match">Find my match</a>
+        <a href="#/directory">Browse franchises</a>
+        <a href="#/roadmap">Our roadmap</a>
+        <a href="#/request">Request a franchise</a>
+        <a href="#/pricing">Plans &amp; Pricing</a>
+        <a href="#/shortlist">Compare <span id="navShortlistCount">0</span></a>
+        <a href="#/account">Account</a>
+      </nav>
+    </header>
+
+    <main id="app" class="app-shell" tabindex="-1">
+      <section class="loading-panel" aria-live="polite">
+        <div class="loading-mark"></div>
+        <p>Loading franchise database...</p>
+      </section>
+    </main>
+
+    <template id="brandMarkTemplate">
+      <span class="logo-tile" aria-hidden="true"></span>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
