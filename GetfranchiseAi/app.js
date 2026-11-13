@@ -71,7 +71,7 @@ const PLANS = {
     price: "$5",
     cadence: "per month",
     summary: "For buyers narrowing down a serious shortlist.",
-    features: ["5 franchise research requests", "Deep analysis views and saved comparisons", "No raw source-file access"],
+    features: ["5 franchise research requests", "Deep analysis views and saved comparisons", "Connection Desk beta access", "No raw source-file access"],
   },
   premium: {
     name: "Premium",
@@ -305,6 +305,8 @@ const LOGO_DOMAINS = {
 const app = document.querySelector("#app");
 const navShortlistCount = document.querySelector("#navShortlistCount");
 const primaryNavLinks = [...document.querySelectorAll(".top-nav a")];
+const menuToggle = document.querySelector(".menu-toggle");
+const primaryNav = document.querySelector("#primaryNav");
 
 const state = {
   allBrands: [],
@@ -336,6 +338,7 @@ const state = {
 };
 
 bindInteractionFeedback();
+bindMobileNavigation();
 init();
 
 function bindInteractionFeedback() {
@@ -353,6 +356,32 @@ function bindInteractionFeedback() {
     ripple.style.top = `${event.clientY - bounds.top}px`;
     control.append(ripple);
     ripple.addEventListener("animationend", () => ripple.remove(), { once: true });
+  });
+}
+
+function bindMobileNavigation() {
+  if (!menuToggle || !primaryNav) return;
+
+  const setMenuState = (isOpen) => {
+    menuToggle.setAttribute("aria-expanded", String(isOpen));
+    menuToggle.setAttribute("aria-label", `${isOpen ? "Close" : "Open"} navigation menu`);
+    primaryNav.classList.toggle("is-open", isOpen);
+  };
+
+  menuToggle.addEventListener("click", () => {
+    setMenuState(menuToggle.getAttribute("aria-expanded") !== "true");
+  });
+
+  primaryNav.addEventListener("click", (event) => {
+    if (event.target.closest("a")) setMenuState(false);
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") setMenuState(false);
+  });
+
+  window.matchMedia("(min-width: 761px)").addEventListener("change", (event) => {
+    if (event.matches) setMenuState(false);
   });
 }
 
@@ -474,6 +503,10 @@ function renderRoute() {
     renderResearchRequest();
     return;
   }
+  if (hash === "#/connections" || hash.startsWith("#/connections?")) {
+    renderConnectionDesk();
+    return;
+  }
   if (hash === "#/account") {
     renderAccount();
     return;
@@ -506,7 +539,7 @@ function renderRoute() {
     renderDirectory();
     return;
   }
-  const homeAnchor = hash === "#/how-it-works" ? "how-it-works" : hash === "#/score-explainer" ? "score-explainer" : hash === "#/roadmap" ? "roadmap" : "";
+  const homeAnchor = hash === "#/how-it-works" ? "how-it-works" : hash === "#/score-explainer" ? "score-explainer" : hash === "#/roadmap" ? "roadmap" : hash === "#/my-story" ? "my-story" : "";
   renderHome(homeAnchor);
 }
 
@@ -559,6 +592,17 @@ function renderHome(scrollTarget = "") {
       <div><strong>${categories}</strong><span>categories to explore</span></div>
       <div><strong>${reviewedSources}</strong><span>reviewed source links</span></div>
       <div><strong>${portfolioStats.total}</strong><span>brands in our research universe</span></div>
+    </section>
+
+    <section id="my-story" class="founder-story" aria-labelledby="my-story-title">
+      <div class="founder-story-label"><span>Our Story</span><strong>My Story</strong></div>
+      <div class="founder-story-copy">
+        <h2 id="my-story-title">The thought of GetFranchise came from my father.</h2>
+        <p>He wanted me and my brother to start a business. But my brother did not want to do it. So I wanted to do it.</p>
+        <p>If I am honest, my intent is to dominate the franchising market and make some bank.</p>
+        <p>I am a high school freshman, mostly using free tools.</p>
+        <p>I am writing a book, I like video editing, finance, and I am learning branding.</p>
+      </div>
     </section>
 
     <section id="roadmap" class="roadmap-section" aria-labelledby="roadmap-title">
@@ -879,6 +923,194 @@ function bindResearchRequestHistory() {
       writeResearchRequests();
       renderResearchRequest();
     });
+  });
+}
+
+function connectionBrandFromHash() {
+  const query = window.location.hash.split("?", 2)[1] || "";
+  const id = new URLSearchParams(query).get("brand");
+  return state.brands.find((brand) => brand.id === id) || null;
+}
+
+function connectionPathFromHash() {
+  const query = window.location.hash.split("?", 2)[1] || "";
+  return new URLSearchParams(query).get("path") || "seller_or_brand";
+}
+
+function connectionMailto(subject, lines) {
+  return `mailto:${BUYER_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(lines.join("\n"))}`;
+}
+
+function renderConnectionDesk() {
+  if (!hasConnectionDeskAccess()) {
+    renderConnectionDeskLocked();
+    return;
+  }
+  const selectedBrand = connectionBrandFromHash();
+  const selectedPath = connectionPathFromHash();
+  const brandOptions = [
+    `<option value="" disabled ${selectedBrand ? "" : "selected"}>Select a listed franchise</option>`,
+    ...state.brands.map((brand) => `<option value="${escapeAttr(brand.id)}" ${selectedBrand?.id === brand.id ? "selected" : ""}>${escapeHtml(brand.name)}</option>`),
+  ].join("");
+
+  app.innerHTML = `
+    <section class="connection-hero">
+      <div>
+        <p class="eyebrow">GetFranchise Connection Desk <span class="badge warn">BETA</span></p>
+        <h1>Good decisions start with a real conversation.</h1>
+        <p class="hero-copy">The Connection Desk is our small, human way of making the next step less awkward. Tell us what you are exploring and we will try to introduce you to the right person—without turning your interest into a generic lead.</p>
+      </div>
+      <aside class="connection-principles">
+        <strong>A note on how we work</strong>
+        <span>We do not sell private owner details, promise availability, or treat an introduction as an endorsement.</span>
+      </aside>
+    </section>
+
+    <section class="connection-steps" aria-label="How the connection desk works">
+      <article><span>First</span><h2>Write us a note</h2><p>Share the opportunity, market, timing, and the questions you want answered.</p></article>
+      <article><span>Then</span><h2>We make the ask</h2><p>We check fit, availability, and consent before passing your context along.</p></article>
+      <article><span>Finally</span><h2>You choose what’s next</h2><p>Speak with a brand team, resale seller, or eligible owner-operator on your terms.</p></article>
+    </section>
+
+    <section class="connection-layout">
+      <article class="connection-card connection-card-featured">
+        <p class="eyebrow">For prospective buyers</p>
+        <h2>Tell us what you’re looking for.</h2>
+        <p>Start with a seller or brand conversation, an owner-operator perspective, or both. We use your answers to make a considered introduction—not to sell your information.</p>
+        <form class="connection-form" id="buyerConnectionForm">
+          <label class="field">Franchise or opportunity<select name="brand" required>${brandOptions}</select></label>
+          <div class="connection-form-grid">
+            <label class="field">I want to connect with<select name="connectionType"><option value="seller_or_brand" ${selectedPath === "seller_or_brand" ? "selected" : ""}>A franchise brand or resale seller</option><option value="owner_operator" ${selectedPath === "owner_operator" ? "selected" : ""}>An owner/operator, if an opt-in match is available</option><option value="both" ${selectedPath === "both" ? "selected" : ""}>Both paths</option></select></label>
+            <label class="field">Target market<input name="market" required maxlength="120" autocomplete="address-level1" placeholder="e.g. Greater Toronto Area"></label>
+          </div>
+          <div class="connection-form-grid">
+            <label class="field">Target timing<select name="timeline"><option>Exploring</option><option>Within 3 months</option><option>3–6 months</option><option>6–12 months</option><option>More than 12 months</option></select></label>
+            <label class="field">Available capital <span class="optional">optional</span><input name="capital" maxlength="80" placeholder="e.g. Up to $250,000 CAD"></label>
+          </div>
+          <label class="field">What would make an introduction worthwhile?<textarea name="context" required minlength="30" maxlength="1200" placeholder="Describe your operating background, category fit, and the questions you want answered."></textarea></label>
+          <div class="connection-form-grid">
+            <label class="field">Your name<input name="name" required maxlength="120" autocomplete="name"></label>
+            <label class="field">Your email<input name="email" required type="email" maxlength="160" autocomplete="email"></label>
+          </div>
+          <label class="account-check"><input name="consent" type="checkbox" required> I understand this opens an email draft that I choose whether to send. If I send it, I consent to GetFranchise reviewing my request and sharing only the necessary context with a potential match. An introduction is not guaranteed.</label>
+          <button class="primary-button" type="submit">Request a beta introduction</button>
+          <div class="form-result" id="buyerConnectionResult" aria-live="polite" hidden></div>
+        </form>
+      </article>
+
+      <aside class="connection-stack">
+        <article class="connection-card">
+          <p class="eyebrow">For brands and resale sellers</p>
+          <h2>Have an opportunity to share?</h2>
+          <p>Tell us where you are growing or selling, the buyer profile you need, and whether an owner conversation would help someone understand the opportunity honestly.</p>
+          <form class="connection-form compact-connection-form" id="sellerConnectionForm">
+            <label class="field">Brand or business name<input name="business" required maxlength="160" autocomplete="organization"></label>
+            <label class="field">I am a<select name="sellerType"><option>Franchise development representative</option><option>Current owner selling a location</option><option>Resale advisor / broker</option><option>Multi-unit operator seeking a partner</option></select></label>
+            <label class="field">Opportunity and market<textarea name="opportunity" required minlength="30" maxlength="1000" placeholder="Territories or resale location, buyer requirements, and timing."></textarea></label>
+            <label class="field">Owner/operator path<select name="ownerPath"><option>I can offer an opt-in owner/operator conversation</option><option>I would like GetFranchise to explore an opt-in owner/operator introduction</option><option>No owner/operator conversation requested</option></select></label>
+            <label class="field">Work email<input name="email" required type="email" maxlength="160" autocomplete="email"></label>
+            <label class="account-check"><input name="consent" type="checkbox" required> I understand this opens an email draft that I choose whether to send. I confirm I am authorized to discuss this opportunity and agree that GetFranchise may review it before any buyer or owner introduction.</label>
+            <button class="secondary-button" type="submit">Talk to the Connection Desk</button>
+            <div class="form-result" id="sellerConnectionResult" aria-live="polite" hidden></div>
+          </form>
+        </article>
+
+        <article class="connection-card owner-network-card">
+          <p class="eyebrow">For owner-operators</p>
+          <h2>A word from the people doing the work.</h2>
+          <p>Owners can opt in to a carefully scoped beta conversation. We never publish personal contact details or present a declaration as verified ownership.</p>
+          <a class="table-action" href="mailto:${BUYER_EMAIL}?subject=${encodeURIComponent("Owner/operator connection interest")}">I’m an owner/operator</a>
+        </article>
+      </aside>
+    </section>
+
+    <section class="connection-boundary">
+      <h2>How requests and owner conversations are handled</h2>
+      <p>Submitting a form prepares an email in your own email app; this site does not store the form answers. Send only the details needed for an introduction request—never government ID, banking information, private financial statements, customer data, or an unredacted disclosure document. This beta service is reviewed manually and may not result in an introduction. GetFranchise first confirms the purpose of the request. Owner conversations occur only with an available, consented participant and can be declined by either party. They are for practical perspective—not financial, legal, or investment advice.</p>
+    </section>
+  `;
+  bindConnectionForms();
+  app.focus({ preventScroll: true });
+}
+
+function hasConnectionDeskAccess() {
+  return state.plan === "advanced" || state.plan === "premium";
+}
+
+function renderConnectionDeskLocked() {
+  app.innerHTML = `
+    <section class="connection-hero connection-locked-hero">
+      <div>
+        <p class="eyebrow">GetFranchise Connection Desk <span class="badge warn">BETA</span></p>
+        <h1>Good research deserves a warmer handoff.</h1>
+        <p class="hero-copy">The Connection Desk is included with Advanced and Premium beta access. It gives serious buyers a managed path to a seller or brand team—and, when available, an opt-in owner-operator perspective.</p>
+        <a class="primary-button" href="#/pricing">See Advanced access options</a>
+      </div>
+      <aside class="connection-principles">
+        <strong>What Advanced unlocks</strong>
+        <span>Guided introduction requests, seller and owner-operator context, and an intentional first step beyond public directory research.</span>
+      </aside>
+    </section>
+    <section class="connection-boundary connection-locked-boundary">
+      <h2>Beta access boundary</h2>
+      <p>Advanced and Premium access is reviewed manually during beta. Introductions are not guaranteed and do not replace independent due diligence, disclosure review, or professional advice.</p>
+    </section>
+  `;
+  app.focus({ preventScroll: true });
+}
+
+function showConnectionResult(elementId, href, message) {
+  const result = document.querySelector(`#${elementId}`);
+  if (!result) return;
+  result.hidden = false;
+  result.innerHTML = `<strong>Request prepared.</strong><span>${escapeHtml(message)}</span><a class="primary-button" href="${escapeAttr(href)}">Open your email draft</a>`;
+}
+
+function bindConnectionForms() {
+  document.querySelector("#buyerConnectionForm")?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const form = new FormData(event.currentTarget);
+    const brand = state.brands.find((item) => item.id === form.get("brand"));
+    const path = {
+      seller_or_brand: "A franchise brand or resale seller",
+      owner_operator: "An owner/operator, if an opt-in match is available",
+      both: "Both paths",
+    }[form.get("connectionType")] || "Not stated";
+    const href = connectionMailto(`Buyer introduction request: ${brand?.name || "Franchise opportunity"}`, [
+      "GETFRANCHISE CONNECTION DESK — BUYER REQUEST",
+      "",
+      `Opportunity: ${brand?.name || "Not selected"}`,
+      `Requested path: ${path}`,
+      `Target market: ${form.get("market")}`,
+      `Timing: ${form.get("timeline")}`,
+      `Available capital: ${form.get("capital") || "Not provided"}`,
+      "",
+      "Buyer context:",
+      String(form.get("context") || ""),
+      "",
+      `Name: ${form.get("name")}`,
+      `Email: ${form.get("email")}`,
+      "Consent: Buyer approved limited context sharing for an introduction review.",
+    ]);
+    showConnectionResult("buyerConnectionResult", href, "Open the draft to send your beta request directly to the GetFranchise Connection Desk. We will review fit and consent before making any introduction.");
+  });
+
+  document.querySelector("#sellerConnectionForm")?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const form = new FormData(event.currentTarget);
+    const href = connectionMailto(`Seller / brand partner inquiry: ${form.get("business")}`, [
+      "GETFRANCHISE CONNECTION DESK — SELLER / BRAND INQUIRY",
+      "",
+      `Business: ${form.get("business")}`,
+      `Role: ${form.get("sellerType")}`,
+      `Owner/operator path: ${form.get("ownerPath")}`,
+      "Opportunity and market:",
+      String(form.get("opportunity") || ""),
+      "",
+      `Work email: ${form.get("email")}`,
+      "Authorization: Submitter confirmed authority to discuss the opportunity.",
+    ]);
+    showConnectionResult("sellerConnectionResult", href, "Open the draft to tell the beta Connection Desk about your opportunity. We review seller context before discussing potential introductions.");
   });
 }
 
@@ -1438,6 +1670,7 @@ function renderProfile(id) {
   const contactEmail = getContactEmail(brand);
   const readyValidation = getReadyCandidateValidation(brand);
   const canViewDeepAnalysis = state.plan !== "basic";
+  const canUseConnectionDesk = hasConnectionDeskAccess();
   app.innerHTML = `
     <section class="profile-hero">
       <div class="profile-hero-inner">
@@ -1459,9 +1692,10 @@ function renderProfile(id) {
           </div>
         </div>
         <div class="profile-actions">
+          ${canUseConnectionDesk
+            ? `<a class="primary-button" href="#/connections?brand=${encodeURIComponent(brand.id)}&path=both">Ask GetFranchise to connect <span aria-label="beta">(Beta)</span></a>`
+            : `<a class="primary-button" href="#/pricing">Request Connection Desk access <span aria-label="advanced required">(Advanced)</span></a>`}
           <button class="primary-button shortlist-toggle" data-id="${brand.id}">${state.shortlist.has(brand.id) ? "Remove from shortlist" : "Add to shortlist"}</button>
-          ${contactActionHtml(brand, "secondary-button")}
-          ${draftActionHtml(brand, "secondary-button")}
           <a class="secondary-button" href="#/report-error?brand=${encodeURIComponent(brand.id)}">Report an error</a>
         </div>
       </div>
@@ -1481,6 +1715,29 @@ function renderProfile(id) {
         <p class="note">${escapeHtml(brand.goalFit)}</p>
       </div>
 
+      <section class="profile-card profile-connection-card">
+        ${canUseConnectionDesk ? `
+          <div class="connection-profile-copy">
+            <p class="eyebrow">GetFranchise Connection Desk <span class="badge warn">BETA</span></p>
+            <h2>A real conversation is often the best next step.</h2>
+            <p>GetFranchise is testing a managed introduction service to the brand or a resale seller, and can request an owner-operator perspective when an eligible owner has opted in. We check context and consent before sharing your details.</p>
+          </div>
+          <div class="connection-profile-actions">
+            <a class="primary-button" href="#/connections?brand=${encodeURIComponent(brand.id)}&path=seller_or_brand">Request beta seller / brand introduction</a>
+            <a class="secondary-button" href="#/connections?brand=${encodeURIComponent(brand.id)}&path=owner_operator">Request beta owner conversation</a>
+          </div>
+          <p class="connection-profile-note">Owner conversations are availability-based and never a substitute for disclosure review, financial diligence, or independent advice.</p>
+        ` : `
+          <div class="connection-profile-copy">
+            <p class="eyebrow">Connection Desk <span class="badge warn">ADVANCED BETA</span></p>
+            <h2>Ready to move from research to a real conversation?</h2>
+            <p>Advanced and Premium members can request a managed seller, brand, or opt-in owner-operator introduction for this profile.</p>
+          </div>
+          <div class="connection-profile-actions"><a class="primary-button" href="#/pricing">Request Connection Desk access</a></div>
+          <p class="connection-profile-note">Advanced and Premium access is reviewed manually during beta. Introductions are not guaranteed.</p>
+        `}
+      </section>
+
       <div class="profile-card">
         <h2>Core Cost & Fee Facts</h2>
         <div class="essentials-grid">
@@ -1498,7 +1755,7 @@ function renderProfile(id) {
         <div class="quick-read-list">
           ${quickReadItem("Money clarity", `${brand.verifiedCoreFeeFields}/5 core fee fields verified`)}
           ${quickReadItem("Source depth", `${brand.sourceCount} total sources, ${brand.officialCount} official`)}
-          ${quickReadItem("Contact path", contactSummary(brand))}
+          ${quickReadItem("Connection Desk", canUseConnectionDesk ? "GetFranchise-managed introduction" : "Advanced and Premium")}
           ${quickReadItem("Buyer posture", brand.posture)}
           ${quickReadItem("Ready validation", `${readyValidation.passedCount}/${readyValidation.total} checks passed`)}
         </div>
@@ -1518,19 +1775,6 @@ function renderProfile(id) {
           ${detailItem("Cuisine / service", brand.cuisine)}
         </div>
       </div>
-
-      <aside class="profile-card">
-        <h2>Contact & Links</h2>
-        <div class="status-panel ${verificationStatusClass(brand)}">
-          <strong>${escapeHtml(verificationStatusLabel(brand))}</strong>
-          <span>${escapeHtml(verificationStatusDetail(brand))}</span>
-        </div>
-        <div class="contact-list">
-          ${contactEmail ? `<a href="mailto:${escapeAttr(contactEmail)}">${escapeHtml(contactEmail)}</a>` : `<span>Franchisor email needed: no public direct email found in current research.</span>`}
-          ${contactLinks.length ? contactLinks.map((link) => `<a href="${escapeAttr(link)}" target="_blank" rel="noreferrer">${escapeHtml(link)}</a>`).join("") : `<span>No official contact link in current research data.</span>`}
-          ${draftActionHtml(brand, "contact-link")}
-        </div>
-      </aside>
 
       <aside class="profile-card">
         <h2>Proof Level</h2>
@@ -1638,6 +1882,20 @@ function renderProfile(id) {
       </div>
 
       ${renderCommunityReviews(brand)}
+
+      <aside class="profile-card official-contact-card">
+        <p class="eyebrow">Direct route, if you prefer</p>
+        <h2>Official franchise contact</h2>
+        <div class="status-panel ${verificationStatusClass(brand)}">
+          <strong>${escapeHtml(verificationStatusLabel(brand))}</strong>
+          <span>${escapeHtml(verificationStatusDetail(brand))}</span>
+        </div>
+        <p class="note">These publicly sourced details are provided for your own follow-up. A GetFranchise-managed introduction can give the other party more context first.</p>
+        <div class="contact-list">
+          ${contactEmail ? `<a href="mailto:${escapeAttr(contactEmail)}">${escapeHtml(contactEmail)}</a>` : `<span>Franchisor email needed: no public direct email found in current research.</span>`}
+          ${contactLinks.length ? contactLinks.map((link) => `<a href="${escapeAttr(link)}" target="_blank" rel="noreferrer">${escapeHtml(link)}</a>`).join("") : `<span>No official contact link in current research data.</span>`}
+        </div>
+      </aside>
     </section>
   `;
   bindShortlistButtons();
