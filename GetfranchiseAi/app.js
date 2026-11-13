@@ -307,6 +307,7 @@ const navShortlistCount = document.querySelector("#navShortlistCount");
 const primaryNavLinks = [...document.querySelectorAll(".top-nav a")];
 const menuToggle = document.querySelector(".menu-toggle");
 const primaryNav = document.querySelector("#primaryNav");
+const brandLink = document.querySelector(".brand-link");
 
 const state = {
   allBrands: [],
@@ -376,13 +377,25 @@ function bindMobileNavigation() {
     if (event.target.closest("a")) setMenuState(false);
   });
 
+  brandLink?.addEventListener("click", () => setMenuState(false));
+
+  // A route can also change through a browser Back/Forward gesture. Keep the
+  // compact menu from covering the destination page in that case.
+  window.addEventListener("hashchange", () => setMenuState(false));
+
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") setMenuState(false);
   });
 
-  window.matchMedia("(min-width: 761px)").addEventListener("change", (event) => {
+  const desktopMediaQuery = window.matchMedia("(min-width: 761px)");
+  const closeMenuAtDesktopWidth = (event) => {
     if (event.matches) setMenuState(false);
-  });
+  };
+  if (desktopMediaQuery.addEventListener) {
+    desktopMediaQuery.addEventListener("change", closeMenuAtDesktopWidth);
+  } else {
+    desktopMediaQuery.addListener(closeMenuAtDesktopWidth);
+  }
 }
 
 async function init() {
